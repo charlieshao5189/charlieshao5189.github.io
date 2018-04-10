@@ -80,8 +80,8 @@ theme: 3-hexo
 deploy:
   type: git
 #  repo: git@github.com:charlieshao5189/charlieshao5189.github.io.git
-  repo: https://__GITHUB_TOKEN__@github.com/charlieshao5189/charlieshao5189.github.io.git
-#   repo: https://charlieshao5189:shao13353702868@github.com/charlieshao5189.github.io.git
+#  repo: https://__GITHUB_TOKEN__@github.com/charlieshao5189/charlieshao5189.github.io.git
+  repo: https://charlieshao5189:shao13353702868@github.com/charlieshao5189/charlieshao5189.github.io.git
   branch: master
   
   
