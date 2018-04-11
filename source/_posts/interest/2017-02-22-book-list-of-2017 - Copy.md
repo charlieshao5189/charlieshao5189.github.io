@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 2017 reading list
-category: 读书
-keywords: reading,list
+category: 兴趣
+tegs: reading,list
 ---
 
 ## 人类简史-从动物到上帝 (A brief history of humankind)

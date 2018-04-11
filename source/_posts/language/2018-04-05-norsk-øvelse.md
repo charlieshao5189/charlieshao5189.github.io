@@ -2,7 +2,7 @@
 layout: post
 title: Norsk Øvelse 20180406
 date: 2018-04-05 
-category: 生活
+category: Språk
 tags: nosrsk
 ---
 Hva gjorde du på påskeferie? Hvor dro du?
