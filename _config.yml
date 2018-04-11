@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Charlie Shao's Blog
+title: Charlie's Blog
 subtitle:
-description:
-keywords:
+description: Recording one period of life.
+keywords: 
 author: Charlie Shao
-language:
+language: 中文 Eglish Norsk
 timezone:
 
 # URL
