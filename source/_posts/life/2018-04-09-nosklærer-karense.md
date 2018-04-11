@@ -7,6 +7,81 @@ tags: Karense, norsk, note
 ---
 https://norskna.portfolio.no/read/a435aef9-d71d-4b11-aa46-0ff82fb3d438
 
+#324: Uregelrette verb på B
+ å be-ber-ba/bad-bedt
+ Jeg ba om en kapp kaffe.
+ De ba ofte til Gud.
+ Jeg har bedt deg om å være stille!
+ 
+ å bety-betyr-betød/betydde-har betydd
+ Boka bytydde mye for meg.
+ Nelson mandla har betydd mye for mange mennesker. 
+ 
+ å binde-binder-bandt-har bundet
+ Mora bandt ei sløyfe i håret til dattera si.
+ Hun har bundet en blomsterkrans.
+ 
+å bite-biter-bet/beit-har bitt
+Hunden bet meg i armen.
+Leonora har bitt broren sin.
+
+å bli-blir-ble/blei-har blitt
+Hun ble lege i 2008.
+Det har blitt mange vidoer i Youtuber!
+
+å brekke-brekker-brakk-brukket
+Mangus brakk beinet i går.
+Mormor har brukket lårhalsen.
+
+å brenne-brenner-brant-har brent
+I går brant huset ned.
+Vi har brent gamle dokumenter.
+
+å bryte-bryter-brøt-har brutt
+Det bløt kontakten i fjor.
+Jeg har brutt stillheten ved å snakke om problemet.
+
+å by-byr-bød-har bydd
+Naboen bød oss på kaffe og kaker.
+Jeg har bydd henne på midag, mend hun ute blir.
+
+å bære-bærer-bar-har båret
+Vi bar en sofa opp i andre etasje.
+Mora har båret sønnen sin på armen hver dag.
+ 
+#323: Formelt subjekt DET
+ Setningen har et subjekt.
+ Det uten mening:
+ Det snør.
+ Det er en fin historie.
+ I morgen er det onsdag.
+ I klassrommet er det ei tavle.
+ Utenfor huset er det en garasje.
+ Det går alltid et tog.
+ På bordet ligger det sjokolade.
+ Det med mening:
+ Huset var stort.
+ Det hadde fire soverom.
+ 
+#322:Idiom 47: Sveve i skyene
+Han er så forelsket at han sveve i skyene.
+Etter de vant budrunden på leiligheten, svevde de i skyene lenge.
+
+#321: Idiom 46: Pengene brenner i lomma!
+Hun klarer ikke å spare penger, for pengene hans brenner i lomma.
+Når vi er i ferie, pengene brenner i lomma.
+
+#320: Rett og slett.
+Rett og slett: såm er det faktisk
+Jeg har rett og slett ikke tid til å komme fordi jeg ikke har barnevakt.
+Hun er rett og slett en fantastisk kollega!
+I vinter har det rett og slett snødd for mye.
+Han er sint på deg, rett or slett.
+Jeg måtte rett og slett forklare dett uttrykket!
+
+Kan du skrive en setning med rett og slett?
+Jeg synes at du er den beste norsk læreren, rett or slett
+
 #319: Ikke si BRA til alt!
 
 Smak:
