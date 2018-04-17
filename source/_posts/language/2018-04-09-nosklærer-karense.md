@@ -150,6 +150,131 @@ Greit
 Kjempefint
 Herlig
 
+# 318:desto, til tross for, nemlig, uansett, skikkelig, liksom...
+desto                 the
+til tross for         despite
+nemlig                in fact
+uansett               regardless
+skikkelig             proper
+liksom                like
+
+Desto mer/midre/bedre
+Jo før, desto bedre!
+Det are desto bedre om du kan komme tidlig.
+Desto mer bråk det er.
+Desto mindre glad blir naboen.
+
+Til tross for: selv om
+Til tross for økonomiske, problemer klarte hun å reise på ferie med familien.
+Hun fikk ikke B2 til tross for at hun hadde student hardt.
+
+Nemlig: poengtere, understreke
+Han kommer ikke for han er nemlig syk.
+Vi har ytringstrihet i Norge.
+Ja, nemlig!
+I morgen er det nemlig fri! 
+
+Uansett: uavhegig
+Jeg elsker ham uansett.
+Jeg skal uansett gå på kanserten, selv om det regner.
+Kommer du uansett på fredag?
+
+Skikkelig: veldig/ordentlig
+Denne kaka er skikkelig god!
+Sønnen hennes er skikkelig.
+Martin kjørte skikkelig fort!
+Han fikk en skikkelig utdannelse.
+
+Liksom: på samme måte
+Du er liksom som ei søster.
+Dette er liksom 17.mai!
+Jeg har liksom ikke så god råd, da!
+
+I det hele tatt: voer hodet ikke
+Jeg så ikke nordlys i det hele tatt da jeg var i Tromsø.
+Du ser ikke frisk ut i det hele tatt!
+
+Imidlertid: likevel
+Det viste seg imidlertid at passet var falskt.
+Mange har søkt på jobben, imidlertid har vi ikke funnet rett kandidat.
+
+Dog: likevel
+Vi har mye julemat til overs, dog vi ikke orker mer.
+Man kan si det var dårlig gjort, dog hun ikke mente det.
+
+# 315 70 verb med opp
+
+1. vaske opp: kopper, tallerkner
+2. si opp: slutte i jobben
+3. slutte opp: stoppe
+4. lese opp: lese høyt 
+5. reise seg opp: fra stolen
+6. stå opp: fra senga
+7. ringe opp: ringe/ring tilbake
+8. skrive opp: notere ffor å huske
+9. sjette opp: 1)sjette info 1) romantisk
+10. klatre opp: på et fjell/i et tredre
+11. brenne opp: brenne alt
+12. spise opp: all maten
+13. rive opp: åpne for fort
+14. bryte opp: ei dør/en lås
+15. holde opp: 1) holde noe høyt 2)stoppe
+16. ramse opp: nevne mange ting
+17. finne opp: nye ting
+18. semlle opp: bygge for fort
+19. ta opp: 1)med diktafon 2) snakke om noe konkret
+20. sprette opp: åpne champagne
+21. skjære opp: skjøre noe i biter
+22. gi opp: orker ikke mer -> slutter
+23. stase seg opp: pynte seg
+24. myte opp: gjøre mytere
+25. sette opp: 1)teater 2)på veggen, plakater
+26. bakke opp: støtte
+27. live opp: gjøre gladere, fristere
+28. slå opp: avslutte kjæresteforhold
+29. lyse opp: gjøre lysere
+30. kutte opp: dele i små biter
+31. henge seg opp i: ikke komme videre
+32. bruke opp: det er tomt
+33. fyke opp: bli sint plutselig
+34. fare opp: bli sint, reise seg
+35. følge opp: holde øye med
+36. kaste opp: spy
+37. presse opp: øke
+38. muntre opp: gjøre andre glad
+39. stille opp: vøre der for andre
+40. stykke opp: dele i stykker
+41. hovne opp: forstuet
+42. skritte opp: telle ved skritt
+43. hope seg opp: for mye å gjøre
+44. komme opp: 1) fysisk opp 2) bli behandlet
+45. krappe opp: øke
+46. gjøre opp: bli skuls
+47. tårne seg opp: mye
+48. friske opp: gjøre friskere
+49. snappe opp: få meg seg info
+50. gå opp: 1) fysisk 2) øke(priser)
+51. dukke opp: komme uten varsel
+52. fø opp: gi nøring til
+53. rette opp: korrigere
+54. pusse opp: dekorere på nytt
+55. lade opp: fullt
+56. skru opp: lyd
+57. kvikke opp: gjøre mer glad
+58. tø opp: ikke være så sjenert
+59. rette seg opp: rett i ryggen
+60. skyte opp: raketter
+61. jekke opp: en bil
+62. ende opp: resultat
+63. rekke opp: få tak i noe oppe
+64. tanke opp: bensin på bilen
+65. vokse opp: barndom
+66. slippe opp for: tomt
+67. dikke opp: fantasi
+68. sperre opp: øynene
+69. trekke opp: do
+70. ardne opp: fikse
+
 # 269:
 Ord og uttrykk med svin og gris:
 
