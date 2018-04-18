@@ -6,6 +6,59 @@ category: 生活
 tags: Karense, norsk, note
 ---
 https://norskna.portfolio.no/read/a435aef9-d71d-4b11-aa46-0ff82fb3d438
+# 330: Å snakke med nordmenn. Samtalestartere
+Temaer:
+-Hvor bor du?
+-Hva gjør du? jobb/studier
+-Hvordan bor du?
+-Driver du med idrett?
+-Reiser/hyttetuer
+-Mat du har laget/spist
+-Steder du har vært
+-Lokalsamfunnet
+-Transport til/fra jobb
+-Været
+-Nyheter, har du sett
+nyhetene i dag,hørte du hva de sa på radioen om...
+
+# 329: Spørsmål uten spørreord
+STRUKTUR:
+VERB  SUBJ   OBJ/ADVERB
+Har   han    bil?
+
+VERB  SUBJ ikke  OBJ/ADVERB
+Ser   du   ikke  bussen?
+
+MODALV. SUBJ VERB OBJ/ADVERB
+Må       vi  svømme nå?
+Kan      Nina spille gitar?
+
+MODALV. IKKE SUBJ VERB OBJ/ADVERB
+Skal    ikke  jeg  job  i dag?
+
+Bor han i Ålesund?
+Kjøper du mat?
+Spiser du ikke kjøtt?
+Kan hun ikke snakke norsk?
+
+
+# 328: Skal vi se!
+Skal vi se: når vi sjekker noe.
+
+Har du disse skoene i størrelse 38?
+Tja, skal vi se... 
+
+Hor er bussholdeplassen?
+Skal vi se... Der borte!
+
+Har du en pen?
+Skal vi se...
+
+Når begynner kurset?
+Skal vi se... klokka 9.
+
+Hva heter damme i kiosten?
+Hmm, skal vi se... Lise!
 
 # 327: Spørreord
 STRUKTUR:
