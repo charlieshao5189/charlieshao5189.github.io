@@ -763,8 +763,11 @@ Hvem følger med deg på reisen?
 
 
 # 78: Kjørlighet på norsk: Jeg elsker deg! Jeg er glad i deg!
-
-
+Jeg elsker deg, min kjøre!
+Jeg er glad i deg, min venn!
+Hun elsker taco!
+Han er glad i taco.
+Han elsker henne,men hun elsker en annen.﻿
 
 # 39:
 Å gå - går - gikk - har gått  =  walk by feet   
