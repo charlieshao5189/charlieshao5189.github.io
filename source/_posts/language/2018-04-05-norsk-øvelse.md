@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Norsk Øvelse 20180406
-date: 2018-04-05 
+title: Norsk Øvelse 20180412
+date: 2018-04-0
 category: Språk
 tags: nosrsk
 ---

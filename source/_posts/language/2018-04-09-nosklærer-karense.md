@@ -7,6 +7,71 @@ tags: Karense, norsk, note
 ---
 https://norskna.portfolio.no/read/a435aef9-d71d-4b11-aa46-0ff82fb3d438
 
+# 327: Spørreord
+STRUKTUR:
+Hva heter du?
+Spørr verb. sub.
+Hvor jobber han?
+
+Hvorfor spiser du ikke fisk?
+Spørr    V      S ikke O
+Hvorfor spiser ikke du fisk?
+Spørr    V     ikke S   O 
+Hva sier vi ikke til lærere?
+
+Hva: Hva er det?
+Hvem: person
+Når: ti
+
+Hvor: HER SPANIA DER
+Hvordan: kommer du hit?
+Hvorfor: spiser du ikke fisk?
+
+Hviken: EN + Ei
+Hviken bil er din?
+Hviken bok leser du?
+
+Hviket: et
+Hvilket hus er ditt?
+
+Hvilke: 2+
+Hvilke filmer ser du?
+
+# 326: Ting du IKKE bør si stil nordmenn
+Du ser sliten ut i dag!
+Oi! Du har blitt tjukk!
+Har du barn?
+Er du gift?
+Er du syk? Du ser syk ut.
+Er du gravid?
+Du er for tynn! Spise mer!
+Du er veldig hvit!
+Hvorfor har du ikke barn?
+Du er så høy!
+Du er veldig stor!
+Har du lagt på deg?
+Har du gått opp i vett?
+Hvorfor er du alene?
+Hi kjære.
+Jeg elsker deg!
+Hvor mye tjener du?
+Kan jeg få nummeret ditt?
+
+emner om kroppsfasong og fammilien
+
+# 325: ø eller å
+lønn  lån
+løs   lås
+høre  håret
+sør   sår
+støl  stål
+øre   åre
+mør   mår
+øl    ål
+øse   åse
+
+
+
 # 324: Uregelrette verb på B
  å be-ber-ba/bad-bedt
  Jeg ba om en kapp kaffe.
@@ -638,7 +703,7 @@ Vanlige feil:
 2. Du kjører treg.
 3. Bussen er langsomt.
 
-158: 
+# 158: 
 PASSIVE
 
 1.Med av
@@ -677,7 +742,7 @@ Hun var slått.
 
 
 
-137:
+# 137:
 Dra eller reise?
 like ulike forskjellige.
 
@@ -696,7 +761,12 @@ Har du reiseforsikring?
 Nina har reiserfeber.
 Hvem følger med deg på reisen?
 
-39:
+
+# 78: Kjørlighet på norsk: Jeg elsker deg! Jeg er glad i deg!
+
+
+
+# 39:
 Å gå - går - gikk - har gått  =  walk by feet   
 wrong: gå til Kina/UK
 Å dra - drar - dro -har dratt 
