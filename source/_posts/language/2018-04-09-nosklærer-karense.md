@@ -6,6 +6,68 @@ category: 生活
 tags: Karense, norsk, note
 ---
 https://norskna.portfolio.no/read/a435aef9-d71d-4b11-aa46-0ff82fb3d438
+# 334: i forhold til, når det gjelder, poenget er utgangspunktet er
+i forhold til: 
+3 måter: 
+sammenligning
+preposisjon
+tekstbinding
+
+sammenligning:
+Hun er lav i forhold til alderen sin.
+Antallet av deltakere som får B2 skriftlig, er lavt i forhold til antallet som tar prøven.
+
+preposisjon:
+Hvor ligger butikken i forhold til stasjonen?
+Maleriene skal henges opp i forhold til hverandre.
+
+teskstbinding:
+Sjeldent brukt.
+Det finnes ofte bedre alternativer: med tarke på, når det gjelder, det som gjelder er....
+
+Når det gjelder: sak/tema
+Når det gjelder klager på bråk, må du henvede deg til styret i borettslaget.
+Når det gjelder konflikten på jobben, snakker du med veneom budet.
+Når det gjelder ski, har jeg mye kunnskap.
+
+Poenget er: hva er viktig?
+Poenget er at jeg ikke kommer der som møtet er på en onsdag, for da har jeg fri.
+Poenget er disse vidoene er å løre dere mer norsk.
+Poenget med EL-bil er å skåne miljøet.
+
+Utangspunktet er: start
+Utangspunktet er at vi har 50 000 kroner som er satt av til lete apparater.
+Utangspunktet er at dere kommer med ideer til hva jeg kan lage videoer om.
+
+# 333: Ord med -messig: forholdsmessig regelmessig, fagmessig
+-messig: om et tema
+Fagmessig tenger vi flere bøker.
+Det er ikke fornuftsmessig å kjøpe ei veske til 10.000!
+Kontaraktsmessig har hun 3 måneders oppsigelse, men kanskje hun kan går før hvis sjefen tillater det.
+Karrieremessig går det vledig bra med Tom, men kjærlighetsmessig går det veldig dårlig.
+Norsk grammatikk er forholdsmessig vanskelig. 
+De trener regelmessig.
+Norsk er språkmeesig ganske vanskelig.
+Helsemssig er det bra å berege seg hver dag.
+
+# 332: Idiom nummer 49 Å miste piffen
+Å miste piffen:
+miste motivasjon,lyst,vilje, energi
+
+Hun miste piffen da hun ikke fikk jobben.
+Jeg har mistet piffen!
+Sjefen sa nei til å starte prosjektet, og de ansatte mistet piffen helt.
+Har du noen mistet piffen?
+
+# 331: Idiom nummer 48 Nå blir det andre boller!
+
+Nå blir det andre boller! = forandring
+
+Ole blir leder, så nå blir det andre boller.
+Når blir det andre boller, for vi har begynt å trene hver uke.
+Det ble andre boller da hun begynte å spille håndball profesjonelt.
+Når blir andre boller, for du begynte job.
+
 # 330: Å snakke med nordmenn. Samtalestartere
 Temaer:
 -Hvor bor du?
