@@ -31,4 +31,4 @@ Like du det?
 
 3. Hva gjøre du på fritiden?
 
-
+4. Hva gjøre du på i går/i morgen/forrige helg/denne helgen?
