@@ -330,7 +330,7 @@ Greit
 Kjempefint
 Herlig
 
-# 318:desto, til tross for, nemlig, uansett, skikkelig, liksom...
+# 318: desto, til tross for, nemlig, uansett, skikkelig, liksom...
 desto                 the
 til tross for         despite
 nemlig                in fact
@@ -381,6 +381,49 @@ Mange har søkt på jobben, imidlertid har vi ikke funnet rett kandidat.
 Dog: likevel
 Vi har mye julemat til overs, dog vi ikke orker mer.
 Man kan si det var dårlig gjort, dog hun ikke mente det.
+
+# 317: Lukke eller stenge?
+
+Stenge: avslutte/avbryte
+stenge butikker, sykehus, skoler, bar, kjøpesenteret, krana, veier, landegrenser, fabrikker, produksjon, vannet.
+Skolen er stengt fra 21.6-20.8.
+Du må stenge vannkrana.
+Veiene er stengte.
+Grensa til Europa er stengt.
+Fabrikken skal stenges.
+Sykehuset er stengt.
+Butikken er stengt på søndag.
+Steng av vannet!
+
+Lukke: stenge noe med hengsler, to deler som er sammen: skapt, skuffen , døra, vinduet, porten, boka, øynene, munnen.
+Lukk døra etter deg!
+Vi må lukke vinduet.
+Vi lukker øynene når vi sover.
+Lukk munnen din!
+Nå må du lukke boka og skrive det du husker.
+Lukk igjen skapet.
+Er skuffen lukket?
+Lukk google chrome.
+Vi lukker øynene når vi ikke vil se, ørenen når vi ikke vil høre, munnen nå vi ikke vil snakke, og hjertet når vi ikke vil elske.
+
+# 316: Om nordmenn og været
+Huff, så kaldt det er i dag!
+Nå synes jeg det har snødd nok!Det holder!
+Det er meldt plussgrader til helga!
+Nå synes jeg snøen bør smelte snart.
+Det er veldig glatt nå.
+Du bør bruke brodder nå du går ute om vinteren.
+Det er spådd fint vær til uka!
+Skal det snø nå igjen?
+Tenk om det blir flom når snøen smelter!
+Det var 20 blå da vi var på hytta!
+
+kuldegrader/minusgrader/blå
+varmegrader/plussgrader
+Det snør/det skal snø/det snødd.
+Det regner/skal regene/regnet.
+Det er sol/varmt/deilig vær.
+
 
 # 315 70 verb med opp
 
