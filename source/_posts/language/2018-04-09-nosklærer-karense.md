@@ -498,7 +498,125 @@ Det er sol/varmt/deilig vær.
 69. trekke opp: do
 70. ardne opp: fikse
 
-# 269:
+# 314: Adjektiv med substantiv
+Valig bøyningsmønster:
+en fin bil --- to fine biler
+ei kul veske --- to klue vesker
+et stor hus --- to store hus
+
+Med demostarativer:
+den/denne fine bilen.
+de/disse fine bilene.
+den/denne kule veska.
+de/disse kule veskere.
+det/dette store huse.
+de/disse store husene.
+
+Med eiendomspronomen:
+min fine bil
+mini fine biler
+mi klue veske
+mine kule vesker
+mitt stroe hus
+mine store hus
+
+den fine bilen min.
+de fine bilere mine.
+
+# 313: Å greie - å være grei - en greie
+Greit!
+
+å greie:
+Han kan greie eksamen.
+Jeg greier å lage godd mat.
+I går greide jeg å løpe 10km!
+Jeg har greid å lage mange videoer.
+
+å være grei: hyggelig, snill, vennlig
+Morten er en grei kollega.
+Takk for at du var så grei.
+I går da jeg fikk skyss hjem!
+Jeg skal være grei og gi deg rabatt.
+
+en greie: en ting/en sak
+Jeg har en greie du skal få.
+Hun kjøpte noen greier på salg.
+Har du de greiere du lånte av meg?
+De har en greie.(udefinert forhold)
+
+grei: adjektiv: OK
+Saken er grei.
+Det er greit!(=OK, ikke "great")
+Jeg synes det er greit at banna legger seg innen kl 20.00.
+
+Valige feil:
+Filmen var så greit!
+Du ser greit ut.
+
+# 312: Fersk eller frisk?
+Frisk: ny, fresh
+luft, duft, tanker, energi, friskt blod, friskt barn, farger.
+Det er godt med frisk luft!
+Hun har friskt blod og bidrer.
+Positivt med nye ideer! Jeg er frisk!
+
+Vi bruker friske urter i maten.
+Nina kjøper alltid friske blomster.
+Barna mine er friske!
+Jeg er frisk som en fisk!
+Han er en frisk type.
+
+Fersk:ny, nettopp laget
+grønnsaker, frutt, kjøtt, fisk, vann, nyheter, rapport.
+Vi bruker alltid ferske grønnsaker.
+Ferskt kjøtt er best.
+I elvene er det ferskvann.
+Det er rykende ferske nyheter på vg.no nå.
+Dette er en fersk rapport.
+Er frukten fersk?
+Hun lagde fersk pizza till oss.
+Fersk mat snaker nydelig!
+
+Fersk eller frisk?
+Fersk: nyheter kylling foredrag biff tomater egg
+Frisk: ideer tanker barn blod parfyme farge
+
+# 311: Vær så god og vær så snill
+Vær så god: vi gir noe, tilbyr noe
+Ta en bolle! Vær så god!
+Vær så god, her en maten!
+Gå først du, vær så god!
+
+Vær så snill: ber om noe, ønsker noe
+Kan jeg få ny sko mamma, vær  så snill!
+Vær så snill og hær på meg!Jeg kan ikke gi deg mer penger.
+
+Kand du være så snill å hjelpe meg med å flytte?
+Vær så sinll, jeg ber deg.
+Kunne du være så snill å levere dnne pakken for meg!
+
+# 310: Plassering av verb i adverb
+Tidsadverb
+Da jeg var barn, lekte jeg.
+Hver morgen jeg går til jobb, hører jeg på musikk.
+Når jeg studere, er jeg fokuset.
+
+Stedsadverb
+På restauranten som ligger i sentrum, jobber Martin.
+I byen jeg bor i, har vi mange butikker.
+Der jeg kommer fra, har vi sol.
+
+Betingede adverb
+Hvis du har tid, kommer du.
+Dersom han får jobben, bli han lykkelig. 
+Hvis de vinner kampen, skal vi danse hele natta!
+
+Vanlig feil:
+Da var jeg barn,
+Når spiser jeg frokost, jeg er.
+
+
+# 269
 Ord og uttrykk med svin og gris:
 
 Gris/svin: husdyr i Norge
