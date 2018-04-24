@@ -615,6 +615,91 @@ Vanlig feil:
 Da var jeg barn,
 Når spiser jeg frokost, jeg er.
 
+# 309: En time på norsk
+En time: 60 minutter
+En legetime: 15 minutter
+En tannlegetime: 30-90 minutter
+En verkstedtime: 3 timer?
+En skoletime: 45 minutter
+En kiropraktortime: 10 minutter
+En time hos UDI/politi: 5 min til 2 timer
+En time hos NAV: 15 min
+En frisørtime: 30-90 min
+En time til operasjon: 1 time eller hele dagen
+Gruppetime: 55 minutter
+En time til fotograferrring: 4 min til 20 min
+
+# 308: Årstall og hvordan vi sier dem
+2001 - to tusen og en
+2010 - to tusen og ti / tjue ti
+1921 - nitten tjue en / nitten en og tjue
+1836 - atten tretti seks / atten seks og treti
+1747 - søtten førti sju / søtten sjue og førti
+1654 - seksten femti fire / seksten fire og femti
+1569 - femten seksti ni / fmeten ni og seksti
+1977 - nitten søtti sju / nitten sju og søtti
+
+Når ble du født?
+Jeg ble født i nitten nitti.
+
+# 307: Takk for meg.
+Du sier takk for:
+- at du fikk komme
+- at du fikk være med
+Du sier dette nå du skal si ha det.
+
+# 306: Idiom 45: Å ha en finger med i spillet
+Foreldrene hans hadde en finger med i spillet da han skulle kjøpe bil.
+Så deilig kake du har laget! Vel, min søster har en ginger med i spillet.
+
+Kollega min hadde en finger med i spillet da jeg job i dette prosjektet.
+
+# 305: Idiom 44: Å legge seg flat
+Han la seg flat da han ble avslørt for korrupsjon.
+Beklager at jeg har vært uærlig, jeg legger meg flat!
+
+Nå vet jeg at du er rett, jeg legger meg flat.
+
+# 304: B1-B2 Klagebrev noskprøve
+Klagebre
+
+Kommunen skal bygge et søppelanglegg rett ved der du bor. Du og mange naboer er opprørte og ønsker selvfølgelig ikke at dette skal skje. Skriv et klagebrev til kommunen om saken.
+
+Til Haram Kommuen
+
+Klage på beslutning om å bygge søppelanlegg
+
+Jeg og mange av mini naboer fikk en kommunal beskjed om at dere skal byge et søppelanlegg rett ved vår bygd. De fleste av oss er misfornøyde med deres plan. For det første, bor det mange barn her på bygda som både leker mye ute på lekeplassen, og går på beskøk til sine venner. Å ha et søppelanlegg rett ved siden va området vårt, kan både skape mye trafikk og støy som kan prege barna våre. Dessuten kan søppelet spre vond luft over hele bygda. Sist, men ikke minst, vil det i fremtiden ikke vøre attraktivt for nye folk verken å leie ut eller å kjøpe bosted i dette området. Om Dere gå for å bygge dette søååelanlegget, kommer jeg, og mange av mine naborer dermed til å sele våre eiendommer, og glytte her ifra. Det vil bety at i alle taper, for dere kommer ikke til å ha interesserte innflyttere, og vi som selger, vil sannsynligvis tape på salgsprisen.
+
+Både jeg og mine naboer håper virkelig at dere ta hensyn til de dårlige konsekvensene dette vil medføre dersom denne planen får giennomslag, og at dere finner på en løspling som ikke fører til så store skader for innbyggerne.
+
+Med vennlig hisen
+
+M.A.
+
+# 303: Feil bruk av ordet MYE
+Mye: mengdeord/kvantor
+for utellelige substantiver
+Jeg drikker my kaffe.
+Han har mye snø i hagen.
+I helga er det meldt mye regn.
+
+Fiel bruk av Mye: forsterke
+Jeg liker kanalen din (mye) godt.
+Kaka var så (mye) god.
+Han elsker henne (mye) høyt.
+De savner hjemlandet (mye) veldig.
+
+Mye -> mange: kvantor
+Hun har (mye) mange venner.
+Jeg har (mye) mange problemer.
+Karense lager (mye) mange videoer på Youtube.
+
+# 302: WOW!!25000+ følgere og 300+ videoer!!!
+Gratulerer, tusen takk for din hjelpe!
+
+# 301: B1-B2 norskprøve eksempler på skriftlige oppgaver
+
 
 # 269
 Ord og uttrykk med svin og gris:
