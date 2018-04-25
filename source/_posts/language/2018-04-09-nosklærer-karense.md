@@ -6,6 +6,65 @@ category: 生活
 tags: Karense, norsk, note
 ---
 https://norskna.portfolio.no/read/a435aef9-d71d-4b11-aa46-0ff82fb3d438
+# 337: Hva er RUSS?
+RØDRUSS 
+BLÅRUSS
+SVARTRUSS
+GRØNNRUSS
+ROSARUss
+
+Russ: despositurus
+Ung student som skal gjennomgå ritualer før han/hun kommer inn på universitettet.
+russefest
+russebuss
+russebil
+russedress
+russekort
+russekull
+russeknute
+russelue
+russedåp
+russefrokost
+russefering
+russetog
+russepresident
+russelege
+russelåt
+russetale
+russerevy
+russetid
+russefløyte
+russetreff
+russe-ID
+
+Chikkelakke, Chikkelakke
+Show show show
+Bommelakke, bommelakke
+bow bow bow
+Chikkelakke, bommelakke
+Jazz bom bø. Jule kaka,
+Julekaka, hjemmebakt brød.
+
+# 336: Uregelrette verb på D
+Å dette - detter - datt - har dettet.
+Han datt på isen.
+Nina har dettet og må dra til legevakta.
+Å dra - drar - dro - har dratt
+Han dro i går.
+Har du dratt å ferie alene før?
+Å drite - driter - dreit - har dritet/dritt/driti
+Jeg dreit i hva mine foreldre sa og reiste.
+Hunden min har dritt!
+Å drikke - drikker - drakk - har drukket
+Hva drakk du i går?
+Hvis du har drukket for mye, er du full.
+Å drive - driver - drev/dreiv - har drevet
+Hva dreiv du med da du bodde i hjemlandet?
+Fredrik har drevet en butikk.
+
+# 335: Det norske alfabetet
+A B C D E F G H I J K L M N O(o,u) P Q R S T U(u¨,u) V W X Y Z Æ Ø Å
+
 # 334: i forhold til, når det gjelder, poenget er utgangspunktet er
 i forhold til: 
 3 måter: 
