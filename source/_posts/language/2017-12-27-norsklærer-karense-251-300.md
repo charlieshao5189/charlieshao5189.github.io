@@ -41,8 +41,56 @@ Bilene kjører veldig fort på veien der barna går til skolen. Fartsgrensen er 
 
 Matprisene i Norge er ganske høye sammenlignet med andre land. Hva synes du om de høye matprisene?
 
+# 299: Eksempler på A1-A2 skriftlige oppgaver
+**Oppgave 1** - skrive en melding
+Du er syk og kan ikke komme på jobb. Skriv en melding til sjefen din.
+Du kommer for sent til et møte. Skriv en meding din kollega.
+Dettera di fyller 5 år. Skriv en busdagsinvitasjon til vennene hennes.
+Du tar bussen klokka 5 istedenfor klokka 16.45. Skriv en melding til vennen din om at du blir litt sen.
 
-# 269
+***Oppgave 2*** - beskrive et bilde(50-80 ord)
+A1: Enkled setninger. Stor bokstav og punktum.
+A2: Bruk av adjektiver. Litt lengre setninger. Stor bokstav og punktum.
+
+***Oppgave 3*** - fortelle om et kjent tema (for A2 bør du skrive minst 80 ord på denne oppgaver)
+skriv om en god venn.
+Skriv om leiligheten din.
+Skriv om tekst om en fin dag.
+Skriv om hva du liker å se på TV.
+Skriv om mat du liker å spise.
+Skriv om et sted du vil reise til.
+Skriv om en jobb du har hatt.
+Skriv om et yrke du kjenner.
+Skriv om transportmulighetene der du bor.
+Skriv om hvordan du best lærer norsk.
+Fotell om en skole du har gått på.
+
+# 298: Takk for sist!
+Takk for sist, det var hyggelig!
+Takk for sist! Dro du sent hjem?
+Takk for sist! Lenge siden!
+Står til? Jo, takk for sist!
+
+# 297: Norsk uttale franske ord med NT
+restaurant
+interessant
+abonnement
+engasjenment
+kompliment
+departement
+reglement
+arrangement
+assortiment
+aksent
+
+# 296: Setningsstruktur i leddsetninger 
+
+# 295: Hvordan du kan bruke min YouTube Kanal
+
+# 294: Setningsstruktur i helsetninger
+Håndbok i grammatikk og språk
+
+# 269: 
 Ord og uttrykk med svin og gris:
 
 Gris/svin: husdyr i Norge
