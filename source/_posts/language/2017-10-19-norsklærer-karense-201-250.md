@@ -2,7 +2,7 @@
 layout: post
 title: Norsklærer Karense Youtube Video Notes 201-250
 date: 2017-10-19
-category: 生活
+category: Språk
 tags: Karense, norsk, note
 ---
 

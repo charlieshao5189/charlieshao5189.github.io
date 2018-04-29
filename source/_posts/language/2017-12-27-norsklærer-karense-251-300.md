@@ -2,7 +2,7 @@
 layout: post
 title: Norsklærer Karense Youtube Video Notes 251-300
 date: 2017-12-27
-category: 生活
+category: Språk
 tags: Karense, norsk, note
 ---
 # 300: Eksempler på A2-B1 skriftlige oppgaver
@@ -83,17 +83,64 @@ arrangement
 assortiment
 aksent
 
-# 296: Setningsstruktur i leddsetninger 
-
-# 295: Hvordan du kan bruke min YouTube Kanal
-
 # 294: Setningsstruktur i helsetninger
 Håndbok i grammatikk og språk
+
+
+
 
 # 269: 
 Ord og uttrykk med svin og gris:
 
 Gris/svin: husdyr i Norge
+sofagris: sitter mye i sofaen
+stuegris: er mye inne
+svinesti: rotete hus
+grisetryne: stygt ansikt
+
+grisete: ikke rent
+svinete: ikke rent
+griseri/svineri: noe ekkelt/dårlig
+svindyrt: veldig dyrt
+svinbilig: veldig billig
+
+å ha griseflaks: Hun hadde griseflaks da hun vant i lotto.
+griseheldig/bra/dårlig/fin/deilig
+
+å grise/å svine: ikke vaske eller ryddeuhygienisk!
+Barna griset på bordet og etter på måtte de vaske!
+
+å svette som en gris:
+Du svetter mye!
+Svinaktig godt: veldig godt!
+Grisebinge: rotete hus
+
+Ikke kaste perler for svin.
+Å ha svin på skogen.
+
+Er du en sofagris?
+Jeg er en sofagris på hver fredag kveld fordi jeg liker å se på filmer.
+Har du hatt griseflaks før?
+Jeg hade griseflaks da jeg fikk jobb i Norge.
+
+# 268: 
+
+Å trives
+ å trives: Vi bør trives her.
+ trives: Jeg trives i Norge. Jeg trives i Oslo.
+ trivdes: De trivdes på landet.
+ har trivdes: Han har trivdes godt i jobben.
+ å vantrives: ikke triveds
+
+Hvordan trives du her i Norge? Jeg trives godt, men det er kaldt.
+Trivdes du ikke i jobben.
+Nei, og derfor sluttet jeg. Jeg trives med høyt arbeidstempo.
+Familien har trivdes godt i Drammen, men nå ønsker de å bo i Oslo.
+Trives du i Norge?
+Trives du i boligen din?
+Trives du på skolen?
+Trives du på jobb?
+Trives du med å lære norsk?
 sofagris: sitter mye i sofaen
 stuegris: er mye inne
 svinesti: rotete hus
@@ -238,54 +285,6 @@ ET: annet
 Jeg har et annet problem jeg må diskutere først.
 Skal vi heller se på et annet skap?
 2+: andre:
-Ve har noen andre filmer som du kan låne hvis du vil.
-Jeg har mange andre venner som ikke dirkker.
-
-Tallord: annen/andre
-Første, andre, tredre
-Dette er andre/annen gang du er forsinket!
-
-Pronomen:
-Han var ikke some andre.
-Du må ta hensyn til andre som vil at det skal være stille på bibliotek.
-
-Adjektiv:
-1)ikke det samme:
-Jeg vill snakke om noe annet.
-2)ikke det samme som sbujekt
-Du må tanke på hva andre sier om deg! 
-3) flere av samme typen
-Vi spiste brownies, eplekake og andre deilige kaker.
-4) ikke den første av to
-Jeg likke den andre boka bedre enn den første.
-
-# 262:
-Jet vet ikke om
-
-Jeg vet ikke om jeg kan komme i morgen.
-Jeg vet ikke om jeg besto B2 på skriftlig.
-De er ikke sikre på om TVen fungerer.
-Jeg har ikke peiling på om hun bor her nå.
-Jeg vet ikke om du forstår?
-
-# 261:
-Enig med, enig i eller enig om?
-
-Enig med: noen/gruppe
-Jeg er enig med deg.
-Hun er enig med ledelsen om ar hun skal gå.
-Mange er enige med AP.
-
-Enig i: en sat
-Jeg er enig i at asylbarna må få opphold i Norge.
-De er enige i at vi må komme med høyere avgifter på diesel og bensin.
-
-Enig om: noe vi har diskutert
-Vi er enige om at barna må legge seg senest kl8.
-Borettslaget er enig om at de må utvide parkeringsplassen.
-
-# 260:
-Kalle/kalles
 hete
 
 Hete: ha et navn eller en betegnelse

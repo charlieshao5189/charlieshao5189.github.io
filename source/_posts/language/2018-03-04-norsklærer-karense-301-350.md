@@ -2,7 +2,7 @@
 layout: post
 title: Norsklærer Karense Youtube Video Notes 301-350
 date: 2018-03-04
-category: 生活
+category: Språk
 tags: Karense, norsk, note
 ---
 337: Hva er RUSS?
