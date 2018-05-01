@@ -5,7 +5,37 @@ date: 2018-03-04
 category: Språk
 tags: Karense, norsk, note
 ---
-337: Hva er RUSS?
+Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
+
+
+# 341: Norskprøvene resultater og statistikk
+
+Norskprøvene Statistikk:
+http://status.vox.no/webview/index.jsp?headers=virtual&virtualsubset=A1_value+-+UnderA1_value&v=2&stubs=Sted&stubs=Tidspunkt&stubs=Prvetype&Prvetypesubset=1+-+4&measure=common&Stedsubset=23%2C1+-+24&measuretype=4&study=http%3A%2F%2F10.36.88.50%3A80%2Fobj%2FfStudy%2Fnorskinnvandrere-prover-resultatfylkekommune&language=no&cube=http%3A%2F%2F10.36.88.50%3A80%2Fobj%2FfCube%2Fnorskinnvandrere-prover-resultatfylkekommune_C1&Tidspunktsubset=20142+-+20173&mode=cube&top=yes
+
+Karense Videoer om Norskprver B2:
+https://www.youtube.com/results?search_query=norsk+l%C3%A6rer+karense+b2+norskpr%C3%B8ve
+
+# 340: Om skattepengene våre
+https://www.ssb.no/offentlig-sektor/faktaside/slik-brukes-skattepengene
+
+# 339: Norskprøve nivå B2 skriftlig oppagve om kjøttforbruk
+Bør vi spise mindre kjøtt?
+
+I det siste 
+
+# 338: Norskprøve nivå B2 skriftlig oppgave om kropp og helse
+Det er flere voksen og barn som *er overvektige i dag*. Samtidig er det *dyrt å spise sunt*. Hva mener du *staten kan gjøre med saken*? Hvem har ansvar for folks helse? Skriv dine tanker om dette og drøft løsninger på problemene.
+
+Økende overket blant flere voksene og barn er en bekymringsfull, og negativ utvikling som er i vinden. En dårlig livstil, og et lite bidrag fra staten, kan være med på å påvirke helsa vår negativt. Her skal det drøftes hva som kan gjøres for å ta fatt i dette problemet, og hvem som er ansvarlig for å sette tiltakene i verk.
+
+De fleste voksne har utfordringer med livstil. Disse utfordringene gjelder kosthold, og å få nok mosjon. Når vi snakker om livesstil, snakker vi om faktorer som enten har gode eller dårlig effekter på helsa vår. En del folk har for lite inntak av helsefremmende næringsstoffer, som for eksempel frukt, grønnsaker og fiber. Istedenfor får de i seg- mettet fett, og sukkerholdige matvarer. Samtidig er dyrt å spiser sunt i Norge. De fleste sunne matvarer er ganske dyre sammenliknet med dem som er mindre sunne. En til problemstilling handler om å trene eller bevege seg. De eller fleste i arbeidslivet sliter med tidsklemmen, særlig de som i tillegg er forelder. Nesten alle norske foreldre har mange baller i luften, og tiden strekker ikke til når man må prioritere arbeids og familieliv, husarbeid, matlaging, samt at noen at de foreldrene må i tillegg alt dette, ta studier ved siden av arbeid.
+
+Velferdsstaten har et stort ansvar for å fremme folkehelse ved å gi råd og veiledning, men dette betyr ikke at å drive med helseopplysningskampanjer er nok. Jeg tenker at myndighetene har et samfunnsansvar for å legge til rette for at folk skal ta gode valg. Med dette mener jeg altså at de kunne for eksempel, redusere prisen på sunnere matvarer eller i det minste øke prisen på de som er mer usunne, nettopp som de gjorde på godteri, og burs i år. Videre er nok bevegelse av stor betydning for helsa. Her kunne staten bidra litt. Å subsideiere treningskort på treningstudio kan være en måte å gjøre det på.
+
+For å oppsummere vil jeg fremheve at statens ansvar er å legge til rette for både fysisk aktivitet, og for at folk skal velge å leve sunt, men det er absolutt opp til den enkelte å sette tilltakene i verk.
+
+# 337: Hva er RUSS?
 RØDRUSS 
 BLÅRUSS
 SVARTRUSS
