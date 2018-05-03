@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 寻找重整旗鼓的力量
+date: 2015-06-03
 category: 生活
-tags: Essay
-keywords: find,confident,life
+tags: confident,life
 ---
 >每当痛苦的时候总会想回到这里寻求重整旗鼓的力量。
 

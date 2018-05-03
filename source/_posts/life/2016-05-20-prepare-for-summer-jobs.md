@@ -1,9 +1,9 @@
 ---
 layout: post
 title: summer job准备
+date: 2016-05-20
 category: 生活
-tags: Essay
-keywords: summer job, 准备
+tags: summer job, 准备
 ---
 # THUNE  
 Job address:[Store salesman](http://m.finn.no/job/parttime/ad.html?finnkode=73311351)

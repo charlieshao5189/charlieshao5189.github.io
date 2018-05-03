@@ -1,16 +1,16 @@
 ---
 layout: post
 title: After 8-days Journey
+date: 2016-05-31
 category: 生活
-tags: journey
-keywords: journey, Talin, Riga, Vilnius
+tags: journey, Talin, Riga, Vilnius
 ---
 Ater an 8-days journey, finally, I come back to Kongsberg, Norway, my lovely room. Today is May 31, then I realized I should write something about this journey for memory, to say goodbye to this wonderful May.
 
 ## Tallinn, Estonia
 At 23rd May morning, We, five classmates took the Norwegian flight from Oslo to Tallinn. At that day, the weather in Oslo is terrible, it was raining heavily, but when we arrived Tallinn, the weather is pretty good, it was sunny and warm. I was lucky to get one seat which is close to the window, so I saw the cloud changes all the way. We walked from the airport to the old town, crossing the half city, and finally, found our hostel in one old building. Its environment is not good, many people live in one room, but the good news is that you can easily get familiar with travelers from all over the word. In my room, I talked with a Ukrainian girl who travels around Europe to join some International projects, a Russian girl who take her holidays, two Brazil boys travel around Europe. Also, A Chinese who worked in New York as an architect, but she quit to get a gap year. The funniest people we met is a Japanese girl from England, she lived in the same room with my other four classmates, just finished her exchange year. She traveled alone so she joined us during the time in Tallin. The first time, I found there are so many similar things about our culture. I can understand their writing, and the pronunciation of cheers is same. In Tallin old town, you can find very well protected middle age buildings, many churchs, towers with the round hat. It is the oldest city in Baltic countries. We also visit one church where many people living there, they have problems with themselves or their parents, the administrator of this place showed us children's living environment and told us about their efforts to solve these kinds of social problems. I hope China would have this kind of organization to help problem children and families.
 
-![IMG_0407.jpg](http://imgchr.com/images/IMG_0407.jpg)
+[//]: # (![IMG_0407.jpg](http://imgchr.com/images/IMG_0407.jpg))
 ![IMG_0405.jpg](http://imgchr.com/images/IMG_0405.jpg)
 ![IMG_0402.jpg](http://imgchr.com/images/IMG_0402.jpg)
 ![IMG_0392.jpg](http://imgchr.com/images/IMG_0392.jpg)

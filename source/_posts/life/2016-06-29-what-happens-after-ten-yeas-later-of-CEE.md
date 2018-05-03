@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 高考十年后，人与人的差距是如何拉开的
+date: 2016-06-29
 category: 生活
-tags: Essay
-keywords: 高考，差距
+tags: 高考，差距
 ---
 来源\|LinkedIn中国
 作者\|Rizwan Aseem

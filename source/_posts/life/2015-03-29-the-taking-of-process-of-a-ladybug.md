@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 启航
-category: 生活
-tags: Essay
-keywords: taking off, ladybug
+date: 2015-03-29
+category: taking off, ladybug
 ---
 
 ## 说明
