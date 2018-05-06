@@ -2,7 +2,8 @@
 layout: post
 title: 启航
 date: 2015-03-29
-category: taking off, ladybug
+category: 生活 
+tags: taking off, ladybug
 ---
 
 ## 说明
