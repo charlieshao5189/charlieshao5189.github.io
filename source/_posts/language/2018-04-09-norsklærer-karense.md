@@ -5,7 +5,48 @@ date: 2018-01-01
 category: Språk
 tags: Karense, norsk, note
 ---
-https://norskna.portfolio.no/read/a435aef9-d71d-4b11-aa46-0ff82fb3d438
+# 347: Starte eller begynne?
+å starte: en prosess, noe "større", noe som skjer  med en gang:
+å starte et firma,
+å starte et prosjekt
+å starte bilen
+å starte en familie
+å starte en nettbutikk
+å starte en klubb
+å starte PC-en
+
+å begynne: sette i gang, noe som varer:
+Hun begynte på skolen da hun var 6 år.
+Gutten begynte å gråte.
+I morgen begynner vi med utetrening.
+Beynte du med volleyball da du var barn?
+Ferien begynner 20 juni.
+Under debatten begynte hun å tvile på om synspunktene hennes var irrelevante.
+
+Begynne eller starte?
+Begynne
+å spise
+på norskkurs
+å le
+som lærer
+
+Starte
+på norskkurs
+et band 
+som lærer
+lytteprøven
+debatten
+et politisk parti
+
+Jeg begynne å jobbe på kontoret klokke 9 hver dag.
+Jeg startet å jobbe i fjor.
+
+# 340:
+
+# 339:
+
+# 338:
+
 # 337: Hva er RUSS?
 RØDRUSS 
 BLÅRUSS
