@@ -5,6 +5,30 @@ date: 2018-01-01
 category: Språk
 tags: Karense, norsk, note
 ---
+# 350: Halve kunne vært nok!
+Festen var så bra at halve kunne vært nok!
+Konserten var rå! Halve kunne vært nok!
+Dinne videoene er fantastiske at halve kunne vært nok!
+
+# 349: Idiom nummer 50 Å koke bort i kålen
+Å koke bort i kålen:
+blie borte/glemme
+Firmaet hadde store planer, men alt kokte bort i kålen.
+
+# 348: Tida flyr!
+Tida går fort.
+Tida flyr.
+Tida raser fra oss.
+
+Tida går fort, og nå er snart ferien her!
+Har vi vært her en time allerede? Tida flyr når man er i godt selskap!
+Norskprøvene kommer snart, og tida raser fra oss. Vi må sette av tid til å lese!
+
+Tida flyr når man er glad. 
+Tida går fort når jeg se på videoer.
+Tida raser fra oss når jeg er sammen med familien min.
+
+
 # 347: Starte eller begynne?
 å starte: en prosess, noe "større", noe som skjer  med en gang:
 å starte et firma,
@@ -41,11 +65,76 @@ et politisk parti
 Jeg begynne å jobbe på kontoret klokke 9 hver dag.
 Jeg startet å jobbe i fjor.
 
-# 340:
+# 346: Det skal bli bra!
+skal-> plan som skjer 
+Jeg skal gå på jobb.
 
-# 339:
+Skal være = brukes ikke sammen for å beskrive noe du tenker er sånn
+skal være -> blir(ganske sikert) -> kommer til å bli (sannsynling)
 
-# 338:
+Det skal være sol i morgen.(feil)
+Det blir sol i morgen.(99%)
+Det kommer til å bli sol i morgen.(sannsynlig)
+
+Det skal være bra med en fest.(feil)
+Det blir bra med en fest.
+Det kommer til å bli bra med en fest.
+
+I helga skal det være fotballcup.(sikkert)
+Huset må ryddes for det skal være barnebursdag her i morgen.
+
+
+# 345: Hver dag og hverdag
+Hver dag: mandag til søndag
+Jeg spier frokost hver dag.
+Hver dag snakker jeg norsk.
+
+en hverdag: mandag til fredag.
+Når vi jobber eller går på skole.
+Hverdagen er tøff.
+Jeg liker helga best, ikke hverdagenene.
+
+# 344: Hjelpeverb + verb i infinitiv
+Hjelpeverb: 
+skal - skulle
+vil - ville
+må - måtte
+kan - kunne
+Jeg skal lese i kveld.
+Han må spise nå.
+I går måtte vi kjøpe mat, men butikken var stengt.
+Da jeg var barn, kunne jeg gå i spagaten.
+Feil eksempeler:
+Han kan snakke(ikke snakker) norsk.
+De vil ta(ikke tar) norskprøve.
+Skal du jobbe(ikke jobber) i helga.
+Vi kunne ikke reise(ikke reiser) fordi vi ar syke.
+
+# 343: Ord mange uttaler feil 2
+Europa
+fotball
+for eksempel
+UDI
+Sykepleier
+alkohol
+pause
+engelsk
+oppholdstillatelse
+
+
+# 342: Det er gresk for meg!
+Hvis vi ikke forstår noe, eller det er noe som er nytt sier vi "det er gresk for mage" Hva sier dere?
+
+# 341: NORSKPRØVENE resultater og statistikk
+http://status.vox.no/webview/index.jsp?headers=virtual&virtualsubset=A1_value+-+UnderA1_value&v=2&stubs=Sted&stubs=Tidspunkt&stubs=Prvetype&Prvetypesubset=1+-+4&measure=common&Stedsubset=23%2C1+-+24&measuretype=4&study=http%3A%2F%2F10.36.88.50%3A80%2Fobj%2FfStudy%2Fnorskinnvandrere-prover-resultatfylkekommune&language=no&cube=http%3A%2F%2F10.36.88.50%3A80%2Fobj%2FfCube%2Fnorskinnvandrere-prover-resultatfylkekommune_C1&Tidspunktsubset=20142+-+20173&mode=cube&top=yes
+
+
+# 340: skattepenggene våre
+https://www.ssb.no/offentlig-sektor/faktaside/slik-brukes-skattepengene
+
+# 339: Norskprøve nivå B2 skriftlig oppgave om kjøttforbruk
+
+# 338: Norskprøve nivå B2 skriftlig oppgave om kropp og helse
 
 # 337: Hva er RUSS?
 RØDRUSS 
