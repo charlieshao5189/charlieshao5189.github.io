@@ -7,6 +7,22 @@ tags: Karense, norsk, note
 ---
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 
+# 360: 1 hus - 2 hus og 1 barn - mange barn (1 bil - biler?)
+Ord med et som artikkel og en stavelse, får samme form i flertall ubsetemt form.
+1 hus - flere hus
+1 tips - 2 tips
+1 barn - 5 barn
+1 spørsmål - mange spørsmål
+
+et:
+tips, hus, barn, mål, tak, brev, skap, barnebarn
+
+# 359: Løvetannbarn
+Hvitveis
+Blåveis
+Hestehov
+
+Et løvetannbarn er et barn som klarer seg uansett hvor vanskelig barndommen har vært.
 
 # 358: Idiom nummer 55 Som fisken i vannet
 som fisken i vannet: perfekt
