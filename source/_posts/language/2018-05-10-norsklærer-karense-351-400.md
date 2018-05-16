@@ -7,6 +7,31 @@ tags: Karense, norsk, note
 ---
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 
+# 362: Å se eller å si, to nesten like verb
+Å se - ser - så - har sett
+Jeg ser på film.
+Hun så meg i byen.
+Har du sett Black Panther?
+
+Å si - sier - sa -har sagt
+Hun sier alltid hei!
+Hva sa du?
+Har du sagt A, må du si B.
+
+# 361: Orker du? Gidder du?
+Orke/gidde = ha energi eller lyst til å gjøre noe
+Jeg orker ikke å gå på tur.
+Gidder du å kjøre meg hjem? Nei, jeg gidder ikke.
+
+Orker du å løpe 10km?
+Gidder du å løpe 10km?
+Jeg orker dessert, gjør du?
+Du gidder aldri å komme til meg du?
+
+Hva orker du?
+Hva gidder du?
+|
+
 # 360: 1 hus - 2 hus og 1 barn - mange barn (1 bil - biler?)
 Ord med et som artikkel og en stavelse, får samme form i flertall ubsetemt form.
 1 hus - flere hus
