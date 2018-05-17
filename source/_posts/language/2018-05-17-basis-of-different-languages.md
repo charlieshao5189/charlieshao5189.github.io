@@ -6,28 +6,31 @@ category: Språk
 tags: languages
 ---
 # Hello
-French: Bon jour! / Salut!
+French: Bon jour / Salut
+Spanish: Hola
+Italian: Buon giorno
 Japanese: こんにちは Kon'nichiwa
 Korean: 여보세요 (yeoboseyo)
-Spanish: Hola
 Norwegian: Hallo
 Swedish: Hallå
 Danish: Hej
 
 # Goodbye
 French: Au revoir
+Spanish: adiós
+Italian: Ciao
 Japanese: さようなら Sayōnara
 Korean: 안녕annyeong
-Spanish: adiós
 Norwegian: Ha det
 Swedish: Adjö
 Danish: Farvel
 
 # Cheers
-French: À la vôtre 
+French: santé
+Spanish: Salud
+Italivan: Salute
 Japanese: 乾杯 Kanpai
 Korean: 건배igeonbae
-Spanish: Saludos
 Norwegian: Skål
 Swedish: Skål
 Danish: Skål
