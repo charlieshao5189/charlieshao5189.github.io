@@ -6,7 +6,7 @@ category: 兴趣
 tags: 2018,TV,Movie,Music,List
 ---
 ## Movie
-### Now Movie
+### New Movie
 - [x] Børning 
 - [x] Børning 2
 - [x] Dangal

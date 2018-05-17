@@ -7,6 +7,14 @@ tags: Karense, norsk, note
 ---
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 
+# 364: Hippp Hipp Hura!
+
+# 363: Idiom nummer 57 Å kjøpe katta i sekken
+Å kjøpe katta i sekken  betyr å kjøpe noe som viste seg å ha dårlig kvalitet.
+Hun kjøpte katta i sekken da hun kjøpt huset, for alt måtte repareres!
+Har du kjøpt katta i sekken før?
+Jeg kjøpt katta i sekken da jet kjøpt sko fordi jeg kan ikke løpe med dem. 
+
 # 362: Å se eller å si, to nesten like verb
 Å se - ser - så - har sett
 Jeg ser på film.
