@@ -7,6 +7,29 @@ tags: Karense, norsk, note
 ---
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 
+# 366: barn, unger, tenåringer og unge mennesker
+
+0-18:
+en unge
+et barn
+
+et spedbarn: lite og sårbart
+en baby: kan ikke gå
+små barn: 4/5 år
+
+en ungdom: 13 - 17/18
+en tenåring: 13 - 15
+unge(mennesker): Mange unge jobber her.
+myndig: 18 år
+
+Det er viktig at de unge(feil: ungene) studerer det de vil.
+Når vi tenker på unger mener vi barn!
+
+Hans familie har en baby, two små barn og en tenåring.
+
+
+# 365: 30 000 følgere! WoW!!
+
 # 364: Hippp Hipp Hura!
 
 # 363: Idiom nummer 57 Å kjøpe katta i sekken
