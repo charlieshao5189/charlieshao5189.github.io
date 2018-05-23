@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Vim 常用资源
+date: 2018-05-21
 category: 资源
 tags: Vim
-keywords: Vim
 ---
+
+[Vim Commands Cheat Sheet]: https://www.fprintf.net/vimCheatSheet.html
 
 ## 在粘贴代码时不启动自动缩进
 

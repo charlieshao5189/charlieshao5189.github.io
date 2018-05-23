@@ -7,6 +7,38 @@ tags: Karense, norsk, note
 ---
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 
+# 369: Norskprøve muntlig B1-B2
+A- uttrykke mening
+B- samtale, utveksle meninger/synspunkter
+C- argumentere ut i fra en påstand
+
+A- min mening 2-3 min alene
+ - Hva mener du om fastlegeordningen?
+ - Hva synes du om at vi bruker sosiale medier?
+ - Hva synes du er det beste og verste med å være voksen?
+ - Hva kan du gjøre for å være en god nabo?
+
+B- samtale 5-7 min samen
+ - Roboter i helsesektoren?
+ - Er det viktig at barn blir kjent med barn fra andre land/bakgrunn.
+ - Hvordan skak foreldre sett grenser for barna sine?
+ - Bør vi slutte med papresedler og kun bruke kort?
+
+C- påstand: enig/uenig?
+ - Man bør jobbe selv om man er litt syk.
+ - Praksis kan gi jobb.
+ - Det er best å hande på nett.
+ - Barn som bor i Norge må lære flere språk.
+ - Du er kun norsk når du har norsk pass.
+ - Livet i Norge er for fritt.
+ - Norge har et velfungerende demokrati.
+ - Vi sløser med penger i Norge.
+ - Det er best å være gift.
+ - Vi har ansvar for engen helse.
+# 368:
+
+# 367: 
+
 # 366: barn, unger, tenåringer og unge mennesker
 
 0-18:
@@ -18,7 +50,7 @@ en baby: kan ikke gå
 små barn: 4/5 år
 
 en ungdom: 13 - 17/18
-en tenåring: 13 - 15
+en tenåring: 13 -775
 unge(mennesker): Mange unge jobber her.
 myndig: 18 år
 
