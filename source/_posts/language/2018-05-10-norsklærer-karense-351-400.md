@@ -35,7 +35,41 @@ C- påstand: enig/uenig?
  - Vi sløser med penger i Norge.
  - Det er best å være gift.
  - Vi har ansvar for engen helse.
-# 368:
+
+# 368: Noskprøve muntlig A2-B1
+A- fotelle/beskrive
+B- samtale/utveksle meninger
+C- uttrykke egen mening og egne synsypunkter
+
+A- fortelle 2-3 min alene
+ - om din hjemby
+ - om en sport du liker
+ - om din tidligere job
+ - om hva du liker å gjøre med venner/familie
+ - Hva gjør du om kvelden?
+ - Hvor kjøper du mat?
+ - Fortell om en høytid du feirer.
+ - Fortell om stedet du bor på.
+ 
+B- samtale 5-7 min sammen
+ - snakk om klimaet i Norge
+ - Hva er bra med velferdsstaten?
+ - Hva er bra/dålig med facebook?
+ - Hvordan kan man lære nosk?
+ - Hva er et godt arbeidsmiljø?
+ - Fordeler og ulemper med å være gift?
+ - Hva sysnes dere om prisene prisene på ting i Norge?
+ - Hva liker dere med norsk kultur?
+ - Hva bør være aldersgrense for å kjøpe alkohol?
+ - Hvordan kan man være en god venn?
+ - Hvilken periode i livet er best: barndom, voksen liv eller alderdom?
+
+C- egen mening
+ - Hva synes du om at mange kjører bil i Norge.
+ - Mange barn i Norge får ukepenger, hva synes du om det?
+ - Hva synes om netthandel?
+ - Er det best å eie eller leie bolig?
+ - Hva synes du sosiale media bør fokusere på?
 
 # 367: 
 
