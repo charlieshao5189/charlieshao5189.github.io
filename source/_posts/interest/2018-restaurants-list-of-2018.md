@@ -14,6 +14,14 @@ tags: 2018,TV,Movie,Music,List
 - Shoppinglist: fried pepper, meat ball, king crab, shrimp ... 
 - Comments: It is my first time to try tapas, very beautiful and deliciours food. But ti is a little expensive, one person can ear 3-4 tapas, but one tapas will cost 100nok everagely. 
 
+## Nydalen Bryggeri og Spiseri 
+- Address: Nydalsveien 30a , 0484 Oslo
+- Website: http://www.nydalenbryggeri.no/
+- Style: Burger and Chips
+- Time: May 26, 2018
+- Shoppinglist: Nydalenburger Many
+- Comments: Come to here to eat lunch with my colleague. It is just beside Akerselva and the eating envrionment is awesome. 
+
 ## Lofthus Samvirkelag 
 - Address: Åsengata 42, 0480 Oslo
 - Website: http://www.lofthussamvirkelag.no/
