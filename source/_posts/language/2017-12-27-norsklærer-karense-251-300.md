@@ -451,6 +451,26 @@ Vanlige feil:
 2. Du kjører treg.
 3. Bussen er langsomt.
 
+# 254: Ven og venninne
+venn venninne kompis 
+
+For dame: venninne bestvenninne
+Hun er mi vennienne. 
+Dette er mi bestevenninne.
+
+For mann: venn bestvenn
+Bjørn er vennen min.
+Du er best vennen min.
+
+For mann: kompis
+Hans og Emil er kompiser.
+For mann: kamerat
+Han er en god kamerat.
+
+Bekjent: mann/dame
+Du kjenner, men dere er ikke venner.
+Han er en bekjent av meg.
+
 # 251: Idiom nummer 41 Lære å krype før du kan lære å gå
 Lære det grunnleggenda
 (basic) for vi lærer det som er avansert.

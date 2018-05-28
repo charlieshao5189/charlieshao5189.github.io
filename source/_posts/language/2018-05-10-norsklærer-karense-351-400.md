@@ -6,6 +6,25 @@ category: Språk
 tags: Karense, norsk, note
 ---
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
+# 372: Idiom nummer 58: Å ha en bolle i ovenen
+bety dame er gravid
+Søsre mi har en bolle i ovnen.
+Jeg må fortelle dere noe: Jeg har to boller i ovenen. tvilling
+
+
+# 371: bruk av 2 x JA eller NEI i en setning
+Ja, ha det ja!
+Nei, jeg vet ikke det nei....
+
+Ja, han sa det ja!
+Nei, da går ikke det, nei.
+
+Ja, skal du bli med ja!
+Nei, da vant vi ikke, nei.
+
+# 370: Det er ikke bare bare, men men!
+Det er så vanskelig å betale alle regningene! 
+Ja, det er ikke bare bare, men men!
 
 # 369: Norskprøve muntlig B1-B2
 A- uttrykke mening
@@ -71,7 +90,52 @@ C- egen mening
  - Er det best å eie eller leie bolig?
  - Hva synes du sosiale media bør fokusere på?
 
-# 367: 
+# 367: Norkprøve muntlig A1-A2
+4 Oppgaver
+A- fortelle om deg selv
+B- beskrive bilde
+C- samtale
+D- fortelle og beskrive
+
+A- fortelle om deg selv:
+navn, bosted, jobb/studier, hobby, venner(familie/hjemland),
+planer for fremtiden.
+Ikke si noe du vil holde privat!
+
+B- beskrive bilde
+- hvor er dette?
+- fortell om personene:hva tenker de, hva gjør de, hva har de på seg?
+- fortell om noe spesielt du ser
+
+C- samtale
+- snakk sammen
+- spør hverandre
+- se på hverandre
+- vis interesse
+- vis om du er enig/uenig
+- Hva gjør dere på fritida?
+- Hva liker dere å spise?
+- Fortell om en tradisjon i ditt hjemland.
+
+- Hva gjør dere om sommeren?
+- Hva gjør dere på hverdagen?
+- Hva gjør dere i helga?
+- Hvilken hobby har dere?
+- Kan du fortlle om deres bolig?
+
+D- fortelle og beskrive
+- Snakk til de stopper deg
+- De spør om noe etterpå
+- Smil og slapp av!!!
+
+- Fortell om bryllup i ditt hjemland.
+- Fortell om familieliv i ditt hjemland.
+- Hva mener du er en god ektefelle?
+- Hva liker du med Norge?
+- Fortell om en god venn.
+- Hva skal du gjøre etter prøven?
+- Hva gjør du i ferien?
+- Hvor vil du ikke bo?
 
 # 366: barn, unger, tenåringer og unge mennesker
 
