@@ -6,6 +6,81 @@ category: Språk
 tags: Karense, norsk, note
 ---
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
+# 374: Antakelser B1-B2 nivå(argumenterende tekst)
+muligens
+kansje
+det kan virke som på en måte 
+det ser ut til at 
+antageligvis/antakelig
+eventuelt
+det er godt mulig at 
+det kan godt hende at
+det er ikke umulig at 
+sannsynligvis
+trolig
+tilsynelatende
+det er faktisk mulig at 
+ganske visst
+
+# 373: ORDKLASSER
+SUBSTANTIV:
+Egenavn: Olav,Norge,Audi
+Fellesnavn: bord,hus,munn
+EN-EI-ET
+
+VERB: noe som skjer
+Regelrette: video 21
+Uregelrette:
+Hjelpeverb/modalverb
+
+ADJEKTIV: beskriver ting
+stor-fin-rød-stor
+ANTONYMER: motsatt
+SYNONYMER: samme
+
+ADVERB: hvordan noe skjer
+aldri-alltid-fort-bare
+Tidsadverb: kolkka 5, i juni
+Stedsadverb: i Oslo, hjemme
+Betinget adverb: hvis/om
+
+Pronomen
+Jeg-du-han-hun    SUBJ.
+meg-deg-ham-henne OBJ.
+den-det (substativ)
+
+Spørreord: spørsmål
+hva, hvem, hvor, når, hvordan, hvorfor...
+
+DETERMINATIV: 3 grupper
+POSSESSIV: min-din-hans-sin-sitt-vår-hennes
+Demonstrativ: den-denne,hvilken-annen-disse
+KVANTOR: mange-få-noen
+
+KONJUNKSJONER: lim 
+OG: jeg og deg/bli og båt
+Eller: kaffe ellver te
+MEN: Bilen er ikkke min, men hanns
+FOR: Jeg trener for å være i form
+SÅ: Han var trøtt, så jan sovnet.
+
+SUBJUNKSJON: leddsetning
+Alle leddsetninger må starte med en subjunksjon!
+om
+fordi
+hvis
+som
+dersom
+
+PREPOSISJONER:
+hvor noe ei
+i-på-ved siden av-mellom-under-over
+
+INTERJEKSJONER:
+Ja-jo-nei
+mjau-voff-mø
+au! wow! bø!
+
 # 372: Idiom nummer 58: Å ha en bolle i ovenen
 bety dame er gravid
 Søsre mi har en bolle i ovnen.
