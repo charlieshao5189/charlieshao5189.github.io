@@ -5,6 +5,22 @@ date: 2018-04-29
 category: 兴趣
 tags: 2018,TV,Movie,Music,List
 ---
+## Shanghai 2K18
+- Address:  Kirkegata 30 Oslo, Norway 0153
+- Website: https://www.facebook.com/shanghai2K18/
+- Style: shanghai dish
+- Time: June 2, 2018
+- Shoppinglist: Sliced Beef in Chili Oi，Mapo Tofu
+- Comments: This resturant gave me an fantastick experience. It is better than any Chinese resturants or asian resturants I have visited in Norway. The environment is so confortable, the food are delicious. It provide the origianl chinese dish, not the one adapte to norwegian taste. I believe I will visit this resturant again and again.  
+
+
+## Asian street food
+- Address:  Vulkan 5, 0178 Oslo
+- Website: https://mathallenoslo.no/en/butikk/noodles/
+- Style: Noodles
+- Time: May 30, 2018
+- Shoppinglist: Ramen soup, shrimp dumplig
+- Comments: Norwegian asian food.
 
 ## Delicatessen Grünerløkka
 - Address: Søndre gate 8, 0550 Oslo
