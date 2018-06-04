@@ -6,6 +6,47 @@ category: Språk
 tags: Karense, norsk, note
 ---
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
+
+
+# 375: Uregelrette verb på E og F
+E: 
+[M 1.å ete-eter-åt-har ett
+Han åt hele pizzaen!
+Jeg er mett, for jeg har ett.
+
+F: 
+fly-flyr-fløg-har fløyet/flydd
+Har du flydd mye?
+Tdien flyøy av sted.
+
+falle-faller-falt-har falt
+Han falt på isen.
+
+finne-finner-fant-har funnet
+Norge har funnet mye olje!
+
+flyte-flyter-fløt/fløyt-har flytt
+Plastikkoppen fløt i vann.
+
+forsvinne-forsvinner-forsvant-har forsvunnet
+Jenta forsvant i går.
+Har nøktene mine forsvunnet?
+
+fryse-fryser-frøs/frøys-har frosset
+Vannet frøys!
+Vannet har frosset til is.
+fortelle-forteller-fortalte-har fortalt
+
+Bestmor fortalte oss eventyr om kuelden.
+Jeg har fortalt alt.
+
+følge-følger-fulgte-har fulgt
+De fulgte alle reglene. Har du fulgt politikenne på facebook?
+
+få-får-fikk-har fått
+Hun fikk blomster av mannen sin.
+Jeg har fått B1 på muntlig.
+
 # 374: Antakelser B1-B2 nivå(argumenterende tekst)
 muligens
 kansje
