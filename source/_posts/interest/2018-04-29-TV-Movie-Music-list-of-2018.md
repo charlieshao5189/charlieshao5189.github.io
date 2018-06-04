@@ -20,6 +20,7 @@ tags: 2018,TV,Movie,Music,List
 - [x] Paddington 2 
 - [x] Pacific Rim: Uprising
 - [x] Along with the Gods
+- [x] Taxi 2                         -----20180602
 - [ ] Darkest Hour
 - [ ] Avengers: Infinity War
 
@@ -40,8 +41,8 @@ tags: 2018,TV,Movie,Music,List
 
 ## Music
 * Ed Sheeran - Perfect
-* Ed Sheeran - Thinking Out Loud
-* Ed Sheeran - Happier
+* Ed Sheeran - Nacy Mulligan
+* Ed Sheeran - Galway Girl
 * 毛不易 - 像我这样的人
 * 毛不易 - 消愁
 * 于文文 - 体面
@@ -50,8 +51,9 @@ tags: 2018,TV,Movie,Music,List
 * Rebecca - Who We Are
 * Lukas Graham - 7 Years
 * Luis Fonsi - Despacito
+* Alan Walker - Faded
 * 张靓颖&李荣浩 - 女儿国
-* 五月天 -  后来的我们
+* 五月天 - 后来的我们
 * 莫文蔚 - 慢慢喜欢你
-
+* 林宥嘉 - 成全
 
