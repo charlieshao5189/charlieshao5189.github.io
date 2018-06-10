@@ -96,4 +96,17 @@ Jeg går til jobb.
 Du dro til bergen i forrige uke.
 For to år siden reiste alle i familien til Kina.
 Nå drar jeg hjem.
- 
+# 3: S-PASSIV: Hvordan bruker vi S-verb? Møtes? Trives?
+Møtes
+Synes
+Trives
+Lykkes
+Fins/FINNES
+Trengs/Trenges
+
+INFINITIV:
+Hun ønsker å elskes av ham.
+
+PRESENS:
+Hun elskes av ham.
+

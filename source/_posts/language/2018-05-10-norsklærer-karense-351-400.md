@@ -7,10 +7,153 @@ tags: Karense, norsk, note
 ---
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 
+# 381: Kjør på
+Start:
+Kjør på 
+kom igjen
+Fyr løs
+
+Kjør på: start
+Skal jeg sette maten i ovnen? Ja, kjør på.
+Jeg kjøper ei flaske vin, jeg? Ja, kjør på.
+
+Kom igjen: fortsett, start
+Vi må gå nå, kom igjen!
+Bilen står fast i snøen! Neida, kom igjen, bare gi gass.
+
+Fyr løs: værsågod, snakk
+Kan jeg spørre deg om noe?
+Ja, fyr løs.
+Magnus har noe han vil si til deg. - Fyr løs!
+
+# 380: Møte og treffe
+Treffe:
+1. Komme i kontakt med 
+Jeg traff mannen din på butikken i dag.
+Vi traff hverandre i 2005.
+2. Å nå et mål
+Jegeren prøver å treffe elgen i hjertet.
+De traff blinken!
+3. Tilfeldig
+Det treffer seg sånn at jeg er hemme den dagen du kommer til Oslo, så da kan vi sees!
+4. Å ta et valg
+Jeg har truffet en avgjørelse.
+
+Møte:
+1. Stille opp/komme
+Møt opp 30 minutter før prøven starter.
+Alle må møte til dugnagen på torsdag.
+2. Omgås, støte på, avtale
+Vi møter hverandre hver uke.
+Kollegaen min møtte statsministeren i fjor.
+Jeg møter deg kl 17.
+3. Linjer møter hverandre
+Hun bor rett ved der Prinsens gata og Kirkegata møter hverandre.
+Himmel møter hav i horisontes.
+4. Motstandere
+Mancherster United møter Liverpool på lørdag.
+Erna Solberg møtte Jens stoltenberg til debatt.
+
+møtes/treffes s-passiv
+Vi møtes/treffes hver lørdag.
+
+# 379: norsk uttale DIFTONGER
+AI:
+hai
+pai
+kai
+Thailand
+Nikolai
+mai
+shanghai
+mais
+
+AU:
+august
+pause
+sau
+tau
+astronaut
+applaus
+maur
+dinosaur
+flau
+au
+haug
+mjau
+raus 
+
+EI:
+hei
+sei
+peiling
+speil
+feil
+peis
+heis
+bein
+rein
+reise
+geit
+kleint
+skeivt
+vei
+greit
+
+OI:
+astroide
+egoist
+heroin
+joik
+paranoid
+polaroid
+statoil
+steroid
+tabloid
+boikott
+
+ØY:
+fløyte
+øy
+øye
+høy
+skøyter
+fornøyd
+føy
+sprøyte
+tøyse
+tøyen
+bøye
+tøye
+støy
+køye
+
+# 378: På grunn av og det kommer an på
+Det kommer an på = noe er avhengig av noe
+De reiser kanskje på ferie, men det kommer an på økonomein
+Får du jobben, tror du? Det kommer an på om jeg får B2 på norskprøven.
+Kommer du på festen? Det kommer an på Tom.
+Skal du jobbe ekstra i helga? Det kommer an på om jeg får barnevakt eller ei.
+Om vi får kjøpt hustet, kommer an på budrunden.
+
+På grunn av: forklaring
+Hun har dårlig råd på grun av baksmellen.
+De er friske på grunn av at de spiser sunt.
+På grunn av at du kom for sent til eksamen.
+Jeg er sint på grunn av deg!
+
+# 377: Idiom nummer 60: Å gå over streken
+Å gå over streken: gjøre noe umoralsk eller uetisk
+Du gikk over streken da du kritiserte mora mi.
+
+# 376: Idiom nummer 59: Å møte veggen
+Å møte veggen: kaputt 
+Han møtte veggen da han mistet jobben.
+Mange mennesker møter veggen en gang i livet.
 
 # 375: Uregelrette verb på E og F
 E: 
-[M 1.å ete-eter-åt-har ett
+1.å ete-eter-åt-har ett
 Han åt hele pizzaen!
 Jeg er mett, for jeg har ett.
 
