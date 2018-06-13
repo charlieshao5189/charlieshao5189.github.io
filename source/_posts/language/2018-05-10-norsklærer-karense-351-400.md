@@ -7,6 +7,26 @@ tags: Karense, norsk, note
 ---
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 
+#383: Ord som uttales feil 3
+sosial
+euro
+Europa
+telefon
+Oslo
+nummer
+Arbeiderpartiet
+teknologi
+situasjoner
+direkte
+
+# 382: Overrasket!
+Namen!
+Jøss!
+Hva i all verden!
+Hva i alle dager!
+Hø?
+Jaha!
+
 # 381: Kjør på
 Start:
 Kjør på 
