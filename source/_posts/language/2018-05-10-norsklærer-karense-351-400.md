@@ -7,7 +7,123 @@ tags: Karense, norsk, note
 ---
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 
-#383: Ord som uttales feil 3
+
+# 386: Leksjon 1 introduksjon
+Jeg(Karense)  Du
+
+Hei! 
+1. Jeg heter Karense Foslien.   Hva heter du?
+2. Mitt fornavn er Karense.     Hva er ditt fornavn?
+3. Mitt etternavn er Foslien.   Hva er ditt etternavn?
+4. Jeg kommer fra Åmot i Norge. Hvor kommer du fra?
+5. Jeg kommer fra Åmot, men jeg bor i Oslo. Hvor bor du?
+6. Jeg Jobber som lærer.        Hva jobber du som? Studerer du?
+7. Jeg jobber på en online skole i Oslo. Hvor jobber du? Hvor studerer du?
+8. Jeg snakker norsk, englsk, svensk, svahili og litt fransk. Hvilke språk snakker du?
+9. Norsk er mitt morsmål. Hviket språk er ditt morsmål?
+10. Jeg er 33 år gammel. Hvor gammel er du?
+11. Jeg har bursdag 12.april. Når har du bursdag?
+12. Hyggelig å hilse på deg! Takk i lige måte!
+13. Ha det! Ha det bra!
+
+# 385: Referat Bergenstesten
+REFERAT, delprøve 3 Bergenstesten
+Dette er et sammendrag av et intervju du får høre to ganger. Intervjuet varer i noen minutter. Du får stikkord, såkalte <momenter> som du bør lese først.
+Etter at du har hørt samtalen to ganger, skal du skrive en ekst om det som har blitt sagt.Du skal kun skrive det du har hørt, ikke skrive egne tanker eller meninger om saken.
+
+Forberedelse: hør på intervjuer på radio, TV og YouTube. Skriv stikkord og deretter referatet.
+
+Intervju med Iman Meskini
+https://www.youtube.com/watch?v=zttv4ZxfX14
+Du får nå høre et intervju med Iman Meskini som har spilt i serien Skam. Hun blir intervjuet av Fredrik Skavlan på hans talkshow.
+Momnter:
+1. Forsvaret
+2. Sana i Skam
+3. Hijab
+4. Uniform
+5. Oppvekst i Syria
+6. Å være muslim i Norge
+
+Egne stikkord
+* Hun er nå i forsvaret.
+* Har spilt sana i Skam.
+* Hun bruker hijab.
+* Hun bruker uniform i forsvaret.
+* Hun bærer uniformen, hun bærer hijaben.
+* Hijab er et religiøst plagg.
+* Har vlkst opp delvis i Syria.
+* Krevende å være muslim i Norge.
+* Har kontakt med de andre i Skam.
+
+
+# 384: Kommaregler
+- Skyt ham, ikke vent til jeg kommer!
+- Skyt ham ikke, vent til jeg kommer!
+
+1. Komma mellom setinger som er bundet sammen med og, eller, for og men
+Han er ikke sliten, men trøtt.
+Marius jobber om dagen, og han sover om natta.
+Vil du ha den blå jakka, eller vil du ha den røde?
+
+2. Komma etter leddsetning som står først i en helseting.
+(Komma i setinger som starter med hvis, dersom, når, da, at, enn, etter at, etter hvert som, ettersom, for at, fordi, om og skjønt).
+Hvis du vil bli med på ferie, må du bestmme deg i dag.
+Når det begynner å snø, blir det ofte kaos på veiene.
+At du er full, kan allerse!
+
+Ikke komma dersom leddsetningen kommer til slutt:
+Du må bestemme deg i dag hvis du vil bli med på ferie.
+Det blir ofte kaos veiene når det begynner å snø.
+
+3. Komma etter innskutt leddsetning
+Da huset brant, ble de alle hjemløse.
+Mannen som falt ned trappa, brakk begge beina.
+
+4. Komma foran innskutt leddsetning som ikke er nødvendig i helsening
+Legen, som bodde i Tønsberg, var meget dyktig.
+De to kvinnene, som hadde røde kåper, tok mange bilder av slottet.
+
+5. Komma foran og etter forklarende tillegg
+Zimbabwe, tidligere kalt Rhodesia, er en republikk i det sørlige Afrika.
+Hovedstaden i Norge, Oslo, het før Kristiania.
+
+6. Komma foran og etter titaleord, svarord, hilsener, oppfordringer og utropsord
+Nina, kan du komme hitover?
+Slutt med et der, din tulling!
+Nei, det der skjønner jeg ikke.
+Hei sann, den satt!
+Hei, Ludvig!
+Farvel, elskede!
+Sov godt, Jens!
+God morgen, Norge!
+
+7. Komma mellom ledd i oppramsing, dersom det ikke står noen konjunksjon
+Konjunksjoner: og, eller, for, men, så
+Erik, Turid, Else og Kari.
+Studenten skrev om Mahler, Mozart, Grieg samt Wagner.
+Det skal ikke være komma før <og> eller <samt>, når dette står foran det siste leddet i en oppramsing.
+Opplisting av ordenstall.
+
+Vi skal sipple fotballkamper 11., 12., 15., og 16.juli.
+
+8. Komma foran anførende setninger
+(sa hun, mente han, ifølge presten, påsto Hanne osv.)
+- God jul og godt nytt år, sa direktøren.
+I morgen skal det bli solskinn, ifølge meteorologen.
+Fisk er bedre enn kjøtt, mente fiskehandleren.
+
+9. Komma ved led som er trukket ut av setningen og kommer foran eller bak
+Du er en luring, du.
+Kåre hadde vakre øyne, han og.
+Mozart, hadde litt av en fantasi.
+
+10. Komma ved desimaltegn(ikke punktum!)
+12,3 kilo
+18,6 sekunder
+
+
+
+# 383: Ord som uttales feil 3
 sosial
 euro
 Europa
