@@ -7,6 +7,56 @@ tags: Karense, norsk, note
 ---
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 
+# 390: Vanlige feil med TID(for 4 år siden, i 4 år)
+Når? Tidspunkt.
+For 8 år siden.
+For 3 måneder siden.
+For 1 uke siden.
+
+Hvor lenge? Varighet.
+Bodd i Norge? I 1 år.
+Jobbet her? I 2 år.
+Studert norsk? I 3 år.
+Hatt leilighete? I 5 år.
+
+Når kom du til Norge?
+Jeg kom for tre år siden.
+
+Hvor lenge har du bodd i Norge?
+Jeg har bodd her i 3 år.
+
+# 389: Idiom nummer 61 Å kaste bort tiden
+De spiller playstation hele dagen, og foreldre synes at de kaster bort tiden.
+
+
+# 388: Nestenbanning, or vi sier når vi er sinte
+Å banne- banner - har bannet/banna
+
+religiøse banneord
+setsuelle banneord
+banneord om av føring
+
+For Gud:Guri malla, Guri meg, Guriland.
+
+For Herregud: Herremin, Herligfred, Herrejemini, Herlighet.
+
+For Yesus: Jøsses, Yes, Jøri
+
+For Djevelen: Daven, Daven døtte, Daggern, Daken, Dasken.
+Javen, Jaken, Jasken, Jakel, Yaskel
+
+For Faen: Farian, Farao, Fillern, Fader, Faderullan, Fanken tute
+Fankern, Fanken ta, Farsken.
+Faen i helvete: annen i ellevte.
+Fy faen: Fy søren, Fy fillern, Fy farao, Fy fabian, Fy farin, Fy fasan, Fy fela.
+
+Fytti faen: Fytti rakkeren, Fytti katta, Fytti grisen, Fytti bikkja, Fytti bjørnn, Fytti feite, Fytti fjør.
+
+Satan: Søren, Søren ta, Søren klype, Søren tute, Søren også
+
+Helvete: Helsike, Helgeroa, Helsfyr, Heiteste.
+
+
 # 387: Leksjon 2 FAMILIE
 Jeg(Karense)  Du
 
