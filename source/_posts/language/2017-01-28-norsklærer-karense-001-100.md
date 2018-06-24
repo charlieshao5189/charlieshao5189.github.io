@@ -60,3 +60,7 @@ Hun ønsker å elskes av ham.
 PRESENS:
 Hun elskes av ham.
 
+# 1: Norske idiomer 1 og 2 Å brenne alle broer + Å ha det sånn midt på treet
+Vi er venne før, men nå brenne vi alle broer.
+Min norsk har det sånn midt på treet.
+

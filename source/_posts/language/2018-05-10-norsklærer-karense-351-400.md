@@ -7,6 +7,203 @@ tags: Karense, norsk, note
 ---
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 
+# 387: Leksjon 2 FAMILIE
+Jeg(Karense)  Du
+
+feminin maskulin nøytral
+
+negativ = ikke
+
+Verb:
+nå: heter, bor, kommer fra, har
+før: het, bodde kom fra, hadde
+
+Jeg heter Karense.
+Jeg er 33 år.
+Jeg bor Olso.
+Jeg jobber som lærer.
+Jeg har ikke barn.
+Jeg har en hund.
+Hunden heter Bahia.
+
+Hva heter du? 
+Hvor gammel er du?
+Hvor bor du?
+Hva jobber du som?
+Studere du?
+Har du barn?
+Ja, jeg har barn. Nei,jeg har ikke barn.
+Har du hund eller katt?
+Ja, jeg har hund. Nei, Jeg har ikke hund.
+Ja, jeg har katt. Nei, jeg har ikke katt.
+
+I norge har vi ikke så store familier.
+Her kommer historien om min familie.
+
+Min pappa heter Erlend.
+Han er 57 år.
+Han jobber som ingeniør.
+Han er gift med mamma.
+Han bor i Åmot med mamma.
+
+Hva hetter/het din pappa?
+Hva jobber/jobbet din pappa som?
+
+Min mamma heter Vibeke.
+Hun er 53 år.
+Hun bor i Åmot.
+Hun jobber som interiørdesigner.
+Hun er gift med min papa.
+
+Hva heter/het din mamma?
+Hvor bor/bodde din mamma?
+Hva jobber/jobbet hun som?
+
+Mine foreldre har to barn.
+Jeg har ei søster.
+Hun heter Trude.
+Hun er 25 år.
+Hun bor i Åmot.
+Hun jobber som sykepleier.
+Hun har ikke barn.
+Hun har en kjæreste,men hun er ikke gift.
+
+Har du ei søster eller flere søstre(2+)?
+Ja, jeg har ei søster.
+Jeg har to søstre.
+Jeg har ikke søster.
+
+Hva heter hun/de?
+Hun heter...
+De heter ...og...
+
+Hvor gammel er hun/de?
+Hun er __ år gamle.
+
+Hvor bor hun/de?
+Hun bor i...
+De bor i...
+
+Hva jobber hun/de som?
+Hun jobber som...
+De jobber som...
+
+Jeg har ikke bror.
+Har du en bror eller brødre(2+)?
+Ja, jeg har en bror.
+Ja, jeg har to brødre.
+Nei, jeg har ikke bror.
+Hva heter han/de?
+Han heter...
+De heter ...og ...
+Hvor bor han/de?
+Han bor i...
+De bor i...
+Hvor gammel er han/de?
+Han er __ år gammel.
+De er __ og __ år gamle.
+Hva jobber han/de som?
+Han jobber som...
+De jobber som...
+
+Mammaen til min pappa het også Karense.
+Vi sier farmor eller bestmor på norsk.
+Hun var svigermor til min mamma.
+Hun var husmor.
+Hun bodde i Åmot.
+Hun døde i 1996.
+Hun ble 85 år.
+Hun var gift med farfar.
+Hun ble neke da farfdar døde.
+Hva het/heter din farmor?
+Hun het/heter......
+Hvor gammel er hun? Hvor gammel ble hun?
+Hun er __ år gammel.
+Hun ble __ år gammel.
+
+Pappaen til min pappa het Torbjørn.
+Vi sier farfar eller bestfar på norsk.
+Han var svigerfar til min mamma.
+Han var gift med min farmor Karense.
+Han bodde i Åmot.
+Han jobbet som lege.
+Han døde i 1989.
+Han ble 82 år.
+Hva het/heter din farfar?
+Han heter 
+Han het...
+Hvor gammel er han?Hvor gammel ble han?
+Han er __ år gammel.
+Han ble __ år gammel.
+
+Min farmor og farfar hadde tre barn, tre sønner.
+De heter Erlend(min pappa), Tor og Roger.
+Tor og Roger er min onkler.
+Onkel Tor har to barn, en sønn og ei datter.
+Sønnen heter også Tor og dattera heter Stine.
+Tor og Stine er min søskenbarn.
+Tor er min fetter og Stine er min kusine.
+Onkel Roger har ikke barn.
+
+Mammaen til min mamma het Rigmor.
+Vi sier mormor eller bestemor på norsk.
+Hun var svigermor til min pappa.
+Hun var først gift, men senere skilt.
+Hun bodde i Drammen.
+Hun jobbet som sekretær.
+Hun ble 69 år.
+Hun døde i 2000.
+Hva het/heter din mormor?
+Hun het...
+Hun heter...
+Hvor gammel er hun? Hvor gammel ble hun?
+Hun er __ år gammel.
+Hun ble __ år gammel.
+
+Pappaen til min mamma het Nils.
+Vi sier morfar eller bestfar på norsk.
+Han var svigerfar til min pappa.
+Han var først med min mormor, men senere skilt.
+Han jobbet på fabrikk.
+Han bodde også i Drammen.
+Han ble 82 år.
+Han døde i 2008.
+Hva het/heter din morfar?
+Han heter...
+Han het...
+Hvor gammel er han? Hvor gammel ble han?
+Han er __ år gammel.
+Han ble __år gammel.
+
+Min mormor og morfar hadde tre barn, tre døtre.
+De heter Vibeke, Heidi og Vera.
+Heidi og Vera er mine tanter. Tante Heidi og tante Vera.
+Tante Vera har to døtre og to sønner som heter Lise, Siv, Anders og Erik.
+Lise, Siv, Anders og Erik er mine søskenbarn.
+Lise og Siv er mine kusiner og Anders og Erik er mine fettere.
+Tante Heidi har ikke barn.
+
+Min søster og jeg er barnebarna til min farmor, farfar, mormor og morfar.
+Jeg har ikke barn og Trude har ikke barn.
+Min mamma og pappa har ikke barnebarn.
+
+FAMILIEORD
+
+| FEMININ       | MASULIN       |  NØYTRAL      |
+| ------------- | ------------- | ------------- |
+| mamma         | pappa         | foreldre      |  
+| mor           | far           | foreldre      |
+| datter/døtre  | sønn/sønner   | barn          |
+| søster/søstre | bror/brødre   | søsken        |
+| tante/tanter  | onkel/onkler  |               |
+| kusine/kusiner| fetter/fettere| søskenbarn    |
+| farmor        | farfar        | besteforeldre |
+| mormor        | morfar        | besteforeldre |
+| bestmor/bestmødre| bestfar/bestfedre| besteforeldre|
+| oldemor       | oldefar       | oldeforeldre oldebarn|
+| svigemor      | svigerfar     | svigeforeldre |
+| svigersøster(svigerinne)| svigerbror(svoger)||
+| enke          | enkemann||
 
 # 386: Leksjon 1 introduksjon
 Jeg(Karense)  Du
