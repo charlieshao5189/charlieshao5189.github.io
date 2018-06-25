@@ -7,6 +7,26 @@ tags: Karense, norsk, note
 ---
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 
+# 393: Idiom nummer 64 Å spille med opne kort
+Å spille med åpne kort: være ærlig og ikke skjule noe eller hekle noe hemmelig.
+
+Hun spilte med åpne kort på jobbintervjuet da hun fortalte at hun hadde en alvorlig sykdom.
+I møtet med barnevernet spilte foreldrene med åpne kort da de fortalte om vanskelighetene med å sette grenser.
+
+# 392: Idiom nummer 61 I fyr og flamme 
+I fyr og flamme: begeistret, ivrig, glad
+
+De var i fyr og flamme da de vant i lotto.
+Da hun fikk jobber, var hun i fyr og flamme.
+
+# 391: Idiom nummer 62 Å stå på pinne for noen
+Å stå på pinne for noen: er alltid klar til å hjelpe en person, sier aldri nei...
+
+Kona står på pinne for mannen sin.
+Jeg gidder ikke å stå på pinne for noen som ikke er takknemlige!
+Står du på pinne for andre eller står andre på pinne for deg?
+Familien min står på pinne for meg alltid.
+
 # 390: Vanlige feil med TID(for 4 år siden, i 4 år)
 Når? Tidspunkt.
 For 8 år siden.
