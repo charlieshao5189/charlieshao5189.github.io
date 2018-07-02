@@ -46,6 +46,74 @@ Jeg går til jobb.
 Du dro til bergen i forrige uke.
 For to år siden reiste alle i familien til Kina.
 Nå drar jeg hjem.
+
+# 10: Hvordan bruker vi ordet hos på norsk?
+Jeg er hos legen nå.
+Jeg er hos min nabo og drikk koffe.
+Jeg er på besøk hos min bestmor på sykehus.
+
+# 9: Norske idiomer 5 og 6 Å henge i stroppen + Å gi mersmak
+
+
+# 8: Norske idiomer 3 og 4 Å slå to fluer i en smekk + Å kalle en spade for en spade
+
+
+
+# 7: Hva er forskjellen mellom ennå og enda?
+
+TID
+Nå: ennå
+
+Før: enda
+
+GRAD
+Enda = ekstra
+
+Adverb innrømmende(likevel)
+Det gikk enda an.
+
+Subjunksjon
+Han gikk over Isen. Enda han ble advart.
+
+
+# 6: Hvordan bruker vi fordi or derfor?
+
+Fordi
+Resultat + fordi + årsak
+Jeg er blakk fordi jeg ikke har fått lønn.
+
+Derfor
+Årsak + derfor + resultat
+Jeg har ikke fått lønn defor jeg er blakk.
+
+# 5: Adjektiver og samsvarsbøying: Et stort tema!
+
+En fin bil
+Ei fin veske
+Et fint hus
+To fine kopper
+Stor Gul Pen
+
+Spesielle:
+Gammel -> gamle(2)
+Vakker -> vakre(2)
+Åpen -> åpne(2)
+
+Ny = nytt(et)
+viktig(en-ei-et)
+trist(en-ei-et)
+norsk(en-ei-et)
+parktisk(en-ei-et)
+blå=blå/blåe
+
+Moderne(en-ei-et)
+Bra(en-ei-et)
+Golad(e)
+liten(en)-lita(ei)-lite(et)-små(s)
+
+
+
+
 # 3: S-PASSIV: Hvordan bruker vi S-verb? Møtes? Trives?
 Møtes
 Synes
@@ -59,6 +127,13 @@ Hun ønsker å elskes av ham.
 
 PRESENS:
 Hun elskes av ham.
+
+# 2: Når bruker vi TROR og SYNES?
+Å tro-tror-trodde-har trodd
+Det betyr at vi ikke er 100 prosent sikker på noe.
+
+Å synes-synes-synes- har synes
+Personlig mening
 
 # 1: Norske idiomer 1 og 2 Å brenne alle broer + Å ha det sånn midt på treet
 Vi er venne før, men nå brenne vi alle broer.
