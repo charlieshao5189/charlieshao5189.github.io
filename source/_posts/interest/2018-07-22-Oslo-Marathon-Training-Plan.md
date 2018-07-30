@@ -14,42 +14,42 @@ Beddring: 恢复跑。
 Lang Løp: LSD, 有氧耐力跑的是在65%—79%HRmax强度或者在此心率相对应配速下进行30—150min的训练。LSD是有氧耐力跑的主要训练方式，也是跑友平时跑步主要的训练方法，他的训练目的是为了发展基础耐力、储备体能，从而为马拉松比赛以及后期训练打下坚实基础。
 
 
-##Uken 1 20180723-20180729 35.50Km
+## Uken 1 20180723-20180729 35.50Km
 Mondag Tempo 9.00Km Avg.Pace 6'7''
 Onsdag Benchmark Warm Up 7:00 Benchmark 3:00 Cool Down 5:00
 Fredag Lang Løp 26.50Km Avg.Pace 6'44''
 
-##Uken 2 20180730-20180805 22.00Km
+## Uken 2 20180730-20180805 22.00Km
 Mondag Tempo 4.00Km Avg.Pace 6'7''
 Onsdag Tempo 5.50Km Avg.Pace 6'7''
 Fredag Bedring 12.50Km Avg.Pace 6'35''
 
-##Uken 3 20180806-20180812 38.50Km
+## Uken 3 20180806-20180812 38.50Km
 Mondag Tempo 9.00Km Avg.Pace 6'7''
 Onsdag Benchmark Warm Up 7:00 Benchmark 3:00 Cool Down 5:00
 Fredag Lang Løp 29.50Km Avg.Pace 6'44''
 
-##Uken 4 20180813-20180819 35.00Km
+## Uken 4 20180813-20180819 35.00Km
 Mondag Fart 5x1200m Avg.Pace 5'48'' Rest 1:45
 Onsdag Fart 6x1000m Avg.Pace 5'16'' Rest 4:45
 Fredag Lang Løp 23Km Avg.Pace 6'44'
 
-##Uken 5 20180820-20180826 40.50Km
+## Uken 5 20180820-20180826 40.50Km
 Mondag Tempo 9.00Km Avg.Pace 6'7''
 Onsdag Benchmark Warm Up 7:00 Benchmark 3:00 Cool Down 5:00
 Fredag Lang Løp 31.50Km Avg.Pace 6'44''
 
-##Uken 6 20180827-20180902 35.00Km
+## Uken 6 20180827-20180902 35.00Km
 Mondag Fart 9x400m Avg.Pace 4'37'' Rest 2:30
 Onsdag Tempo 9.00Km Avg.Pace 6'7''
 Fredag Lang Løp 26.00Km Avg.Pace 6'44''
 
-##Uken 7 20180903-20180909 4.50Km
+## Uken 7 20180903-20180909 4.50Km
 Mondag Fart 4x1000m Avg.Pace 5'16'' Rest 3:00
 Onsdag Bedring 4.50Km Avg.Pace 6'35''
 Fredag Benchmark Warm Up 7:00 Benchmark 3:00 Cool Down 5:00
 
-##Uken 8 20180910-20180915 59.50Km
+## Uken 8 20180910-20180915 59.50Km
 Mondag  Fart 5x400m Avg.Pace 4'37'' Rest 2:15
 Onsdag  Bedring 3Km Avg.Pace 6'35''
 Torsdag Bedring 14.05Km Avg.Pace 6[M :%'35''
@@ -58,4 +58,3 @@ Lørdag  Oslo Maraton Avg.Pace 6'30''
 # Reference
 1. https://www.zhihu.com/question/27479437/answer/449289836
 
- 
