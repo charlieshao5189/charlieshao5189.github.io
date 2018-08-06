@@ -10,16 +10,16 @@ tags: 2018,TV,Movie,Music,List
 - Website: https://www.popolare.no/
 - Style: Italian
 - Visit Time: August 3, 2018
-- Shoppinglist: Meat, pasta, IPA
-- Comments: First time to try italian dish instead of pizza. It tastes very good, different than any kind of food style I ate before. My perosnal salt torlarnce is light, so the ost is too salty for me. I  
+- Shopping List: Meat, pasta, IPA
+- Comments: First time to try Italian dish instead of pizza. It tastes very good, different than any kind of food style I ate before. My perosnal salt torlarnce is light, so the chess is too salty for me. 
 
 ## Shanghai 2K18
 - Address:  Kirkegata 30 Oslo, Norway 0153
 - Website: https://www.facebook.com/shanghai2K18/
 - Style: shanghai dish
 - Visit Time: June 2, 2018
-- Shoppinglist: Sliced Beef in Chili Oi，Mapo Tofu
-- Comments: This resturant gave me an fantastick experience. It is better than any Chinese resturants or asian resturants I have visited in Norway. The environment is so confortable, the food are delicious. It provide the origianl chinese dish, not the one adapte to norwegian taste. I believe I will visit this resturant again and again.  
+- Shopping List: Sliced Beef in Chili Oi，Mapo Tofu
+- Comments: This restaurant gave me an fantastic experience. It is better than any Chinese restaurants or Asian resturants I have visited in Norway. The environment is so confortable, the food are delicious. It provide the origianl chinese dish, not the one adapte to norwegian taste. I believe I will visit this resturant again and again.  
 
 
 ## Asian street food
@@ -27,7 +27,7 @@ tags: 2018,TV,Movie,Music,List
 - Website: https://mathallenoslo.no/en/butikk/noodles/
 - Style: Noodles
 - Visit Time: May 30, 2018
-- Shoppinglist: Ramen soup, shrimp dumplig
+- Shopping List: Ramen soup, shrimp dumplig
 - Comments: Norwegian asian food.
 
 ## Delicatessen Grünerløkka
@@ -35,7 +35,7 @@ tags: 2018,TV,Movie,Music,List
 - Website: http://www.delicatessen.no/
 - Style: Spanish Tapas
 - Visit Time: May 27, 2018
-- Shoppinglist: fried pepper, meat ball, king crab, shrimp ... 
+- Shopping List: fried pepper, meat ball, king crab, shrimp ... 
 - Comments: It is my first time to try tapas, very beautiful and deliciours food. But ti is a little expensive, one person can ear 3-4 tapas, but one tapas will cost 100nok everagely. 
 
 ## Nydalen Bryggeri og Spiseri 
@@ -43,7 +43,7 @@ tags: 2018,TV,Movie,Music,List
 - Website: http://www.nydalenbryggeri.no/
 - Style: Burger and Chips
 - Visit Time: May 26, 2018
-- Shoppinglist: Nydalenburger Many
+- Shopping List: Nydalenburger Many
 - Comments: Come to here to eat lunch with my colleague. It is just beside Akerselva and the eating envrionment is awesome. 
 
 ## Lofthus Samvirkelag 
@@ -51,7 +51,7 @@ tags: 2018,TV,Movie,Music,List
 - Website: http://www.lofthussamvirkelag.no/
 - Style: Italian Pizza
 - Visit Time: May 26, 2018
-- Shoppinglist: Chicken red pizza
+- Shopping List: Chicken red pizza
 - Comments: I got the knowledge of differeces between red pizza and white pizza. First to hear the plain pizza.  
 
 ## Vippa
@@ -59,7 +59,7 @@ tags: 2018,TV,Movie,Music,List
 - Website: http://www.vippa.no/
 - Style: street food
 - Visit Time: May 25, 2018
-- Shoppinglist: Thai Curry Noodle
+- Shopping List: Thai Curry Noodle
 - Comments: I have visited here many times. It a good palce for fredagspils and gather with frinds. I like the chinese dumpling, ramen, thai carry noodle.  
 
 ## Grønland Gym
@@ -67,7 +67,7 @@ tags: 2018,TV,Movie,Music,List
 - Website: http://www.gronlandgym.no/
 - Style: 
 - Visit Time: May 11, 2018
-- Shoppinglist: Beercan chicken, Brooklyn IPA, Hvitvinn, YUGURK, CHRISTIAN SIMON
+- Shopping List: Beercan chicken, Brooklyn IPA, Hvitvinn, YUGURK, CHRISTIAN SIMON
 - Comments: The best resturant of all gyms, the best gym of all resturants in Olso. Beercan chicken is perfact dinner for two person.  
 
 ## Tunco 
@@ -75,5 +75,5 @@ tags: 2018,TV,Movie,Music,List
 - Website: https://www.tunco.no/
 - Style: Asican 
 - Visit Time: May 13, 2018
-- Shoppinglist: IPA, KOH TAO 
+- Shopping List: IPA, KOH TAO 
 - Comments: All of their dishes are wok and have same price, the wok is tasty as a Chinese from north part of China. It is a very good place for sveral friends to have dinner together. 
