@@ -7,6 +7,198 @@ tags: Karense, norsk, note
 ---
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 
+# 400:
+
+# 399: Bruk av verbet KJØRE
+
+Å kjøre: bil, motor sykkel traktor, lastebil, buss, tog (sjåfør)
+
+Å kjøre på: gi 100% eller krashje med andre
+Jge kjører på med grammatikk!
+Hun kjørte på meg!
+
+Kjøre opp: førerprøven, kjørte opp bakke 
+Hun kjørte opp i går.
+Hun kjørte opp bakken på første gir.
+
+Kjøre i: krasje/treffe noe tunnel
+Hun kjørte i grøfta.
+Nå kjører vi i en tunnel.
+
+Kjøre va: fra en vei
+Kjøre av til venstre etter lyskrysset.
+De kjørte av veien på grunn av mye snø.
+
+Kjøre over: dominere andre
+Du kjører alltid over meg i diskusjoner!
+Ungdommer prøver av og til å kjøre over sine forelde.
+
+Kjøre
+-bak -etter -for -fra -gjennom -med
+-mot -rundt -til -under -mokring
+
+# 398: Jeg stikker jeg!
+Jeg stikker = Jeg drar
+Ha det! Jeg stikker nå!
+Vi stikker på ferie til Portugal!
+Hun stakk fra møtet!
+
+# 397: AT
+Sabjunksjon, innleder,leddsetninger:
+Hun sa at hun kommer snart.
+Visste du at Mina er gravide?
+At han er snill, vet vi alle.
+Jeg så at du var syk.
+Vi er sikre på at vi vinner.
+Jeg forstår at du er trøtt.
+Gå nå slik at du rekker toget.
+Till tross for at han var sint, kom han.
+
+Utrop i forbindelse med forbausels, ergetse, sorg, sinne
+At det går an å være så dum!
+At du klarer!
+At hun ikke forstår!
+At du ikke fryser!
+
+Utenat: adverb/memorere
+Barna i Norge kan synge det første verset av nasjonalsangen utenat.
+Jeg kan oppskinften utenat.
+
+Prøv:
+sier at
+flrstår at 
+hører at
+ser at
+liker at
+tenkte at
+skjønner at
+påstar at
+svarer at
+husker at
+vet at
+
+# 396: Å passe/ Å være passe
+Å passe: god match
+Buksa passer meg helt!
+Disse blomstene passer til sofaputene.
+Hun passer godt til Øyvind.
+
+Å passe: ta vare på
+Hun passer på lillebroren sin.
+Foreldre passer på sine barn.
+Jegpasser veska di mens du går på toalettet.
+
+Å være passe: adjekliv
+Kjolen er passe lang.
+Kaffen er passe varm.
+Min leilighet er passe stor for meg.
+
+# 395:Tegnsetting(komma,punktum,kolon,utropstegn)
+Punktum: På slutten av en setning.
+Jeg har en hund.
+Etter datoer/orderstall
+Hun ble født 16.mars.
+Viktig med punktum!
+
+komma: i lenger setninge
+ved oppramsing og utrop
+
+Utropstegn:ved utrop, ved forsterkende utsagn.
+Hei!
+Så fantastisk!
+
+Spøsmålstegn: på slutten av et spørsmål.
+Hva gjør du?
+Er det din katt?
+Hvem bor her?
+
+kolon: presentere/vise
+klokke slett: 21:05(21.05)
+sitat: Gustarv sa: Jeg er syk.
+Forklaring: Mitt motto er: Alt ordner seg!
+
+Semikolon: sterkere en komma, svakere en punktum.
+I går kjøte han Ferrari;I dag døde han i bilulykke!
+De som spilte var: Mai Moen, Lillistrøm; Ivar Haugen, Oslo;
+
+Anførselstegn: tale/sitater
+Han sa: "Jeg er glad i deg".
+
+Bindestrek: binde orddeler
+Youtube-kanal
+
+skråstrek: alternativer
+Når kommer du/dere?
+De kjøper øl/vin selv.
+Kan du snakke om grammatikk/rettskriving?
+
+Parentes: ekstra info
+I morgen kommer de (Jon,Lise og Marius) på besøk.
+Kan du kjøpe frukt (eple og pære) på butikken?
+
+Hva heter disse tegnene?
+;,:.-?!"/()
+
+# 394: Ord som slutter med LØS(55 stykker!)
+-LØS = uten
+adresseløs: uten adresse
+ansiktsløs: ingen grimase
+ansvarsløs: tar ikke ansvar
+arbeidsløs: uten jobb
+arveløs: arveløs ingenting
+barnløs: har ikke barn
+beinløs: uten bein(fisk)
+betydningsløs: ikke viklig
+bevisstløs: ikke tilstede
+endeløs: slutter aldri
+fantasiløs: kjedelig
+fargeløs: uten farge
+foreldreløs: har ikke foreldre
+forsvarsløs: kan ikke forsvare seg
+følellsesløs: kald
+førerløs: uten fører
+fredløs: uten for samfunnet
+fryktløs: ikke redd
+giddeløs: lat
+gledeløs: frist
+grenseløs: vill, ute av kontroll
+harmløs: ikke farlig
+håpløs: uten håp/oppgitt
+hårløs: uten hår
+hensynsløs: bryr seg ikke om andre
+historieløs: uten historie
+hjelpeløs: trenger mye hjelp
+hjemløs: bor på gata
+hjerteløs: kald
+livløs: død
+lydløs: stille, uten lyd
+maktesløs: kan ikke gjøre noe
+målløs: uten ord
+motløs: gir nesten opp
+muskuløs: veltrent
+navnløs: uten navn
+nådeløs: for ikke hensyn
+nytteløs: hjelper ikke
+papirløs: har ikke papirer
+pengeløs: blakk
+rastløs: urolig
+rådløs: vet ikke
+repektløs: uten respekt
+rotløs: klarer ikke ha i hjem
+sorgløs: glad
+søvnløs: får ikke sove
+sporløs: borte
+statsløs: har ikke statsborgerskap
+strømløs: uten strøm 
+tannløs: uten tenner
+tidløs: klassisk
+vektløs: veier ingenting
+venneløs: har ikke venner
+verdiløs: uten verdi
+vettløs: bruker ikke hodet
+
+
+
 # 393: Idiom nummer 64 Å spille med opne kort
 Å spille med åpne kort: være ærlig og ikke skjule noe eller hekle noe hemmelig.
 

@@ -193,7 +193,13 @@ tags: life, norway, learn driving
 7.靠近转盘的时候要不断地观察转盘内外的车辆情况，调整车速在适当时机切入转盘。有时候转盘有两个车道，要注意follow.
 8.今天被教练纠正了一个常识错误，以前以为进入转盘和十字路口时候的车辆位置应该一致。今天被告知通过转盘直行的时候要把车辆摆放在道路的右侧而不是中间。
 
-# 安全检查 Safty Check Sikkerhetskontroll
+# August 7, 2018 周二
 
+今天上了两节课。
+第一节课，是真正的测试，但是气氛很轻松，用了大概不到而二十分钟，我们开到市区然后返回停车的地点，除了常规在路上左转右转，看路牌指示，还测试了倒车入库，倒车后切换车道。
+第二节课，上Motorway车道，开到了lillestrøm然后回来，全程很顺利丝毫不怵。这得益于最近在帮朋友刷Hytte的外墙，所以每个星期都要往返奥斯陆和Hurdal之间，我主动请缨开车做了大量练习。
+
+# 安全检查 Safty Check Sikkerhetskontroll
+http://www.eco-trafikkskole.no/wp-content/uploads/2018/03/sikkerhetskontroll-av-bilen.pdf
 https://www.slideshare.net/VidarTrane/safety-check-class-b-license-norway-bmw-x1-2014-30147847
 
