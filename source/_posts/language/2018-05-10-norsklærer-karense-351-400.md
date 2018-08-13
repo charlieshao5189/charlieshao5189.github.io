@@ -5,11 +5,14 @@ date: 2018-05-10
 category: Språk
 tags: Karense, norsk, note
 ---
+
+# Norsklærer Karense 351-400
+
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 
-# 400:
+## 400: 
 
-# 399: Bruk av verbet KJØRE
+## 399: Bruk av verbet KJØRE
 
 Å kjøre: bil, motor sykkel traktor, lastebil, buss, tog (sjåfør)
 
@@ -17,7 +20,7 @@ Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 Jge kjører på med grammatikk!
 Hun kjørte på meg!
 
-Kjøre opp: førerprøven, kjørte opp bakke 
+Kjøre opp: førerprøven, kjørte opp bakke
 Hun kjørte opp i går.
 Hun kjørte opp bakken på første gir.
 
@@ -37,13 +40,13 @@ Kjøre
 -bak -etter -for -fra -gjennom -med
 -mot -rundt -til -under -mokring
 
-# 398: Jeg stikker jeg!
+## 398: Jeg stikker jeg!
 Jeg stikker = Jeg drar
 Ha det! Jeg stikker nå!
 Vi stikker på ferie til Portugal!
 Hun stakk fra møtet!
 
-# 397: AT
+## 397: AT
 Sabjunksjon, innleder,leddsetninger:
 Hun sa at hun kommer snart.
 Visste du at Mina er gravide?
@@ -77,7 +80,7 @@ svarer at
 husker at
 vet at
 
-# 396: Å passe/ Å være passe
+## 396: Å passe/ Å være passe
 Å passe: god match
 Buksa passer meg helt!
 Disse blomstene passer til sofaputene.
@@ -93,7 +96,7 @@ Kjolen er passe lang.
 Kaffen er passe varm.
 Min leilighet er passe stor for meg.
 
-# 395:Tegnsetting(komma,punktum,kolon,utropstegn)
+## 395:Tegnsetting(komma,punktum,kolon,utropstegn)
 Punktum: På slutten av en setning.
 Jeg har en hund.
 Etter datoer/orderstall
@@ -139,7 +142,7 @@ Kan du kjøpe frukt (eple og pære) på butikken?
 Hva heter disse tegnene?
 ;,:.-?!"/()
 
-# 394: Ord som slutter med LØS(55 stykker!)
+## 394: Ord som slutter med LØS(55 stykker!)
 -LØS = uten
 adresseløs: uten adresse
 ansiktsløs: ingen grimase
@@ -199,19 +202,19 @@ vettløs: bruker ikke hodet
 
 
 
-# 393: Idiom nummer 64 Å spille med opne kort
+## 393: Idiom nummer 64 Å spille med opne kort
 Å spille med åpne kort: være ærlig og ikke skjule noe eller hekle noe hemmelig.
 
 Hun spilte med åpne kort på jobbintervjuet da hun fortalte at hun hadde en alvorlig sykdom.
 I møtet med barnevernet spilte foreldrene med åpne kort da de fortalte om vanskelighetene med å sette grenser.
 
-# 392: Idiom nummer 61 I fyr og flamme 
+## 392: Idiom nummer 61 I fyr og flamme 
 I fyr og flamme: begeistret, ivrig, glad
 
 De var i fyr og flamme da de vant i lotto.
 Da hun fikk jobber, var hun i fyr og flamme.
 
-# 391: Idiom nummer 62 Å stå på pinne for noen
+## 391: Idiom nummer 62 Å stå på pinne for noen
 Å stå på pinne for noen: er alltid klar til å hjelpe en person, sier aldri nei...
 
 Kona står på pinne for mannen sin.
@@ -219,7 +222,7 @@ Jeg gidder ikke å stå på pinne for noen som ikke er takknemlige!
 Står du på pinne for andre eller står andre på pinne for deg?
 Familien min står på pinne for meg alltid.
 
-# 390: Vanlige feil med TID(for 4 år siden, i 4 år)
+## 390: Vanlige feil med TID(for 4 år siden, i 4 år)
 Når? Tidspunkt.
 For 8 år siden.
 For 3 måneder siden.
@@ -237,11 +240,11 @@ Jeg kom for tre år siden.
 Hvor lenge har du bodd i Norge?
 Jeg har bodd her i 3 år.
 
-# 389: Idiom nummer 61 Å kaste bort tiden
+## 389: Idiom nummer 61 Å kaste bort tiden
 De spiller playstation hele dagen, og foreldre synes at de kaster bort tiden.
 
 
-# 388: Nestenbanning, or vi sier når vi er sinte
+## 388: Nestenbanning, or vi sier når vi er sinte
 Å banne- banner - har bannet/banna
 
 religiøse banneord
@@ -269,7 +272,7 @@ Satan: Søren, Søren ta, Søren klype, Søren tute, Søren også
 Helvete: Helsike, Helgeroa, Helsfyr, Heiteste.
 
 
-# 387: Leksjon 2 FAMILIE
+## 387: Leksjon 2 FAMILIE
 Jeg(Karense)  Du
 
 feminin maskulin nøytral
@@ -467,7 +470,7 @@ FAMILIEORD
 | svigersøster(svigerinne)| svigerbror(svoger)||
 | enke          | enkemann||
 
-# 386: Leksjon 1 introduksjon
+## 386: Leksjon 1 introduksjon
 Jeg(Karense)  Du
 
 Hei! 
@@ -485,7 +488,7 @@ Hei!
 12. Hyggelig å hilse på deg! Takk i lige måte!
 13. Ha det! Ha det bra!
 
-# 385: Referat Bergenstesten
+## 385: Referat Bergenstesten
 REFERAT, delprøve 3 Bergenstesten
 Dette er et sammendrag av et intervju du får høre to ganger. Intervjuet varer i noen minutter. Du får stikkord, såkalte <momenter> som du bør lese først.
 Etter at du har hørt samtalen to ganger, skal du skrive en ekst om det som har blitt sagt.Du skal kun skrive det du har hørt, ikke skrive egne tanker eller meninger om saken.
@@ -515,7 +518,7 @@ Egne stikkord
 * Har kontakt med de andre i Skam.
 
 
-# 384: Kommaregler
+## 384: Kommaregler
 - Skyt ham, ikke vent til jeg kommer!
 - Skyt ham ikke, vent til jeg kommer!
 
@@ -582,7 +585,7 @@ Mozart, hadde litt av en fantasi.
 
 
 
-# 383: Ord som uttales feil 3
+## 383: Ord som uttales feil 3
 sosial
 euro
 Europa
@@ -594,7 +597,7 @@ teknologi
 situasjoner
 direkte
 
-# 382: Overrasket!
+## 382: Overrasket!
 Namen!
 Jøss!
 Hva i all verden!
@@ -602,7 +605,7 @@ Hva i alle dager!
 Hø?
 Jaha!
 
-# 381: Kjør på
+## 381: Kjør på
 Start:
 Kjør på 
 kom igjen
@@ -621,7 +624,7 @@ Kan jeg spørre deg om noe?
 Ja, fyr løs.
 Magnus har noe han vil si til deg. - Fyr løs!
 
-# 380: Møte og treffe
+## 380: Møte og treffe
 Treffe:
 1. Komme i kontakt med 
 Jeg traff mannen din på butikken i dag.
@@ -652,7 +655,7 @@ Erna Solberg møtte Jens stoltenberg til debatt.
 møtes/treffes s-passiv
 Vi møtes/treffes hver lørdag.
 
-# 379: norsk uttale DIFTONGER
+## 379: norsk uttale DIFTONGER
 AI:
 hai
 pai
@@ -723,7 +726,7 @@ tøye
 støy
 køye
 
-# 378: På grunn av og det kommer an på
+## 378: På grunn av og det kommer an på
 Det kommer an på = noe er avhengig av noe
 De reiser kanskje på ferie, men det kommer an på økonomein
 Får du jobben, tror du? Det kommer an på om jeg får B2 på norskprøven.
@@ -737,16 +740,16 @@ De er friske på grunn av at de spiser sunt.
 På grunn av at du kom for sent til eksamen.
 Jeg er sint på grunn av deg!
 
-# 377: Idiom nummer 60: Å gå over streken
+## 377: Idiom nummer 60: Å gå over streken
 Å gå over streken: gjøre noe umoralsk eller uetisk
 Du gikk over streken da du kritiserte mora mi.
 
-# 376: Idiom nummer 59: Å møte veggen
+## 376: Idiom nummer 59: Å møte veggen
 Å møte veggen: kaputt 
 Han møtte veggen da han mistet jobben.
 Mange mennesker møter veggen en gang i livet.
 
-# 375: Uregelrette verb på E og F
+## 375: Uregelrette verb på E og F
 E: 
 1.å ete-eter-åt-har ett
 Han åt hele pizzaen!
@@ -785,7 +788,7 @@ få-får-fikk-har fått
 Hun fikk blomster av mannen sin.
 Jeg har fått B1 på muntlig.
 
-# 374: Antakelser B1-B2 nivå(argumenterende tekst)
+## 374: Antakelser B1-B2 nivå(argumenterende tekst)
 muligens
 kansje
 det kan virke som på en måte 
@@ -801,7 +804,7 @@ tilsynelatende
 det er faktisk mulig at 
 ganske visst
 
-# 373: ORDKLASSER
+## 373: ORDKLASSER
 SUBSTANTIV:
 Egenavn: Olav,Norge,Audi
 Fellesnavn: bord,hus,munn
@@ -860,13 +863,13 @@ Ja-jo-nei
 mjau-voff-mø
 au! wow! bø!
 
-# 372: Idiom nummer 58: Å ha en bolle i ovenen
+## 372: Idiom nummer 58: Å ha en bolle i ovenen
 bety dame er gravid
 Søsre mi har en bolle i ovnen.
 Jeg må fortelle dere noe: Jeg har to boller i ovenen. tvilling
 
 
-# 371: bruk av 2 x JA eller NEI i en setning
+## 371: bruk av 2 x JA eller NEI i en setning
 Ja, ha det ja!
 Nei, jeg vet ikke det nei....
 
@@ -876,11 +879,11 @@ Nei, da går ikke det, nei.
 Ja, skal du bli med ja!
 Nei, da vant vi ikke, nei.
 
-# 370: Det er ikke bare bare, men men!
+## 370: Det er ikke bare bare, men men!
 Det er så vanskelig å betale alle regningene! 
 Ja, det er ikke bare bare, men men!
 
-# 369: Norskprøve muntlig B1-B2
+## 369: Norskprøve muntlig B1-B2
 A- uttrykke mening
 B- samtale, utveksle meninger/synspunkter
 C- argumentere ut i fra en påstand
@@ -909,7 +912,7 @@ C- påstand: enig/uenig?
  - Det er best å være gift.
  - Vi har ansvar for engen helse.
 
-# 368: Noskprøve muntlig A2-B1
+## 368: Noskprøve muntlig A2-B1
 A- fotelle/beskrive
 B- samtale/utveksle meninger
 C- uttrykke egen mening og egne synsypunkter
@@ -944,7 +947,7 @@ C- egen mening
  - Er det best å eie eller leie bolig?
  - Hva synes du sosiale media bør fokusere på?
 
-# 367: Norkprøve muntlig A1-A2
+## 367: Norkprøve muntlig A1-A2
 4 Oppgaver
 A- fortelle om deg selv
 B- beskrive bilde
@@ -991,7 +994,7 @@ D- fortelle og beskrive
 - Hva gjør du i ferien?
 - Hvor vil du ikke bo?
 
-# 366: barn, unger, tenåringer og unge mennesker
+## 366: barn, unger, tenåringer og unge mennesker
 
 0-18:
 en unge
@@ -1012,17 +1015,17 @@ Når vi tenker på unger mener vi barn!
 Hans familie har en baby, two små barn og en tenåring.
 
 
-# 365: 30 000 følgere! WoW!!
+## 365: 30 000 følgere! WoW!!
 
-# 364: Hippp Hipp Hura!
+## 364: Hippp Hipp Hura!
 
-# 363: Idiom nummer 57 Å kjøpe katta i sekken
+## 363: Idiom nummer 57 Å kjøpe katta i sekken
 Å kjøpe katta i sekken  betyr å kjøpe noe som viste seg å ha dårlig kvalitet.
 Hun kjøpte katta i sekken da hun kjøpt huset, for alt måtte repareres!
 Har du kjøpt katta i sekken før?
 Jeg kjøpt katta i sekken da jet kjøpt sko fordi jeg kan ikke løpe med dem. 
 
-# 362: Å se eller å si, to nesten like verb
+## 362: Å se eller å si, to nesten like verb
 Å se - ser - så - har sett
 Jeg ser på film.
 Hun så meg i byen.
@@ -1033,7 +1036,7 @@ Hun sier alltid hei!
 Hva sa du?
 Har du sagt A, må du si B.
 
-# 361: Orker du? Gidder du?
+## 361: Orker du? Gidder du?
 Orke/gidde = ha energi eller lyst til å gjøre noe
 Jeg orker ikke å gå på tur.
 Gidder du å kjøre meg hjem? Nei, jeg gidder ikke.
@@ -1047,7 +1050,7 @@ Hva orker du?
 Hva gidder du?
 |
 
-# 360: 1 hus - 2 hus og 1 barn - mange barn (1 bil - biler?)
+## 360: 1 hus - 2 hus og 1 barn - mange barn (1 bil - biler?)
 Ord med et som artikkel og en stavelse, får samme form i flertall ubsetemt form.
 1 hus - flere hus
 1 tips - 2 tips
@@ -1057,24 +1060,24 @@ Ord med et som artikkel og en stavelse, får samme form i flertall ubsetemt form
 et:
 tips, hus, barn, mål, tak, brev, skap, barnebarn
 
-# 359: Løvetannbarn
+## 359: Løvetannbarn
 Hvitveis
 Blåveis
 Hestehov
 
 Et løvetannbarn er et barn som klarer seg uansett hvor vanskelig barndommen har vært.
 
-# 358: Idiom nummer 55 Som fisken i vannet
+## 358: Idiom nummer 55 Som fisken i vannet
 som fisken i vannet: perfekt
 Han har det som fisken i vannet i sin nye jobb.
 Jeg trives som fisken i vannet her i Oslo.
 Jeg trives som fisken i vannet i norge.
 
-# 357: Idiom nummer 54 Å være grønn av misunnelse
+## 357: Idiom nummer 54 Å være grønn av misunnelse
 Å være grønn av misunnelse: syk av misunnelse.
 Du er grønn av misunnelse på bilen min!	
 
-# 356: Eller og Ellers
+## 356: Eller og Ellers
 Eller: konjunksjon
 Står mellon to valg:
 Vil du ha te eller kaffe?
@@ -1091,19 +1094,19 @@ Betal fakturaen, ellers får du inkassogebyr!
 Hun er sliten i dag, men ellers er hun energisk.
 I dag har vi ikke kake i kantina, men ellers har vi det.
 
-# 355: Idiom nummer 53 Å falle i staver
+## 355: Idiom nummer 53 Å falle i staver
 Å faller i staver:
 å bli borte i blikket
 Hun falt i staver mens jeg snakket med henne.
 Har du falt i staver før?
 
-# 354: Idiom nummer 52 Grønne fingre
+## 354: Idiom nummer 52 Grønne fingre
 Å ha grønne fingre:
 å være flik med planter
 Naboen min har grønne fingre. Hagen er nydelig!
 Mormoren min har grønne fingre. Hun har en vakker hagen.
 
-# 353: IGJEN og IGJEN(bruk av ordet igjen)
+## 353: IGJEN og IGJEN(bruk av ordet igjen)
 Rest/i behold/ekstra
 Jeg har ti kroner igjen.
 Vi har igjen litt mat fra middagen i går.
@@ -1121,13 +1124,13 @@ På sommeren skal de jobbe igjen på gartneriet.
 Uttrykk med igjen:
 Kjenne igjen:
 
-# 352 Idiom nummer 51 Å holde en i ørene
+## 352 Idiom nummer 51 Å holde en i ørene
 Å holde en i ørene: ha kontroll på
 
 Marianne holder mannen sin i ørene.
 Foreldrene til Tom holder ham i ørene. Det er bra!
 
-# 351 Idiom nummer 50 Å felle krokodilletårer
+## 351 Idiom nummer 50 Å felle krokodilletårer
 Å felle krokodilletårer: 
 falsk gråt
 Sønnen min felte krokodilletårer for å få spille lenger.

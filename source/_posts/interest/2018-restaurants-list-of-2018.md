@@ -5,7 +5,18 @@ date: 2018-04-29
 category: 兴趣
 tags: 2018,TV,Movie,Music,List
 ---
+
+## Asican Box
+
+- Address:  Sporveisgata 35B, 0354 Oslo
+- Website: http://asianbox.no/
+- Style: Asian Fusion
+- Visit Time: August 11, 2018
+- Shopping List: Kirin beer. Red wine. OMAKASE MENY
+- Comments: Asian fusion food. More like a mix of 2/3 european food and 1/3 chinese food. Two dishes are servered with fried rice. The sause with dish is sweet and tasty like Chashao. There are totaolly foure dishes in addition to dessert in Omakase menu.
+
 ## Trattoria Popolare 
+
 - Address:  Trondheimsveien 2, 0560 Oslo
 - Website: https://www.popolare.no/
 - Style: Italian
