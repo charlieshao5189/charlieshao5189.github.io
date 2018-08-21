@@ -18,21 +18,25 @@ Lang Løp: LSD, 有氧耐力跑的是在65%—79%HRmax强度或者在此心率�
 Mondag Tempo 9.00Km Avg.Pace 6'7''
 Onsdag Benchmark Warm Up 7:00 Benchmark 3:00 Cool Down 5:00
 Fredag Lang Løp 26.50Km Avg.Pace 6'44''
+这周跑了两次:周三的9.87KM节奏跑，平均速度6'15。周日的21.13KM长跑,平均速度7'38。
 
 ## Uken 2 20180730-20180805 22.00Km
 Mondag Tempo 4.00Km Avg.Pace 6'7''
 Onsdag Tempo 5.50Km Avg.Pace 6'7''
 Fredag Bedring 12.50Km Avg.Pace 6'35''
+这周跑了一次:周二的11.36KM节奏跑，平均速度6'00。
 
 ## Uken 3 20180806-20180812 38.50Km
 Mondag Tempo 9.00Km Avg.Pace 6'7''
 Onsdag Benchmark Warm Up 7:00 Benchmark 3:00 Cool Down 5:00
 Fredag Lang Løp 29.50Km Avg.Pace 6'44''
+这周跑了两次:周二的30.03KM长跑,平均速度6'19，周四的10.42KM间歇跑，最快速度4'23，平均速度6'18。
 
 ## Uken 4 20180813-20180819 35.00Km
 Mondag Fart 5x1200m Avg.Pace 5'48'' Rest 1:45
 Onsdag Fart 6x1000m Avg.Pace 5'16'' Rest 4:45
 Fredag Lang Løp 23Km Avg.Pace 6'44'
+这周跑了两次:周二的33.07KM长跑,平均速度6'24，周五的12.11KM间歇跑，最快速度4'17，平均速度5'31。
 
 ## Uken 5 20180820-20180826 40.50Km
 Mondag Tempo 9.00Km Avg.Pace 6'7''

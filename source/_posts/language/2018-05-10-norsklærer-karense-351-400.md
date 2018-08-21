@@ -10,7 +10,11 @@ tags: Karense, norsk, note
 
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 
-## 400: 
+## 400: Idiom 65: Komme her og komme her
+
+Betyr å trenge seg på
+
+Du må ikke komme her og komme her for å fortelle meg hvordan jeg skal leve mitt liv!
 
 ## 399: Bruk av verbet KJØRE
 
