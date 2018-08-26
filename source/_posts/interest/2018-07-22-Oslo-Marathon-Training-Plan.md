@@ -42,6 +42,7 @@ Fredag Lang Løp 23Km Avg.Pace 6'44'
 Mondag Tempo 9.00Km Avg.Pace 6'7''
 Onsdag Benchmark Warm Up 7:00 Benchmark 3:00 Cool Down 5:00
 Fredag Lang Løp 31.50Km Avg.Pace 6'44''
+这周只跑了一次: 周日17.70公里长跑，平均速度6'40。刚开始状态不错，后来尝试了Ulevålsetter到Tryvannstua的小路，速度就上不去了。
 
 ## Uken 6 20180827-20180902 35.00Km
 Mondag Fart 9x400m Avg.Pace 4'37'' Rest 2:30

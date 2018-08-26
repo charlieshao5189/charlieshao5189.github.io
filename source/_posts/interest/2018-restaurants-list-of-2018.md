@@ -6,13 +6,22 @@ category: 兴趣
 tags: 2018,TV,Movie,Music,List
 ---
 
+## Tukthuset Mat&Drikke
+
+- Address: Hammersborggata 2, 0181 Oslo
+- Website: http://tukthuset.no
+- Style: Latin-American
+- Visit Time: August 24, 2018
+- Shopping List: sharing dishes, Suspiro Limeno 
+- Comments: I will give service five stars to this resturant, the waiters are all very polite and nice, they all looks young and full of pasion. The food is also prety good, it is Latin-American fusion food, but still test very very good.  
+
 ## La Sangria 
 
 - Address: Holbergs gate 19, 0166 Oslo
 - Website: http://www.lasangria.no/
 - Style: Spanish food: Tapas, Paella
 - Visit Time: August 18, 2018
-- Shopping List: Fatøl, Tapas,  
+- Shopping List: Fatøl, Tapas
 - Comments: Visit this restaurant with other two frinds just like last time visit Delicatessen Grünerløkka. This resturant is totally spanish style. The owner deployed many their collections around the resutrant. You can image yourself is at span, but in span people do not serve tapas like dinner in a resturation. The price of food is cheapter than Delicatessen, but tapas from Delicatesen are a little more tasty and exquisite. I would like to try paella next time in this restaurant.
 
 ## Asican Box

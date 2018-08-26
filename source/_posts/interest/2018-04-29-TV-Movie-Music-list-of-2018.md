@@ -20,18 +20,19 @@ tags: 2018,TV,Movie,Music,List
 - [x] Pacific Rim: Uprising
 - [x] Along with the Gods
 - [x] Taxi 2 -20180602
-- [ ] Darkest Hour
-- [ ] Avengers: Infinity War
+- [x] Darkest Hour
 - [x] 我不是药神
 - [x] Jurassic Park 2 -20180722
 - [x] Dangal
 - [x] Mission: Impossible-Fallout -20180803 IMAX 
+- [x] Thelma 
 
 ## TV
 - [x] The End of the F\*\*\*ing World S1
 - [x] Sherlock Holmes S1.2.3
 - [x] Westworld S2
 - [x] SKAM S1.2.3.4
+- [ ] Kampen om tungtvannet 
 - [ ] Forbrytelsen S1.2.3
 - [ ] Heimebane S1
 - [ ] Dag S1.2.3
@@ -50,8 +51,8 @@ tags: 2018,TV,Movie,Music,List
 * 林宥嘉 - 成全 
 * 陈粒 - 奇妙能力歌
 * Lukas Graham - 7 Years
-* Luis Fonsi - Despacito
 * Alan Walker - Faded
+* Alan Walker - Alone
 * 五月天 - 后来的我们
 * 莫文蔚 - 慢慢喜欢你
 
