@@ -49,16 +49,22 @@ Mondag Fart 9x400m Avg.Pace 4'37'' Rest 2:30
 Onsdag Tempo 9.00Km Avg.Pace 6'7''
 Fredag Lang Løp 26.00Km Avg.Pace 6'44''
 
+有点惭愧，现在跑步跑步看时间和心情，本周没有进行长距离的训练，只进行了了一个十二公里和一个十公里，计划总是赶不上变化。下周要闭关修炼，专心跑步，迎接下下周末的马拉松。
+
 ## Uken 7 20180903-20180909 4.50Km
 Mondag Fart 4x1000m Avg.Pace 5'16'' Rest 3:00
 Onsdag Bedring 4.50Km Avg.Pace 6'35''
 Fredag Benchmark Warm Up 7:00 Benchmark 3:00 Cool Down 5:00
+
+周二要跑一个全程马拉松。
 
 ## Uken 8 20180910-20180915 59.50Km
 Mondag  Fart 5x400m Avg.Pace 4'37'' Rest 2:15
 Onsdag  Bedring 3Km Avg.Pace 6'35''
 Torsdag Bedring 14.05Km Avg.Pace 6[M :%'35''
 Lørdag  Oslo Maraton Avg.Pace 6'30''
+
+周二十公里，周四十公里。周六全马。
 
 # Reference
 1. https://www.zhihu.com/question/27479437/answer/449289836

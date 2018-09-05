@@ -36,6 +36,49 @@ Jeg vet at Tokyo er hovedstad i Japan, men jeg kjenner ikke Tokyo fordi jeg har 
 
 skjenne
 
+# Video 47: Preposisjonene TIL og FOR, ikke lett!!!
+
+TIL:
+
+fra A til B
+Jeg gir penger til deg.
+Vi kjører fra Oslo til Ås.
+Er denne telefonen til meg?
+Her er en kopp te til deg.
+
+med verb i infinitiv
+Flink til å...   danse
+Bruker _ til å... bruker glass til å drikke av
+
+med substantiv
+Hva spiser du til lunsj.
+Boka er til klassen.
+
+FOR:
+
+grunn
+Jeg spiser sunt for å være frisk.
+Hvorfor studerer du? For å bli bedre!
+
+vanlige uttrykk
+å bestemme seg for
+å ha behov for- ha bruk for
+å være glad for (at)
+å være lett for noen
+å være redd for
+å være vanskelig for
+
+for+ adjektiv
+Buksa er for stor!
+Lønna er for lav.
+For det første/andre
+
+Vanlig feil:
+vanskelig for meg
+Hva har vi til middag?
+Jeg gruer med til eksamen.
+Han studerer for å bli flink i norsk.
+
 # 39:
 Å gå - går - gikk - har gått  =  walk by feet   
 wrong: gå til Kina/UK

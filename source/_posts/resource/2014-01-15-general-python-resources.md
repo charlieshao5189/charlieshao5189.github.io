@@ -2,10 +2,11 @@
 layout: post
 title: Python 常用资源
 category: 资源
+date: 2018-01-01
 tags: Python
-keywords: Python
-description: 
 ---
+# Python 常用资源
+
 
 ## 常用代码
 
@@ -36,3 +37,5 @@ description:
 ### 之后的包从绝对位置导入
     from __future__ import absolute_import
 
+## Reference 
+Matplotlib, Pyplot, Pylab: http://queirozf.com/entries/matplotlib-pylab-pyplot-etc-what-s-the-different-between-these

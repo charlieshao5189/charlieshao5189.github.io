@@ -10,3 +10,7 @@ tags: life, thinking
 [] Skrivefeil: substantiv, veb ...
 [] Personlige pronomen, reflektere pronomen, eiendomspronomen
 [] anspent (tense): presnes, preteritum, presens perfektum
+
+
+
+

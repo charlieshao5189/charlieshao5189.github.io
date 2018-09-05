@@ -10,6 +10,44 @@ tags: Karense, norsk, note
 
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 
+## 410: B1 B2 skriftlig oppgave om fedme
+
+Det er flere voksne og barn som er overvektige i dag. Samtidig er det dyrt å spise sunt. Hva mener du staten kan gjøre med saken? Hvem har ansvar for folks helse? Skriv dine tanker om dette og drøft løsninger på problemet.
+
+Livet vårt har uten tvil blitt enklere enn for 50 år siden, og samfunnet har forandret seg veldig mye siden da. Folk som befinner seg i slike samfunn har også blitt påvirket av forandringene som har skjedde.Man kan ikke si at alle forandringene er gode, for dessverre finne s det en god del som ikke er det. En av disse forandringene er fedme. Dette problemet øker uheldigvis stadig med tiden.
+
+Det er flere grunner til dette. Først og fremst er usunn mat hovedsakelig grunnen til fedme. Folk bryr seg ikke om å vite hva sunn mat er, eller om å spise sunn mat. Noen tenker at det tar lang tid til å lage slike mat, og derfor foretrekker de å kjøpe eller lage usunn mat. Men dette gjelder ikke for barn fordi det å lage mat er foreldrenes ansvar.
+
+En annen årsak til at folk beveger seg mye mindre enn før er at vi bruker transport midler veldig ofte til tross for at vi av og til kan gå fra eller til jobb og skole. Sosiale medier har også førte til mangel på bevegelse. Vi kan se dette spesielt hos barn når de kommer fra skolen og bruker mye tid på datamaskin, telefon og tab i stedet for å leke med jevnaldrende.
+
+I tillegg til grunnene som ble nevnt ovenfor er psykiske problemer en viktig årsak til dette. Her for eksempel kann man si at ekteskapsproblemer ofte kan føre til at barna blir overvekige.
+
+Jeg synes at staten har et stort ansvar for å løse dette. Staten kan for eksempel gjennomføre noen regler slik at sunn mat blir billigere og lettere å finne. Statens medier som TV, radio og avis kan også brukes til å vise og hjelp fork med infromasjon om hva sunn mat er og hva konsekvensene er når man ofte spiser usunn mat. Skoler kan bidra med mye og arrangere noen aktiviteter eller foredrag for elever og snakke om sunn mat på en enkel mårte.
+
+Folk har også et betydelig ansvar. Det lønner seg faktisk å bevege seg mye mer og delta i noen aktiviter. Foreldrene har enda mer ansvar for sine barn, og de må hjelpe dem til å være mer aktive og spise sunn mat.
+
+Til slutt kan man konkludere med at alle, både staten, skole, media og folk har et stort ansvar for å løse dette problemet og det er viktig at alle samarbeider for å få de best resultatene.
+
+
+
+## 409: B1 B2 skriftlig oppgave om integrering
+
+Hva er grunnene til at mange innvandrere har vanskeligheter med å integrere seg i Norge?
+
+I de siste årene har Norge blitt ett av de mest attraktive landene for innvandrer fra alle verdens kanter, og det er mange grunner til dette. Noen innvandrere kommer på grunn av krigen i deres land, andre kommer for å jobbe, en del av dem vil studere her i landet, og det kan rett og slett være at noen vil flytte hi for å benytte seg av den flotte naturen i Norge.
+
+Men det er ikke så enkelt som det ser ut. Den største utfordringen for innvandrere er å integrere seg i samfunnet. Det kan egentlig være vansklig å integrere seg i Norge og det finnes noen grunner til dette.
+
+Først og fremst kan forskjeller i kultur, bakgrunn og religion skape en enorm vaskelighet for integreringen. Det er mange som kommer som har vanskelig for å forstå nosk kultur og tradisjoner. Fordi de ikke er vant til tradisjonene og kulturen og kan sammenligne dette md engen bakgrunn kan det være et problem. Dette gjelder også noen norske for de vil ikke at innvandrere skal ta vare på deres kultur og tradisjoner. 
+
+Språket kan likeledes være en årsak til at det blir vansklig å integrere seg i Norge. Norsk språk er jo ikke lett å lære, men det er alfa og omega å lære seg det. Som sagt har innvandrere som kom ulik bakgrunn eller utdanning. Noen kommer fra et fattig land der de ikke gikk på skolen. Noen kvinner hadde aldri gått på skolen i hjemlandet sitt. Dette gjør det vanskeligere å lære nosk og det fører til større vanskeligheter med å integrere seg.
+
+I Norge er det en lang, kald og mørk vinter, og det regner og snør gansk mye. Dette er sikkert en utfordring for mange innvandrere som ikke er vant til slike forhold. Disse forholdene kan gjøre det vansklig for noen å delta i det norke livet og samfunnet.
+
+Sist, men ikke minst er det ikke lett å finne en jobb i Norge. Noen innvandrere kom uten utdanning eller yrke fra hjemlandet. De må studere på nytt eller ha noen kurs for å kvalifisere seg for å ha bedre sjanser. Og de som har høy utdanning får mange utfrodringer nå det gjelder å jobbe i deres fag.
+
+Til syvende og sist kan man si at integrering skapes begge veier, ved at nordmenn og innvandrere er sammen om det. Norge må tenke på at de som kom er ressurser og ikke forbrukere, og de kan ikke vite alt om det norske livet og språket over natten. Innvandrere har også et stort ansvar for å gjøre det beste de kan for å lære språket, forstå og respektere nosk kultur og tradisjioner og prøve hardt å finne en jobb. På denne måten blir det enklere og raskere å integrere seg i Norge.
+
 ## 408: Engelske ord i norsk
 
 Anglisisme:
