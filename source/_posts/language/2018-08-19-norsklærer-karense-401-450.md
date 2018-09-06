@@ -10,6 +10,139 @@ tags: Karense, norsk, note
 
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 
+## 414 53 verb med UT
+
+Fra inne til ute:
+se ut
+styrte ut
+gå ut
+kjøre ut
+rope ut
+
+Tømme noe:
+helle ut
+drikke ut (et glass)
+tømme ut
+slå ut (i vasken)
+
+Fullstendig/ferdig
+greie ut
+slite ut
+
+Gjøre offentlig
+lyse ut (en stilling)
+
+Klare: holde ut, stå ut
+Skjema: fylle ut
+Fritt: leve ut
+Vise for publikum: stilk ut
+Skaffe opplysning: finne ut
+Publisere på markedet: komme ut
+utsennde: se ut
+Gjøre noe dumt: tabbe/dumme seg ut
+Være annerledes: skille seg ut
+Bolig/bil: leie ut
+påvirke negativt: gå ut over
+Betale: punge ut
+Resultat: munne ut (i)
+Separere noe: skille ut
+Dele/publisere(gratis): git ut 
+GI noe til alle: dele ut
+Står lenger ute: stikke ut
+Betale for noen: legge ut
+Publisere på nett: legge ut
+Tilbud om loddtrekning: lodde ut
+Blomstene/bladene åpnes: sprette ut
+Gjøre glatt: jevne ut
+Ta energien: suge ut
+Kalkulere: regne ut
+Fundere: tenke ut
+Det man hører: høres ut
+Ikke gi opp: holde ut
+Stenge fra fellesskap: fryse ut
+Starte: bryte ut
+printe: skrive ut
+Ikke være produksjon: gå ut
+Frigi: slippe ut
+Sjekke: teste ut
+Større bolig: bygge ut
+
+Setninger:
+
+1. Jeg må kjøre ut byen til hytta. 
+2. Når jeg drikker øl, like jeg å helle ut det til glass. 
+3. Når jeg er på jakt etter egen leilighet, skal Jeg lyse ut bolig annonser.
+4. I Norge kan menesker gi ut gammle ting på finn.no
+5. Da jeg løp maraton, må jeg holde ut til terminaLpunkt.
+
+## 413: Idiom 68 Å være på bærtur
+
+1. Være langt unna der man skulle være 
+Keeperen var på bærtur da ballen trillet inn i mål.
+
+2. Være på villspor
+Du er på bærtur når du snakker politikk.
+
+## 412: lage, skape og gjøre
+
+Å lage: produsere
+Vi lager mat.
+De lager en film.
+Kan du lage en snømann?
+
+Å skape: forme noe nytt
+Vi skaper en ny verden gjennom fantasi.
+De skapte en fin familie.
+
+Å gjøre: ha effekt/aktivitet
+Vi gjør lekser.
+Det gjør vondt i foten.
+Hva gjør du?
+
+1. Denne resturant er flik til å lage flansk mat.
+2. Jo Nesbø skapte mange fantastisk kriminalromaner.
+3. Jeg har mange lekser å gjøre etter norskkurs.
+
+## 411: Fortsatt, fremdeles, foreløpig, ennå og enda
+
+Fortsatt og fremdeles
+Synonymer, samme betydning
+Fortsatt oftest brukt muntlig.
+Fremdeles er mer formelt.
+
+Han bor fortsatt(fremdeles) her.
+Elevene leser fortsatt(fremdeles).
+Jeg har fortsatt(fremdeles) ikke fått lån.
+
+Ennå: slutten av setningen 
+Vi har ikke spist ennå.(yet)
+Tor jobber på IKEA ennå.(till)
+Jeg har ikke lært fansk ennå.
+
+Enda: tidsadverb
+Arbeidet er ikke gjort enda(ennå).(yet)
+De venter enda(ennå).(still)
+
+Forsterkende gradsadverb:
+ekstra->enda
+Denne pizzaen smakte enda bedre enn den første!
+Han er end mer forsinket.
+
+Subjunksjon-> selv om
+Enda jeg er trøtt, ser jge på TV.
+Enda sigoretter er dyrt, røyker mange.
+
+Foreløpig: midlertidig, venter på en endring.
+Vi bor her foreløpig til huset er ferdigstilt.
+Renta har foreløpig ikke økt.
+
+Fortsatt/fremdeles og ennå/enda: still
+Jeg har forsatt fortsatt/fremdeles/ennå/enda di.
+
+Feil:
+Jeg har (-fortsatt/fremdeles-)ikke drukket te enda.
+Han har (-fortsatt/fremdeles-) ikke sovnet enda.
+
 ## 410: B1 B2 skriftlig oppgave om fedme
 
 Det er flere voksne og barn som er overvektige i dag. Samtidig er det dyrt å spise sunt. Hva mener du staten kan gjøre med saken? Hvem har ansvar for folks helse? Skriv dine tanker om dette og drøft løsninger på problemet.
