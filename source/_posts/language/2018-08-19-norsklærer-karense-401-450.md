@@ -10,6 +10,42 @@ tags: Karense, norsk, note
 
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 
+## 418: Ja vel! Bruk av ordet VEL
+
+Vel: inne i setningen selvfølgelighet
+Du har vel lest reglene?
+Kollegaene dine hadde vel spist lunsj før møtet startet?
+
+Vel: starter å fortelle noe
+Har du fått joben?
+Vel, jeg har ikke fått noe svar ennå.
+Er det din bil?
+Vel, ikke min.
+
+Vel: bra
+Er det vel med faren din?
+Hvordan går det på jobb?
+Alt er vel.
+
+ L
+VEL
+ V
+ 
+## 417: En vanlig feil (ikke ingenting)
+
+Jeg har ikke sett ~~ingenting~~**noe(noen ting)**.
+Hun gjorde ikke ~~ingenting~~**noe(noen ting)**.
+Det er ikke ~~ingenting~~**noe(noen ting)** feil.
+
+## 416: Knyttet til
+
+Knyttet til: relatere til
+Saken er knyttet til politikk.
+Marie er sterkt knyttet til foreldrene sine.
+
+## 415:  ONLINE-KURS FOR NORSKPRØVEN 170 kroner for 3 måneder
+karense@norwegianteaching.com
+
 ## 414 53 verb med UT
 
 Fra inne til ute:
