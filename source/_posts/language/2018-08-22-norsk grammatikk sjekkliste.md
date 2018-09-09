@@ -7,9 +7,9 @@ tags: life, thinking
 ---
 # Norsk Grammatikk Sjekkliste for Hjemmelekse
 
-[] Skrivefeil: substantiv, veb ...
+[] Skrivefeil: substantiv, veb , adjective...
 [] Personlige pronomen, reflektere pronomen, eiendomspronomen
-[] anspent (tense): presnes, preteritum, presens perfektum
+[] tempus (tense): presnes, preteritum, presens perfektum
 
 
 
