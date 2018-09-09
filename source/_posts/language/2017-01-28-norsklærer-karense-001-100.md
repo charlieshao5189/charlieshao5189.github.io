@@ -21,20 +21,7 @@ Hun elsker taco!
 Han er glad i taco.
 Han elsker henne,men hun elsker en annen.﻿
 
-# Video 43: Å VITE eller Å KJENNE?
-Å VITE, VITER, VET, HAR VISSTE
-fakt:
-Jeg vet at Oslo er hovedstad i norge.
-Jeg vet mye om historie.
 
-Å KJENNE, KJENNER, KJENTE, HAR KJENT
-personlig erfaring:
-Jeg kjenne deg.
-Før kjente vi en mann fra Irak.
-
-Jeg vet at Tokyo er hovedstad i Japan, men jeg kjenner ikke Tokyo fordi jeg har ikkevært der.
-
-skjenne
 
 # Video 47: Preposisjonene TIL og FOR, ikke lett!!!
 
@@ -78,6 +65,61 @@ vanskelig for meg
 Hva har vi til middag?
 Jeg gruer med til eksamen.
 Han studerer for å bli flink i norsk.
+
+# Video 43: Å VITE eller Å KJENNE?
+Å VITE, VITER, VET, HAR VISSTE
+fakt:
+Jeg vet at Oslo er hovedstad i norge.
+Jeg vet mye om historie.
+
+Å KJENNE, KJENNER, KJENTE, HAR KJENT
+personlig erfaring:
+Jeg kjenne deg.
+Før kjente vi en mann fra Irak.
+
+Jeg vet at Tokyo er hovedstad i Japan, men jeg kjenner ikke Tokyo fordi jeg har ikkevært der.
+
+skjenne
+
+# 41: Hvordan bruker vi IKKE på norsk. A1-B2 nivå
+
+Helsetninger:
+Jeg har ikke tid.
+Jonas skal ikke jobbe nå.
+Vi får ikke lov!
+Nå ser han ikke på TV.
+Her kjøper ikke vi noe.
+Her kjøper vi ikke noe.
+
+Imperativ:
+Ikke se!
+Ikke gå!
+Ikke gjør det.
+
+Utrop:
+Ikke har vi penger og ikke har vi jobb.
+Ikke hører han på meg og ikke snakker han til meg.
+
+Spørresetininger:
+Hvorfor kommer ikke Maria i dag?
+Hvorfor kommer hun ikke i dag?
+Har han ikke bil?
+
+Nei-svar...
+Har hun ikke gjort leksa?
+Nei, det har hun ikke.
+
+Leddsetninger:
+Ring meg selv om du ikke kan komme i morgen.
+Han har en bror som ikke bor i Norge. 
+Sjefen sa at vi ikke sakl dra på konferansen.
+Bilen har en feil som jeg ikke kan fikse.
+
+Betinget adverb:
+Hvis vi ikke forstår, spør vi.
+Dersom krigen i syria ikke slutter snart, kan vi ikke få fred.
+
+Ikke sant?
 
 # 39:
 Å gå - går - gikk - har gått  =  walk by feet   
