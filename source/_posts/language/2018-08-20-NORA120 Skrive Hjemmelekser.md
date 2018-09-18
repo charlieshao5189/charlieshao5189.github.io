@@ -28,10 +28,12 @@ få-færre-færrest
 
 ## 2018-09-09 UKE3 Et Miljøvennlig Liv
 
-Jeg liker filmen <WALL·E> som beskrive gode froholdet mellom roboter, mem denne er en trist historie om miljøet i fremtidens verden. Det er ingen grønn plante på jorden，så mannesker må flykte til verdensrommet. Hvis alle prøve å leve et miljøvennlig liv, vil dette ikke skje.
+Et ~~M~~**m**iljØvennlig Liv
 
-Jeg har bodd i Norge i tre år, lærte jeg mange metoder om hordan kan vi leve et miljøvennlig og billig liv. Jeg tar en vannflaske med meg og drikker springvann hver dag, fordi sprigvann smaker nydlig og mineralvann er dyrt og koster mer energi. Plast blir et viktig problem i dag, men vi kan redusere og kildesortere plast. Klutpose er sterkere og mer miljøvennlig enn bærepose for jeg bruk kutpose når jeg kjøper. Offentlig transport er parktisk og trygt i landet for det er mitt første alternative når jeg trenger å reise. Nå kan jeg alså klassifisere avfallet, så dette can blir nye, rimelige produkter og sparer miljøet.
+Jeg liker filmen <WALL·E> som beskrive**r** gode ~~froholdet~~**forholdet** mellom roboter, men ~~denne~~**dette** er en trist historie om miljøet i fremtidens verden. Det er ingen grønn plante på jorden，så ~~mannesker~~**mennesker** må flykte til verdensrommet. Hvis alle prøve**r** å leve et miljøvennlig liv, vil dette ikke skje.
 
-Norge har mange mange naturressurser, så springvann og elektrisitet er billig i landet, med jeg tro dette er ikke grunnen som vi kan kaste bort dem. Jeg så mange kollegene min like å la pc-en stå på standby og slå ikke av lysene i kontorer når de dra hjem. Manasker i landet like å kjøpe mer klær og mat enn deres behov. De blir fortsatt avfall. Jeg skal minne dem når jeg så disse igjen.
+Jeg har bodd i Norge i tre år, **og** lært~~e~~ ~~jeg~~ mange metoder om ~~hordan kan vi~~ **vi kan hordan** leve et miljøvennlig og billig liv. Jeg tar en vannflaske med meg og drikker springvann hver dag, fordi ~~sprigvann~~**springvann** smaker ~~nydlig~~**nydelig** og mineralvann er dyrt og koster mer energi. Plast blir et viktig problem i dag, men vi kan redusere og kildesortere plast. ~~Klutpose~~**Bærenett** er sterkere og mer miljøvennlig enn bærepose ~~for~~**og** jeg bruk**er** ~~kutpose~~**Bærenett** når jeg kjøper. Offentlig transport er ~~parktisk~~**praktisk** og trygt i landet for det er mitt første alternativ~~e~~ når jeg trenger å reise. Nå kan jeg ~~alså~~**også** klassifisere avfallet, så dette ~~can~~**kan** bli nye, rimelige produkter og spare~~r~~ miljøet.
+
+Norge har mange mange naturressurser, så springvann og elektrisitet er billig i landet, men jeg tro**r** **ikke** dette er ~~ikke~~ grunn~~en~~ ~~som~~ **til at** vi kan kaste bort dem. Jeg så mange kollegene min liker å la pc-en stå på standby og **ikke** slå ~~ikke~~ av lysene ~~i~~ **på** kontorer når de drar hjem. ~~Manasker~~**Mennesker** i landet like å kjøpe mer klær og mat enn deres behov. De blir fortsatt avfall. Jeg skal minne dem **på dette** når jeg se**r** disse igjen.
 
 Hvis alle har miljøvennlig liv, blir jorden bedre.

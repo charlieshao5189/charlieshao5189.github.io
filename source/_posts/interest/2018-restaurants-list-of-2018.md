@@ -6,6 +6,15 @@ category: 兴趣
 tags: 2018,TV,Movie,Music,List
 ---
 
+## NEDRE LØKKA COCKTAILBAR & LOUNGE  
+- Address: THORVALD MEYERS GATE NR. 89
+- Website: https://www.nedrelokka.com
+- Style: Cocktail bar
+- Visit Time: September 15, 2018
+- Shopping List: one 
+- Comments: 
+
+
 ## Tukthuset Mat&Drikke
 
 - Address: Hammersborggata 2, 0181 Oslo
@@ -14,6 +23,8 @@ tags: 2018,TV,Movie,Music,List
 - Visit Time: August 24, 2018
 - Shopping List: sharing dishes, Suspiro Limeno 
 - Comments: I will give service five stars to this resturant, the waiters are all very polite and nice, they all looks young and full of pasion. The food is also prety good, it is Latin-American fusion food, but still test very very good.  
+
+
 
 ## La Sangria 
 
@@ -46,10 +57,12 @@ tags: 2018,TV,Movie,Music,List
 - Address:  Kirkegata 30 Oslo, Norway 0153
 - Website: https://www.facebook.com/shanghai2K18/
 - Style: shanghai dish
-- Visit Time: June 2, 2018
+- først Visit Time: June 2, 2018
 - Shopping List: Sliced Beef in Chili Oi，Mapo Tofu
 - Comments: This restaurant gave me an fantastic experience. It is better than any Chinese restaurants or Asian resturants I have visited in Norway. The environment is so confortable, the food are delicious. It provide the origianl chinese dish, not the one adapte to norwegian taste. I believe I will visit this resturant again and again.  
-
+- Second visit time: September 15, 2018
+- Shopping List: 麻婆豆腐鳕鱼片， 辣子鸡
+- Comments: 两道菜有点辣，但是依然好吃到爆。这家餐厅是我在国外去过的最好的中餐厅，装潢现代，菜品一流，打十分。
 
 ## Asian street food
 - Address:  Vulkan 5, 0178 Oslo
