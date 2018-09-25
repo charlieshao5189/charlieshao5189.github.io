@@ -176,3 +176,8 @@ git config --global color.diff auto
 git config --global color.status auto
 git config --global color.branch auto
 ```
+
+### 修复git status文件全部显示修改的问题
+
+git config core.autocrlf true
+git config core.filemode false
