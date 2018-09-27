@@ -37,3 +37,12 @@ Jeg har bodd i Norge i tre år, **og** lært~~e~~ ~~jeg~~ mange metoder om ~~hor
 Norge har mange mange naturressurser, så springvann og elektrisitet er billig i landet, men jeg tro**r** **ikke** dette er ~~ikke~~ grunn~~en~~ ~~som~~ **til at** vi kan kaste bort dem. Jeg så mange kollegene min liker å la pc-en stå på standby og **ikke** slå ~~ikke~~ av lysene ~~i~~ **på** kontorer når de drar hjem. ~~Manasker~~**Mennesker** i landet like å kjøpe mer klær og mat enn deres behov. De blir fortsatt avfall. Jeg skal minne dem **på dette** når jeg se**r** disse igjen.
 
 Hvis alle har miljøvennlig liv, blir jorden bedre.
+
+## 2018-09-23 UKE3 Innvandring og utvandring
+a) Fortell hvor du har bodd før.
+Kina er mitt hjemland. Jeg ble ført og vokste opp i Kina før jeg kom til Norge for tre år siden. Jeg bodde i fire byer da jeg bodde i Kina. Jeg har bodd i min hjemby i 18 år før jeg kom til andre by å studere i universitet i fire år. Etter universitet benytte jeg å jobbe i Zhengzhou som er den største byen i min provins.  Etterpå flyttet jeg til Shanghai for en ny jobb og bestemte å studere min mastergrad i utlandet. Etter ett år kom jeg til Norge for masterstudiet mitt.  Nå bor og jobber jeg i Oslo, Norge.
+b) Fortell om noe som er annerledes her enn andre steder du har bodd.
+Jeg tror at Oslo og Shanghai er like, fordi de er både internasjonale og rike, men de har mange forskjeller. Shanghai er stor og flatt, men Oslo ligger nær fjellet og naturen for den er ikke flatt og har begrenset område. Shanghai har rundt 30 millioner mennesker som kommer fra hele landet. Oslo har langt mindre befolkning for du føler ikke overfylt unntatt i sentrum. Jeg tror at Oslo har større del av utlendinger enn Shanghai. Det er mange flyktninger i Oslo men Shanghai mottar ikke flyktning nå.
+c) Hva slags folkegrupper er bosatt i landet du kommer fra? Er det mange som flytter til eller fra landet?
+Det er 56 etniske grupper i Kina. HAN er den som har majoritetsbefolkningen. Andre har minoritetsbefolkning. Noen grupper har sine egne språk, ord og spesielle tradisjoner. Alle grupper har bodd i Kina i tusenvis av år og de er urfolk. I Kina har vi ikke mange innvandringer, men vi har mange utvandringen til utland. Før 1980 hadde noen krig, politiske eller økonomiske grunner til å dra. Nå studerer mange student utland og jobbe der etterpå. Kanskje jeg vil bli en utvandring hvis jeg trives i Norge.
+

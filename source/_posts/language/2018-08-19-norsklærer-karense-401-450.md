@@ -10,6 +10,39 @@ tags: Karense, norsk, note
 
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 
+##426: 
+
+##
+
+## 420-421: Hurra for deg
+Den norske bursdagssangen
+1. Vers:
+Hurra for deg som fyller ditt år!
+Ja, deg vil vi gratulere!
+Alle i ring omkring deg vi står,
+og se, nå vil vi marsjere.
+Bukke nikke neie, snu oss omkring,
+Danse for deg med hopp og sprett og spring.
+Ønske deg av hjertet alle gode ting!
+Og si meg så, hva vil du mere?
+Gratulere!
+
+2. Vers:
+Høyt våre flagg vi svinger. Hurra!
+Ja, nå vil vi riktig feste!
+Dagen er din, og dagen er bra,
+men du er den aller beste!
+Se deg om i ringen, hvem du vil ta!
+Dans en liten dans med den du helst vil ha!
+Vi vil alle sammen svinge oss så glad:
+En av oss skal bli den neste!
+Til å feste!
+
+
+## 419: På besøk hos nordmenn
+Norsksiden: https://norsksiden.wordpress.com/om/
+Besøk hos nordmenn: https://norsksiden.wordpress.com/2018/04/28/pa-besok/
+
 ## 418: Ja vel! Bruk av ordet VEL
 
 Vel: inne i setningen selvfølgelighet
