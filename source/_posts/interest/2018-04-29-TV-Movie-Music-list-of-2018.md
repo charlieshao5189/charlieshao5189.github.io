@@ -26,6 +26,8 @@ tags: 2018,TV,Movie,Music,List
 - [x] Dangal
 - [x] Mission: Impossible-Fallout -20180803 IMAX 
 - [x] Thelma 
+- [x] 一出好戏
+
 
 ## TV
 - [x] The End of the F\*\*\*ing World S1
