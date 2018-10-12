@@ -12,7 +12,11 @@ Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 
 ##426: 
 
-##
+##425:
+
+##424:
+
+##423:
 
 ## 420-421: Hurra for deg
 Den norske bursdagssangen
