@@ -52,3 +52,19 @@ Det er 56 etniske grupper i Kina. HAN er ~~den som har~~ majoritetsbefolkningen.
 en annen by
 ei anna hytte
 et annet hus
+
+# 2018-09-30 UkE6 lekse: Snømannen av Jo Nesbø
+
+Da jeg var ung, leste jeg mange historier om Sherlock Holmes fra Conan Doyle. Etterpå ble jeg en stor fan av detektivromaner. Mange norske venne**r**~~ne~~ ~~mine~~ fortalte ~~til~~ meg at kriminelle romaner er veldig populære i Norge. Det er koselig å lese ei interessant bok når mennesker ta**r** juleferie ~~i~~***på** hytta. Mange forfatter**e** skriver romaner i Norge, men Jo Nesbø er kjent for sine detektivbøker.
+UKE6 Boka Snømannen fra Jo Nesbø
+For to uker siden, leste jeg boka Snømannen som er en av Jo Nesbøs mest kritikerroste, prisbelønte og mest solgte bøker. Jeg synes at den er ~~veldig~~ fantastisk. Historien er sjokkerende og komplisert. Den beskrive**r** om hvordan politiførstebetjent Harry Hole finner en seriemorder som dreper kviner. Morderen er grusom og han lager snømenn hver gang ~~for snømenn bli kallenavn for ham~~. ***Derfor blir Snømannen kallenaven ham**. Harry Hole er smart og modig, men han er også ~~alkoholistisk~~**alkoholiker** og dårlig ***til** å holde ~~seg~~**det** hemmelig. Han leder en liten gruppe og de finner nesten det ~~sanne~~ ekte mordet flere ganger, men de blir vist uskyldige senere. Til slutt finner ~~Han~~**Harry** at snømannen er forloveden til sin ex‐kjæreste. Snømannen **ble** gitt ut i 2007. Nesbø mottok Bokhandlerprisen for denne boken. I fjor den ble Hollywood‐film. Jeg skal se ~~på denne~~ filmen nest**e** uke.
+
+
+# 2018-10-14 Uke8 lekse: Utdanningssystem i Kina
+I Kina har vi et lignende utdanningssystem i forhold til Norge, men det er noen forskjeller. 
+Før barna begynner i barnehagen, blir de tatt vare på av foreldrene eller besteforeldrene sine. Når barn er tre år, gå de fleste i barnehagen. Det er frivillig og foreldrene må betale for barnehagen. 
+Etterpå har vi obligatorisk utdanning som er gratis. Elevene har plikt til å studere ni år. Den inneholder seks års grunnskole og tre års middelskole. Grunnskole og middelskole ligger normalt på forskjellige steder. Elevene får karakterer fra første trinn. Full karakter er hundre. Vi må lære forskjellige fagner på skoler. Grunnskole har Språk, Matematikk, Engelsk, Samfunn, Natur og vitenskap, Etikk, Gym, Kunst, Musikk og IT. Middleskole legger til Biologi, Geografi, Historie og Fysisk.
+Videregående skolen er sammen i Kina, men hetter den høy middelskole. Den har ulike utdanningsprogrammer: studieforberedende utdanningsprogrammer og yrkesfaglige utdanningsprogrammer. Noen elever velger yrkesfaglige utdanningsprogrammer med forskjellige grunner. De blir lærer, sykepleier, elektriker etterpå. Flest velger studieforberedende å forberede seg på høyere utdanning. 
+Universitet Opptak Eksamen er vanligst måten å få studiekompetanse for å komme inn på universitet eller høyskole. Universitet Opptak Eksamen karakterer er viktige for alle elvene fordi konkurranse er intensiv. Da jeg ble uteksaminert fra høy middelskole i 2008, tok 10.05 million elever eksamen men bare 57% kan studere videre. Det det blir bedre de siste årene. I 2017, tok 9.40 million elever eksamenen, 74.46% fikk studiekompetanse til universitet eller høyskole. Jeg håpe at elver i Kina vil ha mer sjanser til å studere fordi utdanning er viktig for alle.
+
+
