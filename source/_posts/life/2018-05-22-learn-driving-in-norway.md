@@ -277,6 +277,29 @@ Q:
 2. 在sinsen转盘直行，在转盘内走的内侧（左侧）行车道，出转盘的时候出了右侧的行车道。应该保持左侧行车道出转盘。
 3. 回Økern的时候在出口处没有给信号灯，虽然前方很像一条路分成两个车道，但是实际是个出口。下次要注意观察出口的路牌，确认是出口给信号灯。
 
+## October 24，2018 周三
+
+今天五点半起床，算是今年之最了。在Mortensrud地铁站跟教练去Nesoddtangen上Glattkjøringskurs. 课程分为理论问题-滑路面练习-速度安全-总结。虽然挪威晚上已经开始结冰，但是我们驾驶的结冰路面是靠水和油模拟的。练习的过程中回答问卷写下自己的体验，很有寓教于乐的意味。 
+
+## October 30, 2018 周四 
+
+今天晚上上了黑暗驾驶课。按照挪威的法律十月之前考驾照是不用上这门课的，可以十月份之后再补。本以为十月之前能搞定的驾照，结果拖拖拉拉还是熬到了必须要在考驾照之前上这门课。课程还是全程挪威语，我已经习以为常了。课程是理论+实践+总结。总结板书:
+
+Lysbruk og atferd ellers i mørket
+
+1. møting, innhenting og forbikjøring
+2. nødstop
+3. parkering
+4. riskofaktorer
+
+Ulykker og risiko ved kjøring i mørke
+
+1. Gående og bilførerens
+2. Stekning, fart og tid
+3. Sikstrekning på fjern og nærlys
+4. Klær og refleksutstyr
+
+
 
 # 安全检查 Safty Check Sikkerhetskontroll
 http://www.eco-trafikkskole.no/wp-content/uploads/2018/03/sikkerhetskontroll-av-bilen.pdf
