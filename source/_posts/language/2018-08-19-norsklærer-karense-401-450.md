@@ -10,13 +10,83 @@ tags: Karense, norsk, note
 
 Takk for dinne videoer Karense! Her er notat mitt om denne videoen:
 
-##426: 
+## 445: Når som helst, hva som helst, hvem som helst
 
-##425:
+Spørreord + som helst = fleksibelt, ikke ett svar
+Det er det samme hva som blir valgt.
 
-##424:
+Hva vil du spise?
+Hva som helst.
+Hvor vil du sitte?
+Hvor som helst.
+Hvem skal bestille?
+Hvem som helst.
+Når vil du komme?
+Når som helst.
 
-##423:
+
+## 426: 
+
+## 425:
+
+## 424:
+
+## 423: Rykter, sladder, sladrehank
+et rykte: ubekreftede opplysninger som sirkulerer
+Hun har et dårlig rykke.
+Hotellet har et godt rykke.
+Det går rykter om at Per skal sultte, stemmer det?
+Det går rykter om at Tina er gravid er det virkelig slik?
+Sladder: når rykker blir spredt.
+De snakker bare om sladder.
+Det er mye sladder på bygda.
+Hun er en sladrehank.
+Hvro for sladrer du om alt og aller? Pass på deg selv først.
+
+
+## 422: Særskrivig IFRA eller I FRA? IDAG eller I DAG?
+Uttrykk som begynner på
+AV FOR I MED OM OVER PÅ TIL
+skrives ofte i 2 ord.
+
+om bord: Gå om bord!
+om kapp: Skal vi løpe om kapp?
+på nytt: Jeg lager sjelden videoer på nytt.
+i hjel: Jeg lo meg i hjel!
+i alt: Gruppa består i alt av 20 personer.
+med mindre: Hun må gå, med mindre du kjører?
+av sted: Hun dro av sted.
+av dage: Tom er sin far opp av dage.
+for at: Jeg lager videoer for at du skal forstå bedre.
+for øvrig: Jeg har feber, men for øvrig er jeg ok.
+i morgen/i kveld/i dag/i fjor/i natt Jeg sov godt i natt.
+på langs: Line gikk Norge på langs alene.
+til bords: Sett dere til bords!
+til ands: Her til lands er det veldig kaldt!
+til stede: Hvor mange var til stede på møtet?
+om morgenen/dagen/nattet/høsten/sommeren
+Om sommeren er det sol, så med andre ord er det varmt.
+i hvert fall: Jeg skal i hvert fall dra!
+Vær så god: Trine har bakt, vær så god!
+i så fall: Hvis du kommer, er det i så fall hyggelig!
+
+viktige unntak:
+iblant: iblant drar vi til Sverige.
+imellom: Det jeg sier nå er kun oss imellom.
+istedenfor: (= i stedet for)
+Bjørn spiller istedenfor Jon.
+isteden: (= i stedet)
+Konserten var utsolgt, så vi gikk på kino isteden.
+imot: Jeg er imot at vi skal ha høyere bomavgifter.
+ifra: Si ifra nå du er i sentrum!
+Til slutt sier jeg takk!
+
+
+
+
+
+
+
 
 ## 420-421: Hurra for deg
 Den norske bursdagssangen

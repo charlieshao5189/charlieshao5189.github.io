@@ -41,7 +41,7 @@ Hvis alle har miljøvennlig liv, blir jorden bedre.
 God helse ~~mener~~**betyr** både fysisk og psykologisk helse, og begge er viktig ~~til~~**for** alle mennesker. Folk kan bli kalde eller alvorlig deaktivert på fysisk kropp. Vi har ingen kontroll over kroppen vår når vi er syk**e**. Psykologisk**e** problemer ligner på fysisk**e** problemer, og mennesker har ingen frihet til å kontroller ~~deres~~**sine** ~~villige~~**vilje**. Folk bør ta hensyn til begge deler.
 God helse kommer fra sunn livsstil. **For** ~~Å~~~***å** får god helse, bør folk spise sunn mat først. Jeg tror det er god**t** å spise grønnsak, men balansert ernæring fra mat er viktigere, fordi kroppen vår trenger ulike typer ernæring for drift. Jeg liker å spise forskjellig mat, ikke bare kjøtt eller grønsak**er**. Trening er også viktig for fysisk helse. Det er mange måter å trene på. Jeg liker å løpe og svømme ~~i~~**om** sommer. ~~I~~**om** vinter, liker jeg å gå på ski og slalåm. Hvis vi **ikke** føler **oss** ~~ikke~~ bra, er det viktig å besøk fastlege og ta ~~kroppseksamen~~**helseskjekk**. Jeg tror at godt forhold til familien og vennene er viktig for psykologisk helse, men det er nødvendig å søke profesjonell hjelp fra ~~psykologisk leger~~**psykologer** hvis du føler deg dårlig på bevegelse.
 
-# 2018-09-23 UkE5 lekse: Innvandring og utvandring
+## 2018-09-23 UkE5 lekse: Innvandring og utvandring
 a) Fortell hvor du har bodd før.
 Kina er mitt hjemland. Jeg ble ~~førdt~~**født** og vokste opp i Kina før jeg kom til Norge for tre år siden. Jeg bodde i fire byer da jeg bodde i Kina. Jeg har bodd i min hjemby i 18 år før jeg kom til ~~andre~~**en annen** by **for** å studere i universitet i fire år. Etter universitet benytte jeg å jobbe i Zhengzhou som er den største byen i min provins.  Etterpå flyttet jeg til Shanghai for en ny jobb og bestemte å studere min mastergrad i utlandet. Etter ett år kom jeg til Norge for masterstudiet mitt.  Nå bor og jobber jeg i Oslo, Norge.
 b) Fortell om noe som er annerledes her enn andre steder du har bodd.
@@ -53,14 +53,15 @@ en annen by
 ei anna hytte
 et annet hus
 
-# 2018-09-30 UkE6 lekse: Snømannen av Jo Nesbø
+## 2018-09-30 UkE6 lekse: Snømannen av Jo Nesbø
 
 Da jeg var ung, leste jeg mange historier om Sherlock Holmes fra Conan Doyle. Etterpå ble jeg en stor fan av detektivromaner. Mange norske venne**r**~~ne~~ ~~mine~~ fortalte ~~til~~ meg at kriminelle romaner er veldig populære i Norge. Det er koselig å lese ei interessant bok når mennesker ta**r** juleferie ~~i~~***på** hytta. Mange forfatter**e** skriver romaner i Norge, men Jo Nesbø er kjent for sine detektivbøker.
 UKE6 Boka Snømannen fra Jo Nesbø
 For to uker siden, leste jeg boka Snømannen som er en av Jo Nesbøs mest kritikerroste, prisbelønte og mest solgte bøker. Jeg synes at den er ~~veldig~~ fantastisk. Historien er sjokkerende og komplisert. Den beskrive**r** om hvordan politiførstebetjent Harry Hole finner en seriemorder som dreper kviner. Morderen er grusom og han lager snømenn hver gang ~~for snømenn bli kallenavn for ham~~. ***Derfor blir Snømannen kallenaven ham**. Harry Hole er smart og modig, men han er også ~~alkoholistisk~~**alkoholiker** og dårlig ***til** å holde ~~seg~~**det** hemmelig. Han leder en liten gruppe og de finner nesten det ~~sanne~~ ekte mordet flere ganger, men de blir vist uskyldige senere. Til slutt finner ~~Han~~**Harry** at snømannen er forloveden til sin ex‐kjæreste. Snømannen **ble** gitt ut i 2007. Nesbø mottok Bokhandlerprisen for denne boken. I fjor den ble Hollywood‐film. Jeg skal se ~~på denne~~ filmen nest**e** uke.
 
 
-# 2018-10-14 Uke8 lekse: Utdanningssystem i Kina
+## 2018-10-14 Uke8 lekse: Utdanningssystem i Kina
+
 I Kina har vi et lignende utdanningssystem i forhold til Norge, men det er noen forskjeller. 
 Før barna begynner i barnehagen, blir de tatt vare på av foreldrene eller besteforeldrene sine. Når barn er tre år, gå de fleste i barnehagen. Det er frivillig og foreldrene må betale for barnehagen. 
 Etterpå har vi obligatorisk utdanning som er gratis. Elevene har plikt til å studere ni år. Den inneholder seks års grunnskole og tre års middelskole. Grunnskole og middelskole ligger normalt på forskjellige steder. Elevene får karakterer fra første trinn. Full karakter er hundre. Vi må lære forskjellige fagner på skoler. Grunnskole har Språk, Matematikk, Engelsk, Samfunn, Natur og vitenskap, Etikk, Gym, Kunst, Musikk og IT. Middleskole legger til Biologi, Geografi, Historie og Fysisk.
