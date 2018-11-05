@@ -277,6 +277,17 @@ Q:
 2. 在sinsen转盘直行，在转盘内走的内侧（左侧）行车道，出转盘的时候出了右侧的行车道。应该保持左侧行车道出转盘。
 3. 回Økern的时候在出口处没有给信号灯，虽然前方很像一条路分成两个车道，但是实际是个出口。下次要注意观察出口的路牌，确认是出口给信号灯。
 
+## October 10 and 17, 2018
+
+这两天的课主要是对Trinn3的考核。考核的要求:
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:
+
+-安全 er trafikksikker 
+-交互 gir god samhandling
+-感知 fører til god trafikkavvikling
+-环保 tar hensyn til helse, miljø og andres behov
+-规则 er i samsvar med gjeldende regelver
+
 ## October 24，2018 周三
 
 今天五点半起床，算是今年之最了。在Mortensrud地铁站跟教练去Nesoddtangen上Glattkjøringskurs. 课程分为理论问题-滑路面练习-速度安全-总结。虽然挪威晚上已经开始结冰，但是我们驾驶的结冰路面是靠水和油模拟的。练习的过程中回答问卷写下自己的体验，很有寓教于乐的意味。 
@@ -298,6 +309,174 @@ Ulykker og risiko ved kjøring i mørke
 2. Stekning, fart og tid
 3. Sikstrekning på fjern og nærlys
 4. Klær og refleksutstyr
+
+
+## November 2, 2018 周五
+
+周五晚上上了，Trinn4的课程，本以为课程马上就要结束了，很激动结果一不小心提前两小时到了（好吧，我承认是我看错时间了，捂脸。）。事实证明我错了，教练讲了Trinn4包含的内容:
+
+1. Sikkerhetskurs
+
+这个课程主要是安全教育，目的是普及安全的知识，放了很多的车祸的图片和潜在的危险场景。就是今天晚上讲的主要课程。
+
+2. 明天 9点到12.45的 Kjøring i landeveismiljø 也叫长距离驾驶
+
+3. 4小时的自规划驾驶任务
+
+学员要自我规划驾驶路线，在规定的要求下成驾驶任务。
+
+4. Refleksjon og oppsummering 2t
+
+## November 3, 2018 周六
+
+今天进行长距离驾驶，今天的主要目的是练习驾驶中的规划能力。
+
+因为今天有薄雾，额外问了教练关于雾灯使用的时机。薄雾一般在市区内没必要用雾灯，容易给其他车辆造成疑惑。在乡村地区必须用，因为速度快。大雾能见度很低的情况下必须用。
+
+开始之前教练先问了我今天的计划，想学到什么，记录如下:
+
+1. 获得长距离/长时间的驾驶经验
+
+2. 学习怎样应对疲劳
+
+3. 怎样在不同的驾驶环境之间切换，感受不同
+
+开始正式驾驶，期间分了几段，每次中间在加油站休息十几分钟左右。
+---------------------------------
+Økern til Nesoddtangen
+
+1. First roundabout did not see well, coach breach hard.
+
+2. There is a trak drove slowly in fron, I should plan early to take over it.
+
+3. I should check outdoor temperature temperature befor driving。 The temperature is 0 degree，so ice may appear on the road.
+
+4. Check car condtion: fule, tires
+
+5. Speed control, try to mentain 2 below speed limit. When downhill or uphill, plan early to make speed stable.
+
+6. Position car not too close to left side.
+
+7. Keep lane technique need to be improved, the wheel steering technique.
+
+--------------------------------------
+Nesoddtangen til dørbak
+
+1. Stop compeletely before turnning left, only pass when no car is coming.
+
+2. Use oppiste hand start to turn wheel then turn with double hands.
+
+3. Set turnning sign without release left hand on wheel.
+
+Plan requirements:
+
+1. Plan early when turn
+
+2. Plan early when the landskape change
+
+--------------------------------------
+Dørbak til Ski
+
+1. meet motor road closed condition, how to handle.
+
+2. Speed control in curved road condition.
+
+3. Find proper parking place, plan when enter gas station or parking land. Pay attetion to parking type.
+
+4. The difference of contryside road and city road
+
+* Speed limit
+
+* environment: curvedroad, view
+
+* peoples
+
+---------------------
+Ski til Økern
+
+1. How to handle tired, neck and back.
+Go outside car, breath fresh air and stretch body.
+
+
+## November 4, 2018 周日
+
+昨天和教练约好周二进行驾驶任务。今天进行了规划。
+任务: Planlegging av andre kjøring. Tur A
+Du er VIP sjåfør og har med deg 3 VIP'er.
+
+1. Den føst skal til Oslo sentralstasjon og rekke et tog. Toget går 20 min etter at vi har dratt.
+
+2. Den andre skal til Bjerke travbane og rekke et møte. Møte starter 15 min etter at vi drar fra Oslo S.
+
+3. Den tredje skal rekke et fly fra Oslo lufthavn Gardermoen. Nå er E6 nordover stengt grunnet er trafikuhell. Flyet gå om 50 min.
+
+
+驾驶的要求:
+
+# Hva skal planleggingen inneholde?
+
+1. Du skal kunne finne frem på egen hånd.
+
+2. Du skal kunne kontrollere om du og bilen er klar for en lang tur.
+
+3. Hva kan du forvente deg av trafikken og miljøet på veien?
+
+4. Hvor mye tid har du til rådighet?
+
+5. Hvor mye drivstoff skak du bruke?
+
+
+计划:
+驾驶车辆: ZOE 4.0 41kWh with 300Km
+驾驶的时间: 12+13+47+31= 1t43m
+驾驶的里程: 5.3+5.8+47.3+45= 103.4Km
+所需燃料: 103.4*41/300=14.2kWh
+驾驶路线:
+
+## Økern til Oslo S 
+
+Time: 12min
+Distance: 5.3km
+
+1. Take Økernvien from Økern, following sign board and heading to Tøyen.
+
+2. Turn left lane to Fv4 heading to Ring1(Sentrum). 
+
+3. Sentralstsjon parking place
+
+## Oslo S til Bjerke travbane
+
+Time: 13min
+Distance 5.8km
+
+1. Turn left to Nylandsvein heading to C.Berners. pl
+
+2. Bjerke travbane til Gardermoen
+
+3. Heading to Gjøvik
+
+4. Drive out motorway to Bjerkebanen.
+
+## Bjerke travbane til Gardermon
+Time: 47min
+Distance: 47.3Km
+
+1. Bjerkebanen take Trondheimvein til Lillestrøm(22) direction.
+
+2. Change to 120 Nannestad direction. (oppsited direction is Lilllestrøm)
+
+3. Change to E16 Gardermon direction
+
+## Oslo Lufthaven til Økern
+
+Time: 31min
+Distance: 45Km
+
+1. Oslo Lufthaven til E6 Oslo direction
+
+2. Choose E6 E18 Ring3 exit.
+
+3. Heading to Sinsen and swithch to Økern before Sinsen.
 
 
 
