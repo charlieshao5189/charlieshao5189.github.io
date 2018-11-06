@@ -413,7 +413,7 @@ Du er VIP sjåfør og har med deg 3 VIP'er.
 
 驾驶的要求:
 
-# Hva skal planleggingen inneholde?
+### Hva skal planleggingen inneholde?
 
 1. Du skal kunne finne frem på egen hånd.
 
@@ -433,7 +433,7 @@ Du er VIP sjåfør og har med deg 3 VIP'er.
 所需燃料: 103.4*41/300=14.2kWh
 驾驶路线:
 
-## Økern til Oslo S 
+### Økern til Oslo S 
 
 Time: 12min
 Distance: 5.3km
@@ -444,28 +444,29 @@ Distance: 5.3km
 
 3. Sentralstsjon parking place
 
-## Oslo S til Bjerke travbane
+### Oslo S til Bjerke travbane
 
 Time: 13min
 Distance 5.8km
 
 1. Turn left to Nylandsvein heading to C.Berners. pl
 
-2. Bjerke travbane til Gardermoen
+2. Heading to Gjøvik
 
-3. Heading to Gjøvik
+3. Drive out motorway to Bjerkebanen.
 
-4. Drive out motorway to Bjerkebanen.
+### Bjerke travbane til Gardermon
 
-## Bjerke travbane til Gardermon
 Time: 47min
 Distance: 47.3Km
 
 1. Bjerkebanen take Trondheimvein til Lillestrøm(22) direction.
 
-2. Change to 120 Nannestad direction. (oppsited direction is Lilllestrøm)
+2. Change to Trondheimsveien heading to Skedsmokorset. 
 
-3. Change to E16 Gardermon direction
+3. Change to 120 Nannestad direction. (oppsited direction is Lilllestrøm)
+
+4. Change to E16 Gardermon direction
 
 ## Oslo Lufthaven til Økern
 
