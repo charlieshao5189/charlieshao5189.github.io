@@ -38,10 +38,12 @@ Norge har mange mange naturressurser, så springvann og elektrisitet er billig i
 Hvis alle har miljøvennlig liv, blir jorden bedre.
 
 ## 2018-09-16 UKE4 lekse: Om helsa
+
 God helse ~~mener~~**betyr** både fysisk og psykologisk helse, og begge er viktig ~~til~~**for** alle mennesker. Folk kan bli kalde eller alvorlig deaktivert på fysisk kropp. Vi har ingen kontroll over kroppen vår når vi er syk**e**. Psykologisk**e** problemer ligner på fysisk**e** problemer, og mennesker har ingen frihet til å kontroller ~~deres~~**sine** ~~villige~~**vilje**. Folk bør ta hensyn til begge deler.
 God helse kommer fra sunn livsstil. **For** ~~Å~~~***å** får god helse, bør folk spise sunn mat først. Jeg tror det er god**t** å spise grønnsak, men balansert ernæring fra mat er viktigere, fordi kroppen vår trenger ulike typer ernæring for drift. Jeg liker å spise forskjellig mat, ikke bare kjøtt eller grønsak**er**. Trening er også viktig for fysisk helse. Det er mange måter å trene på. Jeg liker å løpe og svømme ~~i~~**om** sommer. ~~I~~**om** vinter, liker jeg å gå på ski og slalåm. Hvis vi **ikke** føler **oss** ~~ikke~~ bra, er det viktig å besøk fastlege og ta ~~kroppseksamen~~**helsesjekk**. Jeg tror at godt forhold til familien og vennene er viktig for psykologisk helse, men det er nødvendig å søke profesjonell hjelp fra ~~psykologisk leger~~**psykologer** hvis du føler deg dårlig på bevegelse.
 
-## 2018-09-23 UkE5 lekse: Innvandring og utvandring
+## 2018-09-23 UKE5 lekse: Innvandring og utvandring
+
 a) Fortell hvor du har bodd før.
 Kina er mitt hjemland. Jeg ble ~~førdt~~**født** og vokste opp i Kina før jeg kom til Norge for tre år siden. Jeg bodde i fire byer da jeg bodde i Kina. Jeg har bodd i min hjemby i 18 år før jeg kom til ~~andre~~**en annen** by **for** å studere i universitet i fire år. Etter universitet benytte jeg å jobbe i Zhengzhou som er den største byen i min provins.  Etterpå flyttet jeg til Shanghai for en ny jobb og bestemte å studere min mastergrad i utlandet. Etter ett år kom jeg til Norge for masterstudiet mitt.  Nå bor og jobber jeg i Oslo, Norge.
 b) Fortell om noe som er annerledes her enn andre steder du har bodd.
@@ -53,19 +55,66 @@ en annen by
 ei anna hytte
 et annet hus
 
-## 2018-09-30 UkE6 lekse: Snømannen av Jo Nesbø
+## 2018-10-07 UKE6 lekse: Snømannen av Jo Nesbø
 
 Da jeg var ung, leste jeg mange historier om Sherlock Holmes fra Conan Doyle. Etterpå ble jeg en stor fan av detektivromaner. Mange norske venne**r**~~ne~~ ~~mine~~ fortalte ~~til~~ meg at kriminelle romaner er veldig populære i Norge. Det er koselig å lese ei interessant bok når mennesker ta**r** juleferie ~~i~~***på** hytta. Mange forfatter**e** skriver romaner i Norge, men Jo Nesbø er kjent for sine detektivbøker.
 UKE6 Boka Snømannen fra Jo Nesbø
 For to uker siden, leste jeg boka Snømannen som er en av Jo Nesbøs mest kritikerroste, prisbelønte og mest solgte bøker. Jeg synes at den er ~~veldig~~ fantastisk. Historien er sjokkerende og komplisert. Den beskrive**r** om hvordan politiførstebetjent Harry Hole finner en seriemorder som dreper kviner. Morderen er grusom og han lager snømenn hver gang ~~for snømenn bli kallenavn for ham~~. ***Derfor blir Snømannen kallenaven ham**. Harry Hole er smart og modig, men han er også ~~alkoholistisk~~**alkoholiker** og dårlig ***til** å holde ~~seg~~**det** hemmelig. Han leder en liten gruppe og de finner nesten det ~~sanne~~ ekte mordet flere ganger, men de blir vist uskyldige senere. Til slutt finner ~~Han~~**Harry** at snømannen er forloveden til sin ex‐kjæreste. Snømannen **ble** gitt ut i 2007. Nesbø mottok Bokhandlerprisen for denne boken. I fjor den ble Hollywood‐film. Jeg skal se ~~på denne~~ filmen nest**e** uke.
 
+## 2018-10-14 UKE7 lekse: Utdanningssystem i Kina
 
-## 2018-10-14 Uke8 lekse: Utdanningssystem i Kina
+I Kina har vi et lignende utdanningssystem **som** ~~i~~ forhold til Norge, men det er noen forskjeller. 
+Før barna begynner i barnehagen, blir de tatt vare på av foreldrene eller besteforeldrene sine. Når barn er tre år, gå**r** de fleste i barnehagen. Det er frivillig og foreldrene må betale for barnehagen. 
+Etterpå har vi obligatorisk utdanning som er gratis. Elevene har plikt til å studere ni år. Den inneholder seks års grunnskole og tre års middelskole. Grunnskole og middelskole ligger normalt på forskjellige steder. Elevene får karakterer fra første trinn. ~~Full~~ **Høyeste** karakter er hundre. Vi må lære forskjellige fag~~ner~~ på skoler. Grunnskole har ^~~Språk, Matematikk, Engelsk, Samfunn, Natur og vitenskap, Etikk, Gym, Kunst, Musikk og IT~~ **språk, matematikk, engelsk, samfunn, natur og vitenskap, etikk, gym, kunst, musikk og IT**. Middleskole legger til ~~Biologi, Geografi, Historie og Fysisk~~ **biologi, geografi, historie og fysisk**.
+Videregående skolen er ~~sammen~~**lignende** i Kina, men het~~t~~er ~~den~~ høy middelskole. Den har ulike utdanningsprogrammer: studieforberedende utdanningsprogrammer og yrkesfaglige utdanningsprogrammer. Noen elever velger yrkesfaglige utdanningsprogrammer med forskjellige grunner. De blir lærer**e**, sykepleier**e**, elektriker**e** etterpå. Flest velger studieforberedende ~~å~~**og** forberede**r** seg på høyere utdanning. 
+~~Universitet Opptak Eksamen~~ **Universitetopptakseksamen** er vanligst**e** måten å **på** få studiekompetanse for å komme inn på universitet eller høyskole. ~~Universitet Opptak Eksamen karakterer~~ **Karakterer fra Universitetopptakseksamen** er viktige for alle ~~elvene~~ **elevene** fordi konkurranse**n** er intensiv. Da jeg ble uteksaminert fra høy middelskole i 2008, tok 10.05 million elever eksamen **,** men bare 57% kan studere videre. Det det ~~blir~~ **har blitt** bedre de siste årene. I 2017, tok 9.40 million elever eksamenen, 74.46% fikk studiekompetanse til universitet eller høyskole. Jeg håpe at ~~elver~~**elever** i Kina vil ha ~~mer~~**flere** sjanser til å studere fordi utdanning er viktig for alle.
 
-I Kina har vi et lignende utdanningssystem i forhold til Norge, men det er noen forskjeller. 
-Før barna begynner i barnehagen, blir de tatt vare på av foreldrene eller besteforeldrene sine. Når barn er tre år, gå de fleste i barnehagen. Det er frivillig og foreldrene må betale for barnehagen. 
-Etterpå har vi obligatorisk utdanning som er gratis. Elevene har plikt til å studere ni år. Den inneholder seks års grunnskole og tre års middelskole. Grunnskole og middelskole ligger normalt på forskjellige steder. Elevene får karakterer fra første trinn. Full karakter er hundre. Vi må lære forskjellige fagner på skoler. Grunnskole har Språk, Matematikk, Engelsk, Samfunn, Natur og vitenskap, Etikk, Gym, Kunst, Musikk og IT. Middleskole legger til Biologi, Geografi, Historie og Fysisk.
-Videregående skolen er sammen i Kina, men hetter den høy middelskole. Den har ulike utdanningsprogrammer: studieforberedende utdanningsprogrammer og yrkesfaglige utdanningsprogrammer. Noen elever velger yrkesfaglige utdanningsprogrammer med forskjellige grunner. De blir lærer, sykepleier, elektriker etterpå. Flest velger studieforberedende å forberede seg på høyere utdanning. 
-Universitet Opptak Eksamen er vanligst måten å få studiekompetanse for å komme inn på universitet eller høyskole. Universitet Opptak Eksamen karakterer er viktige for alle elvene fordi konkurranse er intensiv. Da jeg ble uteksaminert fra høy middelskole i 2008, tok 10.05 million elever eksamen men bare 57% kan studere videre. Det det blir bedre de siste årene. I 2017, tok 9.40 million elever eksamenen, 74.46% fikk studiekompetanse til universitet eller høyskole. Jeg håpe at elver i Kina vil ha mer sjanser til å studere fordi utdanning er viktig for alle.
+## 2018-10-21 UKE8 lekse:Min Arbeidssøker Erfaringer i Norge
 
+Tid og måter
+Jeg begynte å søk**e** jobb halvt år før jeg **ble** uteksaminert fra universitet. Jeg var opptatt av masteroppgave fordi det er viktig for min ~~master grade~~**mastergrade**, men ~~sendte jeg~~ **jeg sendte** jobbsøknad til mi**n**st et firma hver dag. Hvor finner **man** arbeidsinformasjon? Jeg registrert**e** mine interessante jobber på nettsidene finn.no og linkedin.com, så kan jeg få arbeidsinformasjon **per** e-post ~~hverdag~~ **hver dag**. Hvis jobben passer meg, skal jeg skrive en søknad og sende til arbeidsgiveren med CV. ~~Da~~**Dersom** firma var interessant~~e~~**,** men **ikke** hadde ~~det ikke~~ jobben **som** passer meg, sendte jeg også åpen jobbsøknad.
+CV og søknad
+Jeg laget en klar og enkel CV med LaTex mal. Den er bare en side og har viktig informasjon om meg selv. Jeg brukt**e** denne CVen for alle jobbsøknader. Jeg ~~tror~~**synes/mener** referanser er veldig viktig. De må være noen **som** kjenner deg godt. Mine referanser er ~~læren~~**læreren** og vennen som jeg jobbet sammen med. Før jeg ~~skrive~~**skrev** en søknad, ~~må~~**måtte** jeg samle informasjon om selskapet og posisjonen fra internett. Jeg ~~skrive min grunn til å velge~~ **skrev hvorfor jeg valgte** denne jobben i søknad**en**.
+Intervju
+Dersom **et** firma er interessert i deg, skal du får sjanser for intervju. Intervju har normalt flere runder og kandidat**en** skal snakk**e** med flere personer. Jeg tror at spørsmålene ligner på forskjellige intervjuer. Kandidaten bør tenke **seg** om og forberede spørsmålene før han/hun deltar i intervju. Jeg fikk også programmeringsoppgaver eller presentasjon da jeg tok intervju~~e~~. 
+Det er ikke lett å finne jobb i Norge, men ~~er det~~ det er mulig hvis du er flittig og heldig. 
 
+## 2018-10-21 UKE10 lekse: Top 5 feil
+
+1. Lignende Ord
+Nå og når
+Nå jobber jeg med ~~norsk leksen~~~ **norskleksen** min. (now)
+Jeg liker å løpe når jeg er ferdig med arbeidet mitt. (when)
+Liten og få
+liten-mindre-minst
+få-færre-færrest
+Jeg tror ikke det er bra fordi forholdet mellom slektninger blir mindre tett.
+I dag vil unge mennesker ha mindrefærre barn.
+2. Annen/anna/annet
+En annen by/ Ei anna hytta/ Et annet hus
+3. Plassering av Ikke
+Jeg tror ikke det er ikkebra fordi forholdet mellom slektninger blir mindre tett.
+Jeg tror ikke dette er ikke grunn til at vi kan kaste bort dem.
+Hvis vi ikke føler oss ikke bra, er det viktig å besøk fastlege og ta helsesjekk.
+4. Adjektiv av Substantiv
+Vi har ingen kontroll over kroppen vår når vi er syke.
+Psykologiske problemer ligner på fysiske problemer.
+Jeg tror det er godt å spise grønnsak.
+5. Preposisjon
+På Kongsberg/Oslo
+I Nydalen
+I Norge/Kina
+I hjemland
+Om vinter/summer
+På kontor
+I hus
+
+## 2018-11-11 UKE11 lekse: Landet eller Byen? 
+
+Da jeg var barn bodde jeg med familien min~e~ på landet. Naturen ~~i~~**på** landet er vakker.  Jeg ~~spilte~~ ofte med vennene mine ~~i~~**på** landet. Vi gikk til elven og svømte sammen. Det er flere ~~byr~~**dyr** og planter ~~i~~**på** landet. Jeg jaktet kanin flere ganger**,** men det var veldig vanskelig. Forelderen~~e~~ mine ~~ikke~~ jobb **ikke** fulltid på jordbruk fordi vi hadde ikke så mye jord. Landet er enkelt og stille ~~for det~~**og** passer for barn og eldre. 
+Jeg like landet, men nå vil jeg helst bo i byen. Jeg har flere grunner **for** å bo i byen.
+Først tro**r** jeg byen er beleilig. Det er vanlig at byen har bussterminal~~en~~ og jernbanestasjonen. Store byer har lufthavner. Folk har forskjellig må**t**ner for å reise til andre steder **på**. Det er også vanlig at byen har internt kollektivtransportsystem, for eksempel, bus**s**, trikk, T-bane og taxi. På landet har mennesker færre valg.
+**En** ~~Andre~~**annen** ~~grunnen~~**grunn** er at byen har mange jobbplasser.  Jeg må komme til byen og finne jobb da jeg ble uteksaminert fra universitetet. De fleste selskapene er i byen i stedet for landet. Landet har bare jobber ~~om~~**relatert til** jordbruk. 
+Sist, men ikke minst er bylivet rikelig. Folk har ~~mange~~**mye** å gjøre ~~på fritid~~**i fritiden** i byen. Jeg like**r** å delta ~~til~~**i** aktiviteter på forskjellig steder med venner, 
+for eksempel, gym, museum, kino, teater, bibliotek og park. Det er mange restauranter i byen ~~for~~~**hvor** folk kan prøve mat fra andre steder.
+Nå trives jeg i byen, men kanskje jeg skal bo ~~i~~**på** landet når jeg blir ~~pensjonert~~**pensjonist**.
