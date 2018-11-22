@@ -118,3 +118,18 @@ Først tro**r** jeg byen er beleilig. Det er vanlig at byen har bussterminal~~en
 Sist, men ikke minst er bylivet rikelig. Folk har ~~mange~~**mye** å gjøre ~~på fritid~~**i fritiden** i byen. Jeg like**r** å delta ~~til~~**i** aktiviteter på forskjellig steder med venner, 
 for eksempel, gym, museum, kino, teater, bibliotek og park. Det er mange restauranter i byen ~~for~~~**hvor** folk kan prøve mat fra andre steder.
 Nå trives jeg i byen, men kanskje jeg skal bo ~~i~~**på** landet når jeg blir ~~pensjonert~~**pensjonist**.
+
+## 2018-11-18 UKE12 lekse: Verden ser ut om femti år
+
+Mange mennesker ~~synes~~**tror** at verden skal bli dårligere i framtida fordi vi har så mange utfordringer nå. ~~En store~~**Et stort** spørsmål er ~~fra~~ olje og gass. De er ikke-fornybare energier, så de skal bli flære og flære. Vi skal ~~har~~**har** ~~energi krise~~ **energikrise** hvis vi ~~har ikke~~**ikke har** erstatninger. Bruken av olje og gass lager CO2 som er en stor årsak til klimaendringer. Dersom vi bruker dem som nå, skal temperaturen bli høyere. Forurensing er også et stort spørsmål nå. Det skjer i både folks liv og industriproduksjon. Miljøet skal bli verre med forurensing. Kanskje ~~skal~~ jorda bli**r** **et sted som** ikke passer ~~for~~**å** bo.  
+Det er sant at vi har mange miljøspørsmål, men jeg tror verden skal bli bedre om femti år. Vi har mange fornybare energier i stedet for olje og gass.  Nye energier, for eksempel, vindkraft, solkraft, kjernekraft, skal bli billigere og sikrere med teknologiutvikling. Mennesker begynner å forstå hvordan ~~kan vi~~**vi kan** bo i miljøvennlige måter. I Norge er søppel ~~klassifisert~~**sortert**. Jeg tror det er en fin måte å redusere forurensing fra folks liv. I Kina oppfordrer regjeringen selskaper til å oppgrader måter av produksjon for **at** industri kan bli mer miljøvennlige.
+Alle skal bli en del av fremtida for alle har ansvar for å ta vare på miljøet. ~~Hvordan~~**Hva** vi gjører nå bestemme ~~hva~~**hvordan** skal verden ser ut om femti år. 
+
+- tror/synes/tenke/mene/føle
+- syntaks
+- nå vs når
+- moderer bruk av "skal"
+- Fremtid:
+1) modalverb + infinitiv, vil/må jobbe/reise
+2) presens
+
